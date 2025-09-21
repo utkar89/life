@@ -32,7 +32,7 @@
       <div class="user-icon hidden" id="userAvatar">U</div>
     </div>
     <!-- Mobile-only Fire Roadmap Button -->
-<a href="#" class="fire-btn mobile-roadmap roadmap-trigger protected" aria-label="Roadmap AI/ML">
+<a href="#" class="fire-btn mobile-roadmap roadmap-trigger protected no-lock-icon" aria-label="Roadmap AI/ML">
   <svg viewBox="0 0 500 80" class="fire-svg">
     <defs>
       <linearGradient id="fireGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -60,7 +60,7 @@
     <nav class="nav-links">
       <ul>
         <li><a href="index.html">HOME</a></li>
-        <li><a href="daily.html" class="protected">ROADMAP</a></li>
+<li><a href="#" class="protected roadmap-trigger">ROADMAP</a></li>
         <li><a href="2year.html" class="special protected">2 Years Challenge</a></li>
         <li><a href="projects.html" class="protected">PROJECTS</a></li>
         <li><a href="notes.html" class="protected">NOTES</a></li>
@@ -457,40 +457,44 @@ document.getElementById("typing-utkarsh").innerHTML = `<span>${letterUtkarsh}</s
 // ==================
  
 document.addEventListener("DOMContentLoaded", () => {
-  const roadmapBtn = document.querySelector('.roadmap-trigger'); 
-  const overlayRoadmapBtn = document.querySelector('.overlay-roadmap'); // 🔹 overlay menu roadmap
-  const roadmapModal = document.getElementById('roadmapModal');
-  const roadmapBackdrop = document.getElementById('roadmapBackdrop');
-  const roadmapClose = document.getElementById('roadmapClose');
+  // Pehle sirf ek button tha
+// const roadmapBtn = document.querySelector('.roadmap-trigger'); 
 
-  function openRoadmapModal(e) {
-    if (!auth.currentUser) {
-      e.preventDefault();
-      alert("⚠️ Please login first to access this page!");
-      openOverlay(e);
-      return;
-    }
+// ✅ Ab sabhi roadmap-trigger ko pakdo
+const roadmapBtns = document.querySelectorAll('.roadmap-trigger'); 
+const overlayRoadmapBtn = document.querySelector('.overlay-roadmap'); 
+const roadmapModal = document.getElementById('roadmapModal');
+const roadmapBackdrop = document.getElementById('roadmapBackdrop');
+const roadmapClose = document.getElementById('roadmapClose');
+
+function openRoadmapModal(e) {
+  if (!auth.currentUser) {
     e.preventDefault();
-    roadmapModal.classList.add('active');
+    alert("⚠️ Please login first to access this page!");
+    openOverlay(e);
+    return;
   }
+  e.preventDefault();
+  roadmapModal.classList.add('active');
+}
 
-  if (roadmapBtn && roadmapModal) {
-    roadmapBtn.addEventListener('click', openRoadmapModal);
-  }
-  if (overlayRoadmapBtn && roadmapModal) {
-    overlayRoadmapBtn.addEventListener('click', openRoadmapModal);
-  }
-
-  if (roadmapBackdrop && roadmapModal) {
-    roadmapBackdrop.addEventListener('click', () => roadmapModal.classList.remove('active'));
-  }
-
-  if (roadmapClose && roadmapModal) {
-    roadmapClose.addEventListener('click', () => roadmapModal.classList.remove('active'));
-  }
+// 🔹 sabhi roadmap-trigger buttons ke liye listener lagao
+roadmapBtns.forEach(btn => {
+  btn.addEventListener('click', openRoadmapModal);
 });
 
+if (overlayRoadmapBtn && roadmapModal) {
+  overlayRoadmapBtn.addEventListener('click', openRoadmapModal);
+}
 
+if (roadmapBackdrop && roadmapModal) {
+  roadmapBackdrop.addEventListener('click', () => roadmapModal.classList.remove('active'));
+}
+
+if (roadmapClose && roadmapModal) {
+  roadmapClose.addEventListener('click', () => roadmapModal.classList.remove('active'));
+}
+});
 </script>
 <!-- Roadmap Options Modal -->
 <div id="roadmapModal" class="modal" role="dialog" aria-modal="true">
