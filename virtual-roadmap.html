@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI/ML Engineer Roadmap</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    /* ===== GLOBAL / SAFETY ===== */
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      font-family: 'Orbitron', sans-serif;
+      color: #fff;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      background: linear-gradient(-45deg, #0f0c29, #302b63, #24243e, #1a1a1d);
+      background-size: 400% 400%;
+      animation: gradientBG 12s ease infinite;
+    }
+    @keyframes gradientBG {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    /* ===== H1 (normal cyan glow) ===== */
+    h1 {
+      text-align: center;
+      padding: 30px 10px;
+      font-size: 2.2rem;
+      color: #00e6ff;
+      text-shadow: 0 0 20px #00e6ff;
+      margin: 0;
+    }
+
+    /* ===== TIMELINE LAYOUT ===== */
+    .timeline {
+      position: relative;
+      max-width: 1100px;
+      margin: 0 auto 60px;
+      padding: 20px;
+    }
+
+    .container {
+      position: relative;
+      width: 50%;
+      padding: 20px 30px;
+      opacity: 0;
+      transform: translateY(30px);
+      transition: all 0.7s ease;
+      box-sizing: border-box;
+    }
+    .container.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .left  { left: 0; }
+    .right { left: 50%; }
+
+    .content {
+      background: rgba(0,0,0,0.7);
+      border: 2px solid #00e6ff;
+      padding: 20px;
+      border-radius: 12px;
+      position: relative;
+      box-shadow: 0 0 15px rgba(0,230,255,0.12);
+      min-height: 120px;
+    }
+
+    h3 { margin-top: 0; color: #00e6ff; }
+    p { margin-top: 10px; font-weight: bold; color: #fff; }
+    ul { margin: 10px 0 0 18px; font-size: 14px; line-height: 1.6; }
+
+    /* Number circle */
+    .container::before {
+      content: attr(data-step);
+      position: absolute;
+      top: 18px;
+      left: -60px;
+      width: 35px;
+      height: 35px;
+      border-radius: 50%;
+      background: #00e6ff;
+      color: #000;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 0 10px #00e6ff;
+      z-index: 3;
+    }
+
+    .container.right .content { margin-left: 20px; }
+    .container.left  .content { margin-right: 20px; }
+
+    /* projects containers: hide number and remove left reserved gap */
+    .container.projects::before { display: none !important; }
+    .container.projects { padding-left: 30px; }
+    .container.projects .content { margin-left: 0; }
+
+    /* ===== Typing CSS ===== */
+    .typing { border-right: 2px solid currentColor; white-space: nowrap; overflow: hidden; display: inline-block; }
+    .typing-topic { color: #00e6ff; font-weight: bold; }
+    .project-title { color: #ffcc00; font-weight: bold; }
+
+    /* ===== MOBILE ===== */
+    @media screen and (max-width: 768px) {
+      .timeline { width: 100%; padding: 0 10px 30px; margin: 10px auto 40px; }
+      .container { width: 100% !important; left: 0 !important; margin: 12px 0; padding: 12px 12px 12px 52px; font-size: 13px; }
+      .content { padding: 10px 12px; border-radius: 10px; }
+      h1 { font-size: 1.6rem; padding-top: 18px; }
+      .container h3 { font-size: 15px; margin: 0 0 6px; }
+      ul { font-size: 13px; margin-left: 16px; }
+      .container::before { left: 12px !important; top: 14px; width: 26px !important; height: 26px !important; font-size: 12px; }
+      .left, .right { left: 0 !important; }
+      .container.projects { padding-left: 12px !important; }
+      .container.projects::before { display: none !important; }
+      html, body { overflow-x: hidden; }
+    }
+/* ==== BACK BUTTON ==== */
+.back-btn {
+  position: fixed;
+  top: 18px;
+  left: 18px;
+  background: rgba(0, 230, 255, 0.15);
+  border: 2px solid #00e6ff;
+  color: #00e6ff;
+  padding: 8px 16px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  z-index: 999;
+  box-shadow: 0 0 12px rgba(0, 230, 255, 0.3);
+}
+
+.back-btn:hover {
+  background: #00e6ff;
+  color: #000;
+  box-shadow: 0 0 18px #00e6ff;
+}
+@media screen and (max-width: 768px) {
+  .back-btn {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    margin: 10px;
+  }
+}
+
+
+  </style>
+</head>
+<body>
+  <a href="index.html" class="back-btn">⬅ Back</a>
+
+
+  <h1>AI/ML Roadmap 🚀</h1>
+
+  <div class="timeline">
+
+    <!-- Step 1 -->
+    <div class="container left" data-step="1">
+      <div class="content">
+        <h3>Programming Fundamentals (Python)</h3>
+        <ul>
+          <li>Python basics: variables, loops, functions, OOP</li>
+          <li>Libraries: NumPy, Pandas, Matplotlib, Seaborn</li>
+          <li>Git/GitHub version control</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container right projects" data-step="1">
+      <div class="content">
+        <p>Projects:</p>
+        <ul>
+          <li>Calculator / To-do app</li>
+          <li>Data analysis of CSV (IPL, Movies, etc.)</li>
+          <li>Visualize COVID-19 trends</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Step 2 -->
+    <div class="container left" data-step="2">
+      <div class="content">
+        <h3>Math for ML</h3>
+        <ul>
+          <li>Linear Algebra → vectors, matrices, eigenvalues</li>
+          <li>Probability & Statistics → distributions, Bayes theorem</li>
+          <li>Calculus → differentiation, gradient</li>
+          <li>Optimization → gradient descent</li>
+        </ul>
+      </div>
+    </div>
+    <div class="container right projects" data-step="2">
+      <div class="content">
+        <p>Projects:</p>
+        <ul>
+          <li>Implement Linear Regression from scratch</li>
+          <li>Probability-based Dice simulator</li>
+          <li>Statistics dashboard of a dataset</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Step 3 -->
+    <div class="container left" data-step="3">
+      <div class="content">
+        <h3>Data Handling & Preprocessing</h3>
+        <ul>
+          <li>Data cleaning (missing values, duplicates)</li>
+          <li>Feature engineering</li>
+          <li>Normalization & standardization</li>
+          <li>Train-test split, cross-validation</li>
+        </ul>
+      </div>
+    </div>
+    <div class="container right projects" data-step="3">
+      <div class="content">
+        <p>Projects:</p>
+        <ul>
+          <li>House price dataset cleaning & EDA</li>
+          <li>Titanic survival prediction</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Step 4 -->
+    <div class="container left" data-step="4">
+      <div class="content">
+        <h3>Core Machine Learning</h3>
+        <ul>
+          <li>Supervised: Regression, Logistic, SVM, Trees, RF, k-NN</li>
+          <li>Unsupervised: k-Means, PCA</li>
+          <li>Evaluation Metrics → accuracy, precision, recall, F1</li>
+        </ul>
+      </div>
+    </div>
+    <div class="container right projects" data-step="4">
+      <div class="content">
+        <p>Projects:</p>
+        <ul>
+          <li>Spam mail classifier</li>
+          <li>Customer segmentation</li>
+          <li>Stock price prediction</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Step 5 -->
+    <div class="container left" data-step="5">
+      <div class="content">
+        <h3>Deep Learning (Neural Networks)</h3>
+        <ul>
+          <li>Basics, Activation functions</li>
+          <li>Frameworks: TensorFlow / PyTorch</li>
+          <li>CNNs (Image processing)</li>
+          <li>RNN/LSTM (Time-series, NLP)</li>
+          <li>Transfer learning</li>
+        </ul>
+      </div>
+    </div>
+    <div class="container right projects" data-step="5">
+      <div class="content">
+        <p>Projects:</p>
+        <ul>
+          <li>MNIST digit recognition</li>
+          <li>Image classifier (Cats vs Dogs)</li>
+          <li>Text sentiment analysis</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Step 6 -->
+    <div class="container left" data-step="6">
+      <div class="content">
+        <h3>Advanced AI/ML Topics</h3>
+        <ul>
+          <li>NLP (Transformers, BERT, GPT models)</li>
+          <li>Reinforcement Learning</li>
+          <li>Recommendation Systems</li>
+          <li>Generative AI (GANs, Diffusion)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="container right projects" data-step="6">
+      <div class="content">
+        <p>Projects:</p>
+        <ul>
+          <li>Chatbot using Transformers</li>
+          <li>Recommendation System</li>
+          <li>AI Image generator (GAN)</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Step 7 -->
+    <div class="container left" data-step="7">
+      <div class="content">
+        <h3>Deployment & MLOps</h3>
+        <ul>
+          <li>Flask, FastAPI, Streamlit</li>
+          <li>Docker, Kubernetes</li>
+          <li>CI/CD for ML</li>
+          <li>Cloud ML (AWS, GCP, Azure)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="container right projects" data-step="7">
+      <div class="content">
+        <p>Projects:</p>
+        <ul>
+          <li>Deploy ML model on web app</li>
+          <li>Dockerize project</li>
+          <li>End-to-end ML pipeline</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Step 8 -->
+    <div class="container left" data-step="8">
+      <div class="content">
+        <h3>System Design for ML</h3>
+        <ul>
+          <li>Large-scale ML system design</li>
+          <li>Data pipelines (Airflow, Kafka, Spark)</li>
+          <li>Vector DB (Pinecone, Weaviate, FAISS)</li>
+          <li>Model monitoring & retraining</li>
+        </ul>
+      </div>
+    </div>
+    <div class="container right projects" data-step="8">
+      <div class="content">
+        <p>Projects:</p>
+        <ul>
+          <li>Real-time recommendation engine</li>
+          <li>Large-scale chatbot with memory</li>
+          <li>AI search engine</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    // typing utility
+    function typeEffect(el, text, speed = 60, cb = null) {
+      el.textContent = "";
+      let i = 0;
+      const timer = setInterval(() => {
+        if (i < text.length) {
+          el.textContent += text.charAt(i);
+          i++;
+        } else {
+          clearInterval(timer);
+          if (cb) cb();
+        }
+      }, speed);
+    }
+
+    // observer to animate when container visible
+    const containers = document.querySelectorAll(".container");
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting && !entry.target.classList.contains("typed")) {
+          entry.target.classList.add("visible", "typed");
+
+          // topic title (h3) and its li's
+          const topicTitle = entry.target.querySelector("h3");
+          const lis = entry.target.querySelectorAll("ul li");
+
+          // project title (p) (only present for project boxes)
+          const projectTitle = entry.target.querySelector("p");
+
+          if (topicTitle) {
+            const txt = topicTitle.dataset.fulltext || topicTitle.innerText;
+            topicTitle.dataset.fulltext = txt;
+            topicTitle.textContent = "";
+            topicTitle.classList.add("typing", "typing-topic");
+            typeEffect(topicTitle, txt, 50, () => {
+              topicTitle.classList.remove("typing");
+              // type list items
+              let k = 0;
+              function typeNext() {
+                if (k < lis.length) {
+                  const li = lis[k];
+                  const txtLi = li.dataset.fulltext || li.innerText;
+                  li.dataset.fulltext = txtLi;
+                  li.textContent = "";
+                  typeEffect(li, txtLi, 20, () => { k++; typeNext(); });
+                }
+              }
+              typeNext();
+            });
+          }
+
+          if (projectTitle) {
+            const txt = projectTitle.dataset.fulltext || projectTitle.innerText;
+            projectTitle.dataset.fulltext = txt;
+            projectTitle.textContent = "";
+            projectTitle.classList.add("typing", "project-title");
+            typeEffect(projectTitle, txt, 70, () => {
+              projectTitle.classList.remove("typing");
+              let j = 0;
+              function typeNextP() {
+                if (j < lis.length) {
+                  const li = lis[j];
+                  const txtLi = li.dataset.fulltext || li.innerText;
+                  li.dataset.fulltext = txtLi;
+                  li.textContent = "";
+                  typeEffect(li, txtLi, 25, () => { j++; typeNextP(); });
+                }
+              }
+              typeNextP();
+            });
+          }
+        }
+      });
+    }, { threshold: 0.35 });
+
+    // observe all containers
+    containers.forEach(c => observer.observe(c));
+  </script>
+
+</body>
+</html>
