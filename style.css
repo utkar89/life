@@ -1,0 +1,1120 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding-top: 110px; /* header ki height jitni space */
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: fixed;   /* ✅ hamesha top pe chipka rahega */
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;       /* ✅ desktop + mobile dono me fit */
+  z-index: 1100;     /* ✅ content se upar */
+  
+  padding-left: 10px;   /* logo ko thoda aur left side chipka do */
+  padding-right: 15px;
+}
+
+
+
+
+
+/* Navigation */
+.nav-links ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+.nav-links ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  padding: 0.5rem 0.8rem;
+  transition: 0.3s ease;
+}
+
+.nav-links ul li a:hover {
+  color: #4caf50;
+}
+
+/* Special "2 Years Challenge" link */
+.special {
+  background: linear-gradient(45deg, #ff4e50, #f9d423);
+  color: #fff !important;
+  font-weight: 700;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  transform: perspective(500px) rotateX(10deg);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.special:hover {
+  transform: perspective(500px) rotateX(0deg) scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Mobile Menu */
+.menu-toggle {
+  display: none;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+@media(max-width: 768px) {
+  .nav-links {
+    display: none;
+    width: 100%;
+    background: #fff;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .nav-links ul {
+    flex-direction: column;
+    text-align: center;
+    padding: 1rem 0;
+  }
+
+  .nav-links ul li {
+    margin: 0.5rem 0;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-links.active {
+    display: block;
+  }
+}
+
+.header nav ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+.header nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: #f0f0f0;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.progress {
+  padding: 2rem;
+  text-align: center;
+}
+
+.progress-bar {
+  width: 80%;
+  height: 20px;
+  background: #ddd;
+  margin: 1rem auto;
+  border-radius: 10px;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #4caf50;
+  width: 0;
+  border-radius: 10px;
+  transition: width 1s;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.card {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.daily-notes {
+  padding: 2rem;
+}
+
+#searchInput {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.note {
+  padding: 1rem;
+  background: #f9f9f9;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+}
+
+.timeline {
+  position: relative;
+  padding: 2rem;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  width: 4px;
+  height: 100%;
+  background: #ddd;
+  transform: translateX(-50%);
+}
+
+.timeline-item {
+  position: relative;
+  width: 45%;
+  padding: 1rem;
+  margin: 2rem 0;
+  opacity: 0;
+  transition: all 0.6s ease-in-out;
+}
+
+.timeline-item.active {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.timeline-item:nth-child(odd) {
+  left: 0;
+  transform: translateX(-50px);
+}
+
+.timeline-item:nth-child(even) {
+  left: 55%;
+  transform: translateX(50px);
+}
+
+.timeline-item {
+  background: #4caf50;
+  color: #fff;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+
+@media(max-width:768px) {
+  .header nav ul {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .timeline-item,
+  .timeline-item:nth-child(even),
+  .timeline-item:nth-child(odd) {
+    width: 90%;
+    left: 5%;
+    transform: translateX(0);
+  }
+}
+
+/* Social Icons */
+.social-icons {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.social-icons img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  transition: transform 0.3s;
+}
+
+.social-icons img:hover {
+  transform: scale(1.2);
+}
+
+/* Mobile me clean rakhne ke liye icons chhupana */
+@media (max-width: 768px) {
+  .social-icons {
+    margin-top: 10px;
+    justify-content: center;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Hero Section */
+.hero-utkarsh {
+  height: 100vh;
+  background: url('hi.jpg') no-repeat center center/cover;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.hero-utkarsh::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.hero-content-utkarsh {
+  position: relative;
+  z-index: 1;
+  max-width: 100%;
+  padding: 20px;
+}
+
+/* Name Glitch Effect */
+.hero-content-utkarsh h1 {
+  font-size: 3rem;
+  letter-spacing: 2px;
+  min-height: 50px;
+  margin-bottom: 15px;
+}
+
+.glitch-letter-utkarsh {
+  display: inline;
+  animation: glitch-utkarsh 0.3s linear infinite;
+}
+
+@keyframes glitch-utkarsh {
+  0% {
+    transform: translate(0, 0);
+    opacity: 0.8;
+  }
+
+  25% {
+    transform: translate(-1px, 1px);
+    opacity: 0.6;
+  }
+
+  50% {
+    transform: translate(1px, -1px);
+    opacity: 0.9;
+  }
+
+  75% {
+    transform: translate(-2px, 2px);
+    opacity: 0.7;
+  }
+
+  100% {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+}
+
+/* Course Typing */
+.hero-content-utkarsh h2 {
+  font-size: 1.8rem;
+  margin-bottom: 25px;
+  min-height: 40px;
+}
+
+/* First row buttons */
+.buttons-utkarsh {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+.buttons-utkarsh a {
+  padding: 12px 25px;
+  text-decoration: none;
+  font-size: 1rem;
+  border-radius: 6px;
+  transition: 0.3s ease;
+  background: #fff;
+  color: #000;
+  font-weight: bold;
+}
+
+.buttons-utkarsh a:hover {
+  background: #00ffcc;
+  color: #000;
+}
+
+/* ✅ Mobile ke liye responsive fix */
+
+
+
+/* Icons row */
+.social-icons-utkarsh {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-size: 1.8rem;
+}
+
+.social-icons-utkarsh a {
+  color: white;
+  transition: 0.3s;
+}
+
+.social-icons-utkarsh a:hover {
+  color: #00ffcc;
+  transform: scale(1.2);
+}
+
+@media (max-width: 768px) {
+  .hero-content-utkarsh h1 { font-size: 2rem; }
+  .hero-content-utkarsh h2 { font-size: 1.2rem; }
+}
+
+
+  
+
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+
+.user-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #666;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.user-icon:hover {
+  transform: scale(1.1);
+  background: #444;
+}
+
+/* Responsive */
+@media(max-width: 900px) {
+  .nav-links a:not(:first-child) {
+    display: none;
+  }
+}
+
+
+.user-icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #666;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 24px;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.3s;
+  margin: 0 auto;
+}
+
+.user-icon:hover {
+  transform: scale(1.1);
+  background: #444;
+}
+
+.user-name {
+  text-align: center;
+  margin: 10px 0;
+  font-weight: bold;
+  display: none;
+}
+
+.user-overlay {
+  position: fixed;
+  top: 0;
+  left: -320px;
+  width: 300px;
+  height: 100%;
+  background: #fff;
+  /* solid color rakh lo, ya dark mode ke liye #222 */
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.3);
+  transition: left 0.3s ease;
+  z-index: 1000;
+  overflow-y: auto;
+  padding: 20px;
+}
+
+.user-overlay.active {
+  left: 0;
+}
+
+
+.overlay-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+  display: none;
+  z-index: 999;
+}
+
+.overlay-backdrop.active {
+  display: block;
+  animation: fadeIn 0.3s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.auth-tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.auth-tabs button {
+  flex: 1;
+  padding: 8px;
+  cursor: pointer;
+  border: none;
+  background: #eee;
+  font-weight: bold;
+}
+
+.auth-tabs button.active {
+  background: #4285f4;
+  color: white;
+  border-radius: 5px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+form input {
+  margin: 5px 0;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: var(--bg-color);
+  color: var(--text-color);
+  transition: background 0.3s, color 0.3s;
+}
+
+form button {
+  padding: 10px;
+  margin-top: 10px;
+  border: none;
+  background: #222;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+form button:hover {
+  background: #444;
+}
+
+.hidden {
+  display: none;
+}
+
+.logout-btn {
+  display: none;
+  margin-top: 15px;
+  background: crimson;
+  width: 100%;
+}
+
+.logo-img {
+  height: 60px;       /* logo chhota aur clean */
+  width: auto;
+  margin: 0;          /* extra negative margin hata diya */
+  padding: 0;         /* padding hata diya */
+  display: flex;
+  align-items: center; /* vertical center me */
+}
+
+/* 🔹 Default User Icon Image (user.png / profile photo) */
+.user-icon-img,
+#overlayIconImg {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+/* 🔹 Letter Avatar (U / A / etc.) */
+.user-icon,
+#overlayAvatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.18s ease;
+ background: #666;   /* 👈 अब grey background रहेगा */
+  color: #fff;               /* letter black रहे */
+}
+
+
+.hidden {
+  display: none !important;
+}
+
+
+
+.user-icon-img:hover {
+  transform: scale(1.1);
+}
+
+.hidden {
+  display: none;
+}
+
+
+.overlay-avatar-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  /* naam se gap ke liye */
+}
+
+
+
+.overlay-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: none;
+  z-index: 900;
+}
+
+.overlay-backdrop.active {
+  display: block;
+}
+
+.user-name {
+  text-align: center;
+  margin: 10px 0;
+  font-weight: bold;
+  display: block;
+  /* pehle none tha */
+}
+
+.logout-btn {
+  display: none;
+  margin-top: 15px;
+  background: crimson;
+  width: 100%;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.logout-btn.show {
+  display: block;
+}
+
+.menu-toggle {
+  display: none;
+  /* default: hide */
+  font-size: 2rem;
+  cursor: pointer;
+  margin-left: auto;
+  /* right side push */
+  order: 3;
+  /* flex order se last me (right side) aayega */
+}
+
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+    /* sirf mobile pe show */
+  }
+}
+
+.overlay-backdrop {
+  background: transparent;
+  /* koi dark effect nahi hoga */
+}
+
+.user-overlay {
+  position: fixed;
+  z-index: 1001;
+  /* backdrop se bada */
+}
+
+.overlay-backdrop {
+  z-index: 1000;
+}
+
+
+/* Overlay menu */
+.overlay-menu {
+  margin-top: 12px;
+}
+
+.overlay-menu ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  background: #f7f9fc;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  transition: transform .15s ease, background .15s ease;
+}
+
+.menu-item:hover {
+  transform: translateX(6px);
+  background: #e6f7ff;
+}
+
+.menu-item i {
+  width: 36px;
+  height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+
+.menu-text {
+  font-weight: 600;
+}
+
+.menu-sub {
+  font-size: 12px;
+  color: #666;
+}
+
+/* spinning sample */
+.spinning {
+  animation: spin 1.8s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* social list */
+.overlay-social {
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.overlay-social a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px;
+  border-radius: 8px;
+  background: #fff;
+  text-decoration: none;
+  color: #222;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  transition: transform .12s ease;
+}
+
+.overlay-social a:hover {
+  transform: translateX(6px);
+}
+
+.overlay-social i {
+  font-size: 18px;
+  width: 28px;
+  text-align: center;
+}
+.protected {
+  position: relative;
+}
+
+
+/* sirf jab .locked class lagi ho to lock icon dikhayega */
+.protected.locked {
+  opacity: 0.6;
+  cursor: not-allowed;
+  position: relative;
+  pointer-events: auto; /* ✅ click allow karo taki JS chale */
+}
+
+.protected.locked.blocked {
+  pointer-events: none; /* agar completely disable karna ho */
+}
+
+.protected.locked:not(.roadmap-trigger)::after {
+  content: " 🔒";
+  font-size: 0.9em;
+  color: red;
+  margin-left: 5px;
+}
+
+/* Z-index fixes */
+.header {
+  z-index: 1100;   /* header sabse upar rahe */
+}
+
+.user-overlay {
+  z-index: 1200;   /* overlay header se bhi upar */
+}
+
+.overlay-backdrop {
+  z-index: 1000;   /* backdrop sabse neeche */
+}
+
+/* Fix mobile horizontal scrolling */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Default: hide mobile icons */
+.mobile-social-icons {
+  display: none;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  /* Header ke social icons gayab */
+  .header .social-icons {
+    display: none;
+  }
+
+  /* Mobile wale visible ho jayein */
+  .mobile-social-icons {
+    display: flex;
+    justify-content: flex-end; /* right side chipak ke */
+    gap: 15px;
+    padding: 10px 15px;
+    background: transparent;
+    position: relative;
+    z-index: 10;
+  }
+
+  .mobile-social-icons img {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  /* Pop animation on click */
+  .mobile-social-icons img:active {
+    transform: scale(1.3);
+    box-shadow: 0 0 10px rgba(0, 255, 200, 0.7);
+    border-radius: 50%;
+  }
+}
+
+/* ---------------------------
+   Fire roadmap button - mobile only
+   --------------------------- */
+
+/* Base style for the SVG button (keeps it small and light on header) */
+
+
+/* mobile only: show button, ensure spacing next to user icon */
+.mobile-roadmap {
+  display: inline-block;
+  margin: 0 auto;   /* दोनों तरफ auto margin = center */
+  text-align: center;
+}
+
+/* responsive rules for small screens */
+@media (max-width: 768px) {
+  .mobile-roadmap {
+    display: inline-block;      /* show only on mobile */
+    margin: 0 auto;        /* gap between user icon and button */
+    vertical-align: middle;
+  }
+
+  /* If your header-right is flex, ensure proper alignment */
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    justify-content: center;
+  }
+.fire-btn {
+  display: inline-block;
+  padding: 4px 10px;      /* ✅ बहुत कम padding */
+  background: transparent;
+  border: 2px solid #ff4500;
+  border-radius: 8px;     /* ✅ corner भी छोटा */
+  text-decoration: none;
+  animation: flickerBorder 2s infinite;
+  cursor: pointer;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.fire-svg {
+  width: auto;
+  height: 20px;   /* ✅ Button chhota aur text center */
+  display: block;
+}
+
+.fire-svg text {
+  font-size: 16px;       /* ✅ Text thoda bada */
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  dominant-baseline: middle;
+}
+
+
+
+
+
+/* 🔥 Fire glow effect (continuous flicker) */
+@keyframes fireText {
+  0%   { filter: drop-shadow(0 0 5px #ff6a00) drop-shadow(0 0 10px #ff3c00); }
+  50%  { filter: drop-shadow(0 0 12px #ff9a00) drop-shadow(0 0 22px #ff4500); }
+  100% { filter: drop-shadow(0 0 18px #ffcc00) drop-shadow(0 0 32px #ff0000); }
+}
+
+/* 🔥 Border flicker */
+@keyframes flickerBorder {
+  0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+    box-shadow: 0 0 6px #ff4500, 0 0 16px #ff6a00, 0 0 32px #ff0000;
+    border-color: #ff3c00;
+  }
+  20%, 24%, 55% {
+    box-shadow: none;
+    border-color: #ff0000;
+  }
+}
+
+/* ✨ Hover / Focus (desktop) */
+.fire-btn:hover .fire-svg text,
+.fire-btn:focus .fire-svg text {
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 8px #ff6a00) drop-shadow(0 0 18px #ff3c00);
+}
+
+/* 📱 Tap effect (mobile) */
+.fire-btn:active .fire-svg text {
+  transform: scale(0.95);
+  filter: drop-shadow(0 0 5px #ff9a00);
+}
+}
+.fire-btn .fire-svg text {
+  font-size: 50px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  dominant-baseline: middle; /* safe alignment */
+}
+
+/* by default hidden */
+.mobile-only {
+  display: none;
+}
+
+/* सिर्फ mobile पर show */
+@media (max-width: 768px) {
+  .mobile-social-icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* left = button, right = icons */
+    gap: 10px;
+  }
+
+  .mobile-only {
+    display: inline-block;
+  }
+
+  .two-year-btn {
+    flex-shrink: 0;       /* size stable */
+    width: 140px;
+    height: 40px;
+  }
+
+  .two-year-btn .fire-svg {
+    height: 40px;
+    font-size: 16px;
+  }
+}
+.modal { position: fixed; inset: 0; display: none; z-index: 3000; font-family: inherit; }
+.modal.active { display: block; }
+
+.modal-backdrop {
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,0.45);
+  opacity: 0; transition: opacity .22s ease;
+}
+.modal.active .modal-backdrop { opacity: 1; }
+
+.modal-panel {
+  position: absolute;
+  left: 50%; top: 50%;
+  transform: translate(-50%, -50%) scale(.98);
+  width: 90%; max-width: 420px;
+  background: #161618;
+  color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.6);
+  padding: 18px;
+  opacity: 0;
+  transition: transform .22s cubic-bezier(.2,.9,.2,1), opacity .22s;
+}
+.modal.active .modal-panel {
+  transform: translate(-50%, -50%) scale(1);
+  opacity: 1;
+}
+
+.modal-close {
+  position: absolute; right: 10px; top: 10px;
+  background: transparent; border: none; color: #fff;
+  font-size: 18px; cursor: pointer;
+}
+
+.modal-options { display: flex; flex-direction: column; gap: 10px; }
+
+.modal-option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: #fff;
+  background: linear-gradient(135deg, #2a2a72, #009ffd); /* 🌈 Blue gradient */
+  border-radius: 12px;
+  padding: 14px;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.modal-option:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 25px rgba(0, 159, 253, 0.4);
+}
+
+.modal-option .opt-left {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+}
+
+.opt-body strong {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fffbf5; /* thoda bright text */
+}
+
+.opt-desc {
+  font-size: 13px;
+  color: #cfcfcf;
+}
+
+.modal-option:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.45);
+}
+
+.modal-option .opt-left {
+  width: 40px; height: 40px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 20px; background: rgba(0,0,0,0.25);
+  border-radius: 8px;
+}
+.opt-body { display:flex; flex-direction:column; }
+.opt-body strong { font-size: 15px; }
+.opt-desc { font-size: 12px; color: #cfcfcf; }
+.opt-right { margin-left: auto; color: #ffb27a; font-weight:700; }
+
+/* Typing text ke liye rainbow colors */
+#typing-utkarsh span {
+  display: inline-block;
+  animation: typingColor 2s linear infinite;
+}
+
+@keyframes typingColor {
+  0%   { color: #ff4757; }
+  20%  { color: #1e90ff; }
+  40%  { color: #2ed573; }
+  60%  { color: #ffa502; }
+  80%  { color: #eccc68; }
+  100% { color: #ff4757; }
+}
+
