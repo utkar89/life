@@ -826,12 +826,19 @@ form button:hover {
   pointer-events: none; /* agar completely disable karna ho */
 }
 
-.protected.locked:not(.roadmap-trigger)::after {
+/* Normal protected links par lock icon dikhana */
+.protected.locked::after {
   content: " 🔒";
   font-size: 0.9em;
   color: red;
   margin-left: 5px;
 }
+
+/* Agar no-lock-icon class lagi ho to icon mat dikhana */
+.protected.locked.no-lock-icon::after {
+  content: "";
+}
+
 
 /* Z-index fixes */
 .header {
@@ -1117,4 +1124,20 @@ html, body {
   80%  { color: #eccc68; }
   100% { color: #ff4757; }
 }
+/* Protected links ke liye lock hone par hide */
 
+/* By default mobile-roadmap button ko hide karo */
+.mobile-roadmap {
+  display: none;
+}
+
+/* Sirf mobile screens (max 768px) me dikhana hai */
+@media (max-width: 768px) {
+  .mobile-roadmap {
+    display: inline-block; /* ya flex, jo aapke design me fit ho */
+  }
+}
+/* Sirf mobile roadmap button par lock icon mat dikhana */
+.mobile-roadmap.locked::after {
+  content: none !important;
+}
