@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2 Year Challenge Road</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0d1117;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      text-align: center;
+      padding: 20px;
+      color: #00e5ff;
+      text-shadow: 0 0 20px #00e5ff;
+    }
+
+    /* Back button */
+    .back-btn {
+      display: inline-block;
+      margin: 15px 20px;
+      background: rgba(0, 229, 255, 0.15);
+      border: 2px solid #00e5ff;
+      color: #00e5ff;
+      padding: 8px 16px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: all 0.3s ease;
+      box-shadow: 0 0 10px rgba(0, 229, 255, 0.4);
+    }
+    .back-btn:hover {
+      background: #00e5ff;
+      color: #000;
+      box-shadow: 0 0 20px #00e5ff;
+    }
+
+    /* Search box */
+    .search-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 10px auto 30px;
+      width: 90%;
+      max-width: 400px;
+      position: relative;
+    }
+    .search-container input {
+      width: 100%;
+      padding: 10px 40px 10px 14px;
+      border-radius: 25px;
+      border: 2px solid #00e5ff;
+      outline: none;
+      font-size: 16px;
+      background: #161b22;
+      color: #fff;
+      box-shadow: 0 0 15px rgba(0, 229, 255, 0.25);
+    }
+    .search-container input:focus {
+      box-shadow: 0 0 25px #00e5ff;
+    }
+    .search-container i {
+      position: absolute;
+      right: 12px;
+      font-size: 18px;
+      color: #00e5ff;
+    }
+
+    /* Roadmap days */
+    .road {
+      position: relative;
+      width: 90%;
+      margin: auto;
+      padding: 20px 0 40px;
+      border-left: 5px solid #00e5ff;
+    }
+
+    .day {
+      position: relative;
+      margin: 20px 0 20px 40px;
+      padding: 10px 20px;
+      background: #161b22;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0, 229, 255, 0.3);
+      transition: 0.3s;
+    }
+    .day:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 25px #ff4081;
+    }
+    .day::before {
+      content: "";
+      position: absolute;
+      left: -52px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 20px;
+      height: 20px;
+      background: #00e5ff;
+      border-radius: 50%;
+      box-shadow: 0 0 20px #00e5ff;
+    }
+
+    a {
+      text-decoration: none;
+      color: #fff;
+    }
+
+    /* Highlight style for search results */
+    .highlight {
+      background: #ff4081 !important;
+      box-shadow: 0 0 25px #ff4081 !important;
+      color: #fff;
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+  <!-- Back button -->
+  <a href="index.html" class="back-btn">⬅ Back</a>
+
+  <!-- Heading -->
+  <h1>🚀 2 Year AI/ML Challenge (800 Days)</h1>
+
+  <!-- Search box -->
+  <div class="search-container">
+    <input type="text" id="searchBox" placeholder="Search Day (e.g. Day 11)">
+    <i class="fas fa-search"></i>
+  </div>
+
+  <!-- Road -->
+  <div class="road" id="road"></div>
+
+  <script>
+    const road = document.getElementById("road");
+
+    // Generate days
+    for(let i=1; i<=800; i++){
+      const div = document.createElement("div");
+      div.className = "day";
+      div.innerHTML = `<a href="lesson.html?day=${i}">Day ${i}</a>`;
+      road.appendChild(div);
+    }
+
+    // Search functionality
+    const searchBox = document.getElementById("searchBox");
+    searchBox.addEventListener("input", function(){
+      const value = this.value.toLowerCase().trim();
+      const days = Array.from(document.querySelectorAll(".day"));
+      const road = document.getElementById("road");
+
+      // Reset styles and order
+      days.forEach(day => {
+        day.classList.remove("highlight");
+        road.appendChild(day);
+      });
+
+      if(value){
+        const matched = days.filter(day => day.innerText.toLowerCase().includes(value));
+        matched.forEach(day => {
+          day.classList.add("highlight");
+          road.prepend(day);
+        });
+      }
+    });
+  </script>
+</body>
+</html>
