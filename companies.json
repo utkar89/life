@@ -1,0 +1,3220 @@
+[
+  {
+    "name": "TCS",
+    "city": "Mumbai",
+    "country": "India",
+    "roles": "Full Stack Dev, QA, Support",
+    "website": "https://www.tcs.com/careers",
+    "type": "fulltime",
+    "lat": 19.0760,
+    "lng": 72.8777
+  },
+  {
+    "name": "Infosys",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Backend Developer, Systems Engineer",
+    "website": "https://www.infosys.com/careers",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Wipro",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Cyber Security, Support Engineer",
+    "website": "https://careers.wipro.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "HCLTech",
+    "city": "Noida",
+    "country": "India",
+    "roles": "Software Engineer, Cloud, DevOps",
+    "website": "https://www.hcltech.com/careers",
+    "type": "fulltime",
+    "lat": 28.5355,
+    "lng": 77.3910
+  },
+  {
+    "name": "Tech Mahindra",
+    "city": "Pune",
+    "country": "India",
+    "roles": "Java / .NET Developer",
+    "website": "https://careers.techmahindra.com/",
+    "type": "fulltime",
+    "lat": 18.5204,
+    "lng": 73.8567
+  },
+  {
+    "name": "LTIMindtree",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Full Stack, Data Engineer",
+    "website": "https://careers.ltimindtree.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Accenture India",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Application Development, Cloud, Security",
+    "website": "https://www.accenture.com/in-en/careers",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "IBM India",
+    "city": "Hyderabad",
+    "country": "India",
+    "roles": "AI/ML Engineer, Cloud Engineer",
+    "website": "https://www.ibm.com/careers",
+    "type": "fulltime",
+    "lat": 17.3850,
+    "lng": 78.4867
+  },
+  {
+    "name": "Capgemini",
+    "city": "Mumbai",
+    "country": "India",
+    "roles": "Application Developer / Support",
+    "website": "https://www.capgemini.com/in-en/careers/",
+    "type": "fulltime",
+    "lat": 19.0760,
+    "lng": 72.8777
+  },
+  {
+    "name": "Zoho",
+    "city": "Chennai",
+    "country": "India",
+    "roles": "SDE / Backend / Mobile",
+    "website": "https://careers.zoho.com/",
+    "type": "fulltime",
+    "lat": 13.0674,
+    "lng": 80.2376
+  },
+  {
+    "name": "Paytm",
+    "city": "Noida",
+    "country": "India",
+    "roles": "Backend, SDE, Product",
+    "website": "https://paytm.com/careers",
+    "type": "fulltime",
+    "lat": 28.5355,
+    "lng": 77.3910
+  },
+  {
+    "name": "Flipkart",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "SDE-1, SDE-2, DevOps",
+    "website": "https://www.flipkartcareers.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "PhonePe",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Full Stack, Data Engineer",
+    "website": "https://careers.phonepe.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Razorpay",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Backend Developer",
+    "website": "https://razorpay.com/careers/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Freshworks",
+    "city": "Chennai",
+    "country": "India",
+    "roles": "Software Engineer / Support Engineer",
+    "website": "https://careers.freshworks.com/",
+    "type": "fulltime",
+    "lat": 13.0674,
+    "lng": 80.2376
+  },
+  {
+    "name": "Ola Electric",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "AI, Embedded, Software",
+    "website": "https://olaelectric.com/careers",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Cars24",
+    "city": "Gurugram",
+    "country": "India",
+    "roles": "SDE / Frontend / Backend",
+    "website": "https://www.cars24.com/careers/",
+    "type": "fulltime",
+    "lat": 28.4595,
+    "lng": 77.0266
+  },
+  {
+    "name": "BYJU'S",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Software Engineer, Data, QA",
+    "website": "https://byjus.com/careers/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Meesho",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "SDE-1 / SDE-2 / Platform Engineer",
+    "website": "https://careers.meesho.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Swiggy",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Backend, Mobile, Data",
+    "website": "https://careers.swiggy.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+
+
+  {
+    "name": "TCS",
+    "city": "Mumbai",
+    "country": "India",
+    "roles": "Full Stack Dev, QA, Support, SDE",
+    "website": "https://www.tcs.com/careers",
+    "type": "fulltime",
+    "lat": 19.0760,
+    "lng": 72.8777
+  },
+  {
+    "name": "Infosys",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Backend Developer, Systems Engineer, Data",
+    "website": "https://www.infosys.com/careers",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Wipro",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Cyber Security, Cloud, SDE, Support",
+    "website": "https://careers.wipro.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "HCLTech",
+    "city": "Noida",
+    "country": "India",
+    "roles": "Software Engineer, Cloud, DevOps",
+    "website": "https://www.hcltech.com/careers",
+    "type": "fulltime",
+    "lat": 28.5355,
+    "lng": 77.3910
+  },
+  {
+    "name": "Tech Mahindra",
+    "city": "Pune",
+    "country": "India",
+    "roles": "Java / .NET Developer, Cloud, QA",
+    "website": "https://careers.techmahindra.com/",
+    "type": "fulltime",
+    "lat": 18.5204,
+    "lng": 73.8567
+  },
+  {
+    "name": "LTIMindtree",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Full Stack, Data Engineer, Platform",
+    "website": "https://careers.ltimindtree.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Accenture India",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Application Development, Cloud, Security",
+    "website": "https://www.accenture.com/in-en/careers",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "IBM India",
+    "city": "Hyderabad",
+    "country": "India",
+    "roles": "AI/ML Engineer, Cloud Engineer, Consultant",
+    "website": "https://www.ibm.com/careers",
+    "type": "fulltime",
+    "lat": 17.3850,
+    "lng": 78.4867
+  },
+  {
+    "name": "Capgemini India",
+    "city": "Mumbai",
+    "country": "India",
+    "roles": "Java, .NET, SAP, Support",
+    "website": "https://www.capgemini.com/in-en/careers/",
+    "type": "fulltime",
+    "lat": 19.0760,
+    "lng": 72.8777
+  },
+  {
+    "name": "Oracle India",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Java, Database, Cloud",
+    "website": "https://www.oracle.com/in/careers/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "SAP Labs India",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Backend, ERP Developer, Platform",
+    "website": "https://www.sap.com/about/careers.html",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Siemens India",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Embedded, AI, IoT, Cloud",
+    "website": "https://www.siemens.com/global/en/company/jobs.html",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Deloitte USI",
+    "city": "Hyderabad",
+    "country": "India",
+    "roles": "Analyst, Consulting, Data, Cloud",
+    "website": "https://usijobs.deloitte.com/",
+    "type": "fulltime",
+    "lat": 17.3850,
+    "lng": 78.4867
+  },
+  {
+    "name": "EY India",
+    "city": "Gurugram",
+    "country": "India",
+    "roles": "Data Engineer, Cyber Security, Cloud",
+    "website": "https://www.ey.com/en_in/careers",
+    "type": "fulltime",
+    "lat": 28.4595,
+    "lng": 77.0266
+  },
+  {
+    "name": "KPMG India",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Consultant, Cloud, Data Engineering",
+    "website": "https://kpmg.com/in/en/home/careers.html",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "PwC India",
+    "city": "Noida",
+    "country": "India",
+    "roles": "AI/ML, Digital Engineering, ERP",
+    "website": "https://www.pwc.in/careers.html",
+    "type": "fulltime",
+    "lat": 28.5355,
+    "lng": 77.3910
+  },
+  {
+    "name": "Cognizant India",
+    "city": "Chennai",
+    "country": "India",
+    "roles": "SDE, Cloud, Support, Full Stack",
+    "website": "https://careers.cognizant.com/in/en",
+    "type": "fulltime",
+    "lat": 13.0674,
+    "lng": 80.2376
+  },
+  {
+    "name": "Virtusa",
+    "city": "Hyderabad",
+    "country": "India",
+    "roles": "Full Stack, Java, Cloud",
+    "website": "https://www.virtusa.com/careers",
+    "type": "fulltime",
+    "lat": 17.3850,
+    "lng": 78.4867
+  },
+  {
+    "name": "DXC Technology",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Cloud, Platform Engineering",
+    "website": "https://careers.dxc.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "name": "Mphasis",
+    "city": "Bangalore",
+    "country": "India",
+    "roles": "Full Stack, Testing, Infra",
+    "website": "https://careers.mphasis.com/",
+    "type": "fulltime",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+{
+  "name": "Google India",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE, ML Engineer, Frontend, Backend",
+  "website": "https://careers.google.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Microsoft India",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Cloud Engineer, Software Engineer, AI",
+  "website": "https://careers.microsoft.com/",
+  "type": "fulltime",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Amazon India",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "SDE-1, SDE-2, Data Engineer, DevOps",
+  "website": "https://www.amazon.jobs/",
+  "type": "fulltime",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Meta India (Facebook)",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Frontend, Backend, AR/VR, Infra",
+  "website": "https://www.metacareers.com/",
+  "type": "fulltime",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Apple India",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "iOS Developer, Systems Engineer",
+  "website": "https://www.apple.com/careers/in/",
+  "type": "fulltime",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Adobe India",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Backend, Graphics, Cloud",
+  "website": "https://www.adobe.com/careers.html",
+  "type": "fulltime",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "NVIDIA India",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "AI/ML, CUDA, GPU Development",
+  "website": "https://www.nvidia.com/en-in/about-nvidia/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Qualcomm India",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Embedded, Firmware, Software",
+  "website": "https://www.qualcomm.com/company/careers",
+  "type": "fulltime",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Intel India",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Hardware + Software Developer, AI",
+  "website": "https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "AMD India",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Software Engineer, Chip Systems",
+  "website": "https://www.amd.com/en/corporate/careers",
+  "type": "fulltime",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Salesforce India",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Software Engineer, Full Stack, Cloud",
+  "website": "https://www.salesforce.com/company/careers/",
+  "type": "fulltime",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Uber India",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE, Platform, Data Engineer",
+  "website": "https://www.uber.com/in/en/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Swiggy",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend, Platform Engineering",
+  "website": "https://careers.swiggy.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Zomato",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Software Engineer, Full Stack, QA",
+  "website": "https://www.zomato.com/careers",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Ola",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Full Stack, Data Engineer",
+  "website": "https://ola.skillsate.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Ola Electric",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Embedded, AI, Automotive Software",
+  "website": "https://olaelectric.com/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Razorpay",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE-1, SDE-2, Backend",
+  "website": "https://razorpay.com/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "PhonePe",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software Engineer, Data Engineer",
+  "website": "https://careers.phonepe.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Meesho",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Platform Engineer, Frontend, Backend",
+  "website": "https://careers.meesho.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Flipkart",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE-1 / SDE-2 / DevOps / Data",
+  "website": "https://www.flipkartcareers.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+
+{
+  "name": "Cognizant India",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "Java, .NET, Full Stack, Cloud, Support",
+  "website": "https://careers.cognizant.com/in/en",
+  "type": "fulltime",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "DXC Technology India",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Cloud Engineering, DevOps, Backend",
+  "website": "https://careers.dxc.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Virtusa India",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Full Stack, Java, Cloud, Platform",
+  "website": "https://www.virtusa.com/careers",
+  "type": "fulltime",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "UST Global",
+  "city": "Trivandrum",
+  "country": "India",
+  "roles": "Software Developer, QA, Cyber Security",
+  "website": "https://www.ust.com/en/careers",
+  "type": "fulltime",
+  "lat": 8.5241,
+  "lng": 76.9366
+},
+{
+  "name": "Mphasis",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Full Stack, Testing, Infra Support",
+  "website": "https://careers.mphasis.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Mindtree (Now LTIMindtree)",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Java Developer, Data Engineer, DevOps",
+  "website": "https://careers.ltimindtree.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Persistent Systems",
+  "city": "Pune",
+  "country": "India",
+  "roles": "Full Stack, Cloud, Platform Engineering",
+  "website": "https://www.persistent.com/careers/",
+  "type": "fulltime",
+  "lat": 18.5204,
+  "lng": 73.8567
+},
+{
+  "name": "Zensar Technologies",
+  "city": "Pune",
+  "country": "India",
+  "roles": "Software Developer, Testing, SAP",
+  "website": "https://www.zensar.com/careers",
+  "type": "fulltime",
+  "lat": 18.5204,
+  "lng": 73.8567
+},
+{
+  "name": "Birlasoft",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Java, SAP, .NET, Salesforce",
+  "website": "https://www.birlasoft.com/careers",
+  "type": "fulltime",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Kyndryl India",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Cloud, Infra, IT Support, Platform",
+  "website": "https://www.kyndryl.com/us/en/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Sutherland Global",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Software Developer, Backend, Support",
+  "website": "https://www.sutherlandglobal.com/careers",
+  "type": "fulltime",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Genpact India",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Application Development, Support, Cloud",
+  "website": "https://www.genpact.com/careers",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Hitachi Vantara India",
+  "city": "Pune",
+  "country": "India",
+  "roles": "Data Engineer, Platform Engineer",
+  "website": "https://www.hitachivantara.com/en-us/company/careers.html",
+  "type": "fulltime",
+  "lat": 18.5204,
+  "lng": 73.8567
+},
+{
+  "name": "Tavant",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Full Stack, QA, DevOps",
+  "website": "https://www.tavant.com/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "SLK Software",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Java Developer, Data Engineer",
+  "website": "https://www.slksoftware.com/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Happiest Minds",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Cloud, Full Stack, Testing",
+  "website": "https://www.happiestminds.com/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Sasken Technologies",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Embedded & Telecom Software",
+  "website": "https://www.sasken.com/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Sonata Software",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Application Development, Azure, ERP",
+  "website": "https://www.sonata-software.com/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "NIIT Technologies (Coforge)",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Java, Full Stack, Data, Cloud",
+  "website": "https://careers.coforge.com/",
+  "type": "fulltime",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "WNS Global",
+  "city": "Pune",
+  "country": "India",
+  "roles": "Software Developer, Cloud Support",
+  "website": "https://careers.wns.com/",
+  "type": "fulltime",
+  "lat": 18.5204,
+  "lng": 73.8567
+}
+,
+{
+  "name": "CRED",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend, DevOps, Full Stack, Android",
+  "website": "https://careers.cred.club/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Swiggy",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Platform Engineering, Data, Backend",
+  "website": "https://careers.swiggy.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Zomato",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "SDE, Frontend, Backend, DevOps",
+  "website": "https://www.zomato.com/careers",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Ola",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Full Stack, Mobile App Developer, Data",
+  "website": "https://ola.skillsate.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Rapido",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend Developer, Mobile Developer",
+  "website": "https://rapido.breezy.hr/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Dunzo",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Full Stack, Data Engineering, Platform",
+  "website": "https://dunzo.com/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Blinkit",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Frontend, Backend, Data Scientist",
+  "website": "https://blinkit.com/careers",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Nykaa",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Software Developer, Platform Engineer",
+  "website": "https://www.nykaa.com/careers",
+  "type": "fulltime",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Lenskart",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Full Stack, DevOps, Cloud",
+  "website": "https://hiring.lenskart.com/",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Boat",
+  "city": "New Delhi",
+  "country": "India",
+  "roles": "Software + Hardware Developer",
+  "website": "https://boat-lifestyle.freshteam.com/jobs",
+  "type": "fulltime",
+  "lat": 28.6139,
+  "lng": 77.2090
+},
+{
+  "name": "Mamaearth",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Backend Developer, App Developer",
+  "website": "https://mamaearth.in/pages/careers",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Urban Company",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "SDE, Platform, QA",
+  "website": "https://careers.urbancompany.com/jobs",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "OYO",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Software Engineer, Full Stack",
+  "website": "https://www.oyorooms.com/careers/",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Delhivery",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "SDE, Platform Engineer, Data",
+  "website": "https://www.delhivery.com/careers/",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "BigBasket",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software Developer, Cloud, App Dev",
+  "website": "https://careers.bigbasket.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Pepperfry",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Full Stack Developer, Data Engineer",
+  "website": "https://careers.pepperfry.com/",
+  "type": "fulltime",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "CarDekho",
+  "city": "Jaipur",
+  "country": "India",
+  "roles": "Frontend, Backend, QA, Data",
+  "website": "https://careers.cardekho.com/",
+  "type": "fulltime",
+  "lat": 26.9124,
+  "lng": 75.7873
+},
+{
+  "name": "PolicyBazaar",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Backend Developer, App Developer",
+  "website": "https://www.policybazaar.com/careers/",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Dream11",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Full Stack, Data, Cloud",
+  "website": "https://careers.dreamsports.group/",
+  "type": "fulltime",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Paytm",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Backend Developer, iOS/Android, Data",
+  "website": "https://paytm.com/careers",
+  "type": "fulltime",
+  "lat": 28.5355,
+  "lng": 77.3910
+}
+,
+{
+  "name": "BYJU'S",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software Engineer, Full Stack, Data",
+  "website": "https://byjus.com/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Unacademy",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend, Mobile Developer, Data Engineer",
+  "website": "https://unacademy.com/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "UpGrad",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Full Stack, DevOps, QA, Cloud",
+  "website": "https://www.upgrad.com/careers/",
+  "type": "fulltime",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Vedantu",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE, Mobile Developer, Platform Engg.",
+  "website": "https://www.vedantu.com/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Physics Wallah",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Backend, React Dev, Mobile Engineer",
+  "website": "https://www.pw.live/careers",
+  "type": "fulltime",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Tally Solutions",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software Developer, ERP Developer",
+  "website": "https://tallysolutions.com/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Freshworks",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "Software Engineer, QA, Support",
+  "website": "https://careers.freshworks.com/",
+  "type": "fulltime",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "Zoho",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "Backend, Mobile, Systems",
+  "website": "https://careers.zoho.com/",
+  "type": "fulltime",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "Chargebee",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "SDE, Platform Engineering",
+  "website": "https://www.chargebee.com/careers/",
+  "type": "fulltime",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "Postman",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Platform Engineering, Backend",
+  "website": "https://www.postman.com/company/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "BrowserStack",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "SDE, QA Automation, DevOps",
+  "website": "https://www.browserstack.com/careers",
+  "type": "fulltime",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "RazorpayX",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend, FinTech Platform Engineer",
+  "website": "https://razorpay.com/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Groww",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE-1, Frontend, Backend, QA",
+  "website": "https://groww.skillate.com/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Zerodha",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Financial Software Developer, Full Stack",
+  "website": "https://zerodha.com/careers/",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "PayU",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Backend, Cloud Developer, SRE",
+  "website": "https://payu.in/careers",
+  "type": "fulltime",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Pine Labs",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Software Development, POS Tech",
+  "website": "https://www.pinelabs.com/careers",
+  "type": "fulltime",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "CitiusTech",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Healthcare Software / Cloud Developer",
+  "website": "https://www.citiustech.com/careers",
+  "type": "fulltime",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Tata Digital",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Cloud Engineer, Backend, UI Development",
+  "website": "https://www.tatadigital.com/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "InMobi",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Platform Engineering, ML, Cloud",
+  "website": "https://www.inmobi.com/company/careers",
+  "type": "fulltime",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Fractal Analytics",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Data Engineer, ML, AI Software",
+  "website": "https://fractal.ai/careers/",
+  "type": "fulltime",
+  "lat": 19.0760,
+  "lng": 72.8777
+}
+,
+{
+  "name": "Zoho Internship",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "Backend / Web Developer Internship",
+  "website": "https://careers.zoho.com/",
+  "type": "internship",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "TCS Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Web Development, Java, Data Internship",
+  "website": "https://www.tcs.com/careers",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Infosys InStep Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software + ML + Data Science Internship",
+  "website": "https://www.infosys.com/instep",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Wipro Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Web Development, Support, QA Internship",
+  "website": "https://careers.wipro.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "HCL Internship",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Software / Networking Internship",
+  "website": "https://www.hcltech.com/careers",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Tech Mahindra Internship",
+  "city": "Pune",
+  "country": "India",
+  "roles": "Java Developer / Tester Internship",
+  "website": "https://careers.techmahindra.com/",
+  "type": "internship",
+  "lat": 18.5204,
+  "lng": 73.8567
+},
+{
+  "name": "LTIMindtree Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Web + Data + Cloud Internship",
+  "website": "https://careers.ltimindtree.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Cognizant Gen-C Internship",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "Software Development Internship",
+  "website": "https://careers.cognizant.com/in/en",
+  "type": "internship",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "Accenture Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Cloud / Digital / SAP Internship",
+  "website": "https://www.accenture.com/in-en/careers",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Capgemini Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Java / Full Stack / Testing Internship",
+  "website": "https://www.capgemini.com/in-en/careers/",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Oracle Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Database / Java Internship",
+  "website": "https://www.oracle.com/in/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Intel Software Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Embedded / AI Software Internship",
+  "website": "https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "NVIDIA Intern",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "AI / CUDA / ML Internship",
+  "website": "https://www.nvidia.com/en-in/about-nvidia/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "IBM Internship",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "AI / Cloud / Data Internship",
+  "website": "https://www.ibm.com/careers",
+  "type": "internship",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Deloitte USI Internship",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Consulting + AI/ML Internship",
+  "website": "https://usijobs.deloitte.com/",
+  "type": "internship",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "PwC Internship",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Cloud + Digital Internship",
+  "website": "https://www.pwc.in/careers.html",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "EY Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Data + Cyber + Analyst Internship",
+  "website": "https://www.ey.com/en_in/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "KPMG Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software + Data Internship",
+  "website": "https://kpmg.com/in/en/home/careers.html",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Adobe Intern",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Backend / Cloud Internship",
+  "website": "https://www.adobe.com/careers.html",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Siemens Intern",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Embedded / IoT / Software Internship",
+  "website": "https://www.siemens.com/global/en/company/jobs.html",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+}
+,
+{
+  "name": "Flipkart Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Full Stack / Data / DevOps Internship",
+  "website": "https://www.flipkartcareers.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "PhonePe Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE Internship / Data Internship",
+  "website": "https://careers.phonepe.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Razorpay Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend / Platform Internship",
+  "website": "https://razorpay.com/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Meesho Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software Engineer / Data Internship",
+  "website": "https://careers.meesho.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Swiggy Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend / DevOps Internship",
+  "website": "https://careers.swiggy.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Zomato Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Software / Web / Data Internship",
+  "website": "https://www.zomato.com/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "OYO Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Full Stack / QA / Platform Internship",
+  "website": "https://www.oyorooms.com/careers/",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Groww Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE / Frontend / Backend Internship",
+  "website": "https://groww.skillate.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "CRED Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Android / Backend / DevOps Internship",
+  "website": "https://careers.cred.club/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Dream11 Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "SDE / Data Internship",
+  "website": "https://careers.dreamsports.group/",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Nykaa Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Software / App Dev Internship",
+  "website": "https://www.nykaa.com/careers",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Lenskart Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Backend / Mobile / Cloud Internship",
+  "website": "https://hiring.lenskart.com/",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Urban Company Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "SDE / Platform Internship",
+  "website": "https://careers.urbancompany.com/jobs",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Freshworks Internship",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "Web / QA / Support Internship",
+  "website": "https://careers.freshworks.com/",
+  "type": "internship",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "Chargebee Internship",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "SDE / Full Stack Internship",
+  "website": "https://www.chargebee.com/careers/",
+  "type": "internship",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "Postman Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Platform / Backend Internship",
+  "website": "https://www.postman.com/company/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "BrowserStack Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "QA / Automation / Testing Internship",
+  "website": "https://www.browserstack.com/careers",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Tally Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software / ERP Internship",
+  "website": "https://tallysolutions.com/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Physics Wallah Internship",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Frontend / Backend Internship",
+  "website": "https://www.pw.live/careers",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "UpGrad Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Web / Backend / App Internship",
+  "website": "https://www.upgrad.com/careers/",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+}
+,
+{
+  "name": "IITM Research Park Internship",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "AI / ML / Data Science Internship",
+  "website": "https://respark.iitm.ac.in/",
+  "type": "internship",
+  "lat": 13.0108,
+  "lng": 80.2357
+},
+{
+  "name": "ISRO Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Python / Satellite Data / Embedded Internship",
+  "website": "https://www.isro.gov.in/",
+  "type": "internship",
+  "lat": 13.0674,
+  "lng": 77.5970
+},
+{
+  "name": "DRDO Internship",
+  "city": "New Delhi",
+  "country": "India",
+  "roles": "Cyber Security / AI / Development Internship",
+  "website": "https://drdo.gov.in/",
+  "type": "internship",
+  "lat": 28.6139,
+  "lng": 77.2090
+},
+{
+  "name": "Bharat Electronics Internship (BEL)",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Embedded / Electronics / Software Internship",
+  "website": "https://bel-india.in/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Tata Elxsi Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "AI / Automotive Software Internship",
+  "website": "https://tataelxsi.com/careers",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "TechGiant Google STEP Internship",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Software Engineering Internship",
+  "website": "https://buildyourfuture.withgoogle.com/internships",
+  "type": "internship",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Microsoft Explore Internship",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Software / Cloud Engineering Internship",
+  "website": "https://careers.microsoft.com/",
+  "type": "internship",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Amazon SDE Internship",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "SDE Intern, Data Intern",
+  "website": "https://www.amazon.jobs/",
+  "type": "internship",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Goldman Sachs Summer Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software Development Internship",
+  "website": "https://www.goldmansachs.com/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "JPMorgan Chase Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software / Data / Cyber Internship",
+  "website": "https://careers.jpmorgan.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Morgan Stanley Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Software / Trading Systems Internship",
+  "website": "https://www.morganstanley.com/careers",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "American Express Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Backend / Cloud / Data Internship",
+  "website": "https://aexp.eightfold.ai/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Barclays Internship",
+  "city": "Pune",
+  "country": "India",
+  "roles": "Full Stack / Digital Banking Internship",
+  "website": "https://home.barclays/careers/",
+  "type": "internship",
+  "lat": 18.5204,
+  "lng": 73.8567
+},
+{
+  "name": "Paytm Internship",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Frontend / Backend / App Internship",
+  "website": "https://paytm.com/careers",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Tata Consultancy Innovation Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "R&D / ML / Software Internship",
+  "website": "https://www.tcs.com/careers",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Bosch Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "IoT / Firmware / Software Internship",
+  "website": "https://www.bosch.in/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Samsung R&D Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Android / Embedded / AI Internship",
+  "website": "https://research.samsung.com/careers",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Naukri Internship",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Web / Backend / Data Internship",
+  "website": "https://careers.infoedge.com/",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "PayU Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Backend / Cloud / SRE Internship",
+  "website": "https://payu.in/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Tata Digital Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software / Mobile / AI Internship",
+  "website": "https://www.tatadigital.com/careers",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+}
+,
+{
+  "name": "Ola Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend / Cloud / Android Internship",
+  "website": "https://ola.skillsate.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Rapido Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE / Mobile App Internship",
+  "website": "https://rapido.breezy.hr/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Blinkit Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Frontend / Backend Internship",
+  "website": "https://blinkit.com/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "BigBasket Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE / App / QA Internship",
+  "website": "https://careers.bigbasket.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "CarDekho Internship",
+  "city": "Jaipur",
+  "country": "India",
+  "roles": "Software Development Internship",
+  "website": "https://careers.cardekho.com/",
+  "type": "internship",
+  "lat": 26.9124,
+  "lng": 75.7873
+},
+{
+  "name": "PolicyBazaar Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "SDE / Frontend / App Internship",
+  "website": "https://www.policybazaar.com/careers/",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Boat Internship",
+  "city": "New Delhi",
+  "country": "India",
+  "roles": "Software / Hardware + IoT Internship",
+  "website": "https://boat-lifestyle.freshteam.com/jobs",
+  "type": "internship",
+  "lat": 28.6139,
+  "lng": 77.2090
+},
+{
+  "name": "Mamaearth Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Full Stack Intern / App Intern",
+  "website": "https://mamaearth.in/pages/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "MoneyTap Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE / Data Internship",
+  "website": "https://www.moneytap.com/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Rupeek Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend / Mobile Dev Internship",
+  "website": "https://www.rupeek.com/careers",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Zeta Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Platform / SDE Internship",
+  "website": "https://careers.zeta.tech/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "CoinDCX Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Blockchain / Software Internship",
+  "website": "https://careers.coindcx.com/",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "CoinSwitch Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Crypto + SDE Internship",
+  "website": "https://recruitment.coinswitch.co/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Cogoport Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Full Stack / QA / DevOps Internship",
+  "website": "https://cogoport.com/careers",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "ShareChat Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend / ML / App Internship",
+  "website": "https://sharechat.com/careers",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "NoBroker Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE / Platform / Mobile Internship",
+  "website": "https://www.nobroker.in/careers",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Magicbricks Internship",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Frontend / Backend Internship",
+  "website": "https://careers.magicbricks.com/",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Quikr Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend / QA Internship",
+  "website": "https://careers.quikr.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Paytm Mall Internship",
+  "city": "Noida",
+  "country": "India",
+  "roles": "SDE / App / Data Internship",
+  "website": "https://paytm.com/careers",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Delhivery Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Software Development Internship",
+  "website": "https://www.delhivery.com/careers/",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+}
+,
+{
+  "name": "RedBus Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE / QA / Mobile Internship",
+  "website": "https://www.redbus.in/careers",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Tata 1mg Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Software / Full Stack Internship",
+  "website": "https://www.1mg.com/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Swiggy Instamart Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Backend / Data Internship",
+  "website": "https://careers.swiggy.com/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Udaan Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Platform / App / QA Internship",
+  "website": "https://udaan.com/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "DreamSports Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "SDE / Big Data Internship",
+  "website": "https://careers.dreamsports.group/",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Oasis Infobyte Internship",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Web Dev Internship / Java Internship",
+  "website": "https://oasisinfobyte.com/internships",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Prodigy Infotech Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Web Dev / Python Internship",
+  "website": "https://prodigyinfotech.dev/",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "EddyTools Internship",
+  "city": "Pune",
+  "country": "India",
+  "roles": "AI / ML / Cloud Internship",
+  "website": "https://eddytools.com/",
+  "type": "internship",
+  "lat": 18.5204,
+  "lng": 73.8567
+},
+{
+  "name": "Tech Amigos Internship",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "JavaScript / MERN Internship",
+  "website": "https://techamigos.com/careers",
+  "type": "internship",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Coding Ninjas Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Web Dev + Teaching Assistant Internship",
+  "website": "https://www.codingninjas.com/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Scaler Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "SDE / TA / Data Internship",
+  "website": "https://www.scaler.com/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Masai Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software + Mentor Internships",
+  "website": "https://www.masaischool.com/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "PrepBytes Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Frontend / Backend Internship",
+  "website": "https://www.prepbytes.com/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "GeeksforGeeks Internship",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Web Dev / DSA Content Internship",
+  "website": "https://www.geeksforgeeks.org/careers/",
+  "type": "internship",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "CodeChef Internship",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Web Developer + DSA Content Internship",
+  "website": "https://www.codechef.com/careers",
+  "type": "internship",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "InterviewBit Internship",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software / Platform Internship",
+  "website": "https://www.interviewbit.com/careers/",
+  "type": "internship",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Internshala Internship",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Full Stack / App Dev Internship",
+  "website": "https://internshala.com/about/careers",
+  "type": "internship",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "NxtWave Internship",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Web Dev / Teaching Assistant Internship",
+  "website": "https://www.ccbp.in/careers",
+  "type": "internship",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "MindBody Internship",
+  "city": "Pune",
+  "country": "India",
+  "roles": "Java / API / QA Internship",
+  "website": "https://company.mindbodyonline.com/careers",
+  "type": "internship",
+  "lat": 18.5204,
+  "lng": 73.8567
+},
+{
+  "name": "ATMECS Internship",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "DevOps / Cloud / Full Stack Internship",
+  "website": "https://atmecs.com/careers/",
+  "type": "internship",
+  "lat": 17.3850,
+  "lng": 78.4867
+}
+,
+{
+  "name": "TCS Remote Work",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Backend / Full Stack / QA",
+  "website": "https://www.tcs.com/careers",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "Infosys Remote Work",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Software / Support / Cloud Remote",
+  "website": "https://www.infosys.com/careers.html",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "HCLTech Remote",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Remote Developer / Support Engineer",
+  "website": "https://www.hcltech.com/careers",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "Wipro Remote",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Remote Web Developer / QA / Analyst",
+  "website": "https://careers.wipro.com/",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "Tech Mahindra Remote",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Java / Full Stack / Testing Remote",
+  "website": "https://careers.techmahindra.com/",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "Cognizant Remote",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Software / Cyber Security Remote",
+  "website": "https://careers.cognizant.com/",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "LTIMindtree Remote",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Full Stack / Cloud / Data Remote",
+  "website": "https://careers.ltimindtree.com/",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "IBM India Remote",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "AI / Data / Cloud Engineer Remote",
+  "website": "https://www.ibm.com/careers",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "Accenture India Remote",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Software / SAP / DevOps Remote",
+  "website": "https://www.accenture.com/in-en/careers",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "Deloitte India Remote",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Cyber / Data / Software Remote",
+  "website": "https://www2.deloitte.com/in/en/careers.html",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "PwC Remote India",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Cloud / App / Data Remote",
+  "website": "https://www.pwc.in/careers.html",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "EY Remote India",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Security / Analytics / Software Remote",
+  "website": "https://www.ey.com/en_in/careers",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "KPMG Remote India",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Software / Data / Infra Remote",
+  "website": "https://kpmg.com/in/en/home/careers.html",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "Razorpay Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote SDE / Remote DevOps / Remote Data",
+  "website": "https://razorpay.com/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Swiggy Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Software Development Remote",
+  "website": "https://careers.swiggy.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Meesho Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote SDE / Frontend / Backend",
+  "website": "https://careers.meesho.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "CRED Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Mobile / DevOps / Backend",
+  "website": "https://careers.cred.club/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "PhonePe Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Engineer / Platform Developer",
+  "website": "https://careers.phonepe.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Groww Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software Developer / Data",
+  "website": "https://groww.skillate.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Zerodha Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Backend / Full Stack",
+  "website": "https://zerodha.com/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+}
+,
+{
+  "name": "Airtel X Labs Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote Software / Cloud / Platform",
+  "website": "https://careers.airtel.com/",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Tata Digital Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Full Stack / Android / DevOps",
+  "website": "https://www.tatadigital.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Tata Elxsi Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote AI / Embedded Software",
+  "website": "https://tataelxsi.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Bosch India Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "IoT / Cloud / Firmware Remote",
+  "website": "https://www.bosch.in/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Tally Solutions Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / ERP Developer",
+  "website": "https://tallysolutions.com/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Freshworks Remote",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "Remote SDE / QA / Customer Engineering",
+  "website": "https://careers.freshworks.com/",
+  "type": "remote",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "Zoho Remote",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "Remote Backend / Android / .NET / Support",
+  "website": "https://careers.zoho.com/",
+  "type": "remote",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "Chargebee Remote",
+  "city": "Chennai",
+  "country": "India",
+  "roles": "Remote Full Stack / Platform",
+  "website": "https://www.chargebee.com/careers/",
+  "type": "remote",
+  "lat": 13.0674,
+  "lng": 80.2376
+},
+{
+  "name": "BrowserStack Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote QA / SDET / Automation",
+  "website": "https://www.browserstack.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "CitiusTech Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Healthcare Software / Cloud",
+  "website": "https://www.citiustech.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Paytm Remote",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Remote Full Stack / App Developer",
+  "website": "https://paytm.com/careers",
+  "type": "remote",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "UpGrad Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Web Developer / Data",
+  "website": "https://www.upgrad.com/careers/",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Physics Wallah Remote",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Remote Software Developer / TA",
+  "website": "https://www.pw.live/careers",
+  "type": "remote",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Scaler Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote SDE / Data / DevOps",
+  "website": "https://www.scaler.com/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "GeeksforGeeks Remote",
+  "city": "Noida",
+  "country": "India",
+  "roles": "Remote Full Stack / Educator",
+  "website": "https://www.geeksforgeeks.org/careers/",
+  "type": "remote",
+  "lat": 28.5355,
+  "lng": 77.3910
+},
+{
+  "name": "Internshala Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote MERN Developer / Mobile App",
+  "website": "https://internshala.com/about/careers",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Masai School Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Web / Teaching Assistant",
+  "website": "https://www.masaischool.com/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Coding Ninjas Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote Full Stack / Mentor",
+  "website": "https://www.codingninjas.com/careers",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "NxtWave Remote",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Remote MERN / Data Developer",
+  "website": "https://www.ccbp.in/careers",
+  "type": "remote",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "NoBroker Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Backend / Mobile / QA",
+  "website": "https://www.nobroker.in/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+}
+,
+{
+  "name": "Byju's Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / TA / Tech Support",
+  "website": "https://byjus.com/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Vedantu Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Web Developer / Data / TA",
+  "website": "https://www.vedantu.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Testbook Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Full Stack / Software / TA",
+  "website": "https://testbook.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Unacademy Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Developer / Educator / Data",
+  "website": "https://unacademy.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Lido Learning Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Web Dev / TA / Tech Support",
+  "website": "https://www.lidolearning.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "WhiteHat Jr Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Instructor / Backend / App Dev",
+  "website": "https://www.whitehatjr.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "PayU Remote India",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote SDE / Cloud / SRE",
+  "website": "https://payu.in/careers",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Juspay Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Full Stack / Scala / Platform",
+  "website": "https://www.juspay.in/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Rippling India Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / Cloud / Security",
+  "website": "https://www.rippling.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "MoEngage Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / App / Platform",
+  "website": "https://moengage.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "LivSpace Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote MERN / SDE / Test Automation",
+  "website": "https://www.livspace.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Ola Remote Tech",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / DevOps / Data",
+  "website": "https://ola.skillsate.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Rapido Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Android / Backend / QA",
+  "website": "https://rapido.breezy.hr/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Cogoport Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Backend / Data / DevOps",
+  "website": "https://cogoport.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Upstox Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote SDE / Data / Cloud",
+  "website": "https://upstox.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Angel One Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Full Stack / Platform Developer",
+  "website": "https://www.angelone.in/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Turtlemint Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Backend / NodeJS / QA",
+  "website": "https://turtlemint.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Rupeek Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote MERN / App / DevOps",
+  "website": "https://www.rupeek.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Delhivery Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote Full Stack / Data / QA",
+  "website": "https://www.delhivery.com/careers/",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Zeta Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote SDE / Platform / Cloud",
+  "website": "https://careers.zeta.tech/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+}
+,
+{
+  "name": "Dream11 Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Backend / Full Stack / DevOps",
+  "website": "https://www.dreamsports.group/careers/",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Ather Energy Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / Cloud / Telemetry",
+  "website": "https://careers.atherenergy.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "OYO Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote Software / Product / Data",
+  "website": "https://www.oyorooms.com/careers/",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Urban Company Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote SDE / Platform Dev / QA",
+  "website": "https://careers.urbancompany.com/",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Turtlemint Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Cloud / Backend / QA",
+  "website": "https://turtlemint.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Cashfree Payments Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Full Stack / DevOps / Data",
+  "website": "https://www.cashfree.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "CoinDCX Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Blockchain / Backend / Platform",
+  "website": "https://careers.coindcx.com/",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "CoinSwitch Kuber Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Crypto / Full Stack / Cloud",
+  "website": "https://recruitment.coinswitch.co/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Cuvette Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote MERN / Data / Intern to SDE",
+  "website": "https://cuvette.tech/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Springworks Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Full Stack / QA / HR Tech",
+  "website": "https://www.springworks.in/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Uable Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Web Dev / App / Backend",
+  "website": "https://www.uable.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "BlueLearn Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote MERN / Automation / Data",
+  "website": "https://www.bluelearn.in/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Quora India Remote",
+  "city": "India (WFH)",
+  "country": "India",
+  "roles": "Remote Software / Platform / ML",
+  "website": "https://www.quora.com/careers",
+  "type": "remote",
+  "lat": 20.5937,
+  "lng": 78.9629
+},
+{
+  "name": "Airmeet Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Web / Backend / Streaming Engineer",
+  "website": "https://www.airmeet.com/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "HackerEarth Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / QA / DevOps",
+  "website": "https://hackerearth.com/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "HackerRank Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Platform / Backend / Testing",
+  "website": "https://www.hackerrank.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Xiaomi India Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Android / Embedded / QA",
+  "website": "https://www.mi.com/in/about/careers/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Samsung R&D India Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote AI / Mobile / Cloud",
+  "website": "https://research.samsung.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Dell Technologies India Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / Platform / Support",
+  "website": "https://jobs.dell.com/work-from-home",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "HP India Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Cloud / Data / Software Engineer",
+  "website": "https://jobs.hp.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+}
+,
+{
+  "name": "Microsoft India Remote",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Remote Cloud / AI / Software Engineer",
+  "website": "https://careers.microsoft.com/",
+  "type": "remote",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Google India Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Full Stack / ML / Cloud",
+  "website": "https://careers.google.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Amazon India Remote",
+  "city": "Hyderabad",
+  "country": "India",
+  "roles": "Remote SDE / Data Engineer / Support",
+  "website": "https://www.amazon.jobs/",
+  "type": "remote",
+  "lat": 17.3850,
+  "lng": 78.4867
+},
+{
+  "name": "Flipkart Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / Data / Security",
+  "website": "https://www.flipkartcareers.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Reliance Jio Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Cloud / Backend / Automation",
+  "website": "https://careers.jio.com/",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Zomato Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote SDE / DevOps / QA",
+  "website": "https://www.zomato.com/careers",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Blinkit Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote Full Stack / App Developer",
+  "website": "https://blinkit.com/careers",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "BigBasket Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Software / QA / Data",
+  "website": "https://careers.bigbasket.com/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "MakeMyTrip Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote Web / Data / Cloud",
+  "website": "https://careers.makemytrip.com/",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "TravelTriangle Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote Developer / Platform / App",
+  "website": "https://traveltriangle.com/careers",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Nykaa Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote Android / Backend / DevOps",
+  "website": "https://www.nykaa.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Mamaearth Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote Software / Full Stack / App",
+  "website": "https://mamaearth.in/pages/careers",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "Tanishq Digital Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Web Developer / E-Commerce",
+  "website": "https://careers.titan.co.in/",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Tata 1mg Remote",
+  "city": "Gurugram",
+  "country": "India",
+  "roles": "Remote App / Backend / QA",
+  "website": "https://www.1mg.com/careers",
+  "type": "remote",
+  "lat": 28.4595,
+  "lng": 77.0266
+},
+{
+  "name": "PharmEasy Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote MERN / Data / QA",
+  "website": "https://pharmeasy.in/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+},
+{
+  "name": "Simpl Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Backend / SDE / Testing",
+  "website": "https://www.getsimpl.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "ClearTax Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Full Stack / Product Developer",
+  "website": "https://cleartax.in/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Navi Remote",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Platform / Cloud / Mobile",
+  "website": "https://navi.com/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Juspay Remote India",
+  "city": "Bangalore",
+  "country": "India",
+  "roles": "Remote Fintech Backend / Scala / Platform",
+  "website": "https://www.juspay.in/careers",
+  "type": "remote",
+  "lat": 12.9716,
+  "lng": 77.5946
+},
+{
+  "name": "Tata Consultancy Innovation Remote",
+  "city": "Mumbai",
+  "country": "India",
+  "roles": "Remote AI / ML / Software Developer",
+  "website": "https://www.tcs.com/careers",
+  "type": "remote",
+  "lat": 19.0760,
+  "lng": 72.8777
+}
+
+
+
+]

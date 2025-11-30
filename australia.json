@@ -1,0 +1,1999 @@
+[
+  {
+    "name": "Atlassian",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Backend Developer, DevOps",
+    "website": "https://www.atlassian.com/company/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Canva",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Frontend Developer, Product Engineer, UX Engineer",
+    "website": "https://www.canva.com/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Telstra",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Cloud Engineer, Cyber Security Engineer",
+    "website": "https://careers.telstra.com/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Optus",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Developer, Mobile App Developer",
+    "website": "https://www.optus.com.au/about/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Commonwealth Bank",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Java Developer, Data Engineer, Freshers",
+    "website": "https://www.commbank.com.au/careers.html",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "ANZ Bank",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Cloud Engineer",
+    "website": "https://www.anz.com.au/about-us/careers/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Westpac",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Backend Developer, API Engineer",
+    "website": "https://www.westpac.com.au/about-westpac/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "NAB Technology",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Cyber Security Developer, DevOps Engineer",
+    "website": "https://careers.nab.com.au/en/listing/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Woolworths Group Tech",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Backend Developer, UI Developer",
+    "website": "https://careers.woolworthsgroup.com.au/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "MyGov Digital",
+    "city": "Canberra",
+    "country": "Australia",
+    "roles": "Government Tech Developer, Web Developer",
+    "website": "https://www.digitalprofession.gov.au/careers",
+    "type": "fulltime",
+    "lat": -35.2809,
+    "lng": 149.1300
+  },
+  {
+    "name": "Coles Technology",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Mobile Developer",
+    "website": "https://careers.colesgroup.com.au/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "REA Group",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "JavaScript Developer, DevOps",
+    "website": "https://www.rea-group.com/careers/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "SEEK",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Software Engineer, API Developer",
+    "website": "https://www.seek.com.au/career-advice/careers",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Afterpay",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Machine Learning Engineer, Backend Developer",
+    "website": "https://www.afterpay.com/en-US/careers",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Qantas Digital",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Developer, Cloud Engineer",
+    "website": "https://www.qantas.com/au/en/about-us/careers.html",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Virgin Australia Technology",
+    "city": "Brisbane",
+    "country": "Australia",
+    "roles": "Software Developer, Data Engineer",
+    "website": "https://www.virginaustralia.com/au/en/about-us/careers/",
+    "type": "fulltime",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "name": "Jetstar Digital",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Mobile Developer",
+    "website": "https://www.jetstar.com/au/en/careers",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Suncorp Technology",
+    "city": "Brisbane",
+    "country": "Australia",
+    "roles": "Cloud Developer, Security Analyst",
+    "website": "https://www.suncorpgroup.com.au/careers",
+    "type": "fulltime",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "name": "Accenture Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Engineer, SAP Developer",
+    "website": "https://www.accenture.com/au-en/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Infosys Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Frontend Developer, Backend Developer",
+    "website": "https://www.infosys.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "TCS Australia",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Java Developer, Software Tester",
+    "website": "https://www.tcs.com/careers",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Wipro Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Cloud Developer, API Developer",
+    "website": "https://careers.wipro.com/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "HCLTech Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Full Stack Developer, DevOps",
+    "website": "https://www.hcltech.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "IBM Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "AI Engineer, Data Scientist",
+    "website": "https://www.ibm.com/employment/au-en/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  }
+  ,
+  {
+    "name": "SAP Australia",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "ERP Developer, Backend Developer",
+    "website": "https://jobs.sap.com/location/Australia-jobs/627/1101677/2",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Oracle Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Database Developer, Java Developer",
+    "website": "https://careers.oracle.com/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Google Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Engineer, ML Engineer",
+    "website": "https://careers.google.com/locations/sydney/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Microsoft Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Azure Cloud Developer, AI Engineer",
+    "website": "https://careers.microsoft.com/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Amazon AWS Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Cloud Developer, SDE, Data Engineer",
+    "website": "https://www.amazon.jobs/en/locations/sydney-australia",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Meta Facebook Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Frontend Developer, Research Engineer",
+    "website": "https://www.metacareers.com/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Adobe Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Full Stack Developer, JavaScript Developer",
+    "website": "https://adobe.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Salesforce Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "CRM Developer, JavaScript Developer",
+    "website": "https://www.salesforce.com/company/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "IBM Research Lab Australia",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "AI Developer, Data Scientist",
+    "website": "https://www.ibm.com/employment/au-en/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Accelo",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Backend Developer, Python Developer",
+    "website": "https://www.accelo.com/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Finder",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Frontend Developer, React Developer",
+    "website": "https://www.finder.com.au/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "WiseTech Global",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Full Stack Developer, .NET Developer",
+    "website": "https://www.wisetechglobal.com/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Blackmagic Design",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "C++ Developer, Video Tech Engineer",
+    "website": "https://www.blackmagicdesign.com/au/careers",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Cars24 Tech Australia",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Backend Developer",
+    "website": "https://www.cars24.com/au/jobs",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Dominos Digital",
+    "city": "Brisbane",
+    "country": "Australia",
+    "roles": "Software Developer, Frontend Developer",
+    "website": "https://careers.dominos.com/",
+    "type": "fulltime",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "name": "BHP Technology",
+    "city": "Perth",
+    "country": "Australia",
+    "roles": "Data Engineer, Software Developer",
+    "website": "https://careers.bhp.com/",
+    "type": "fulltime",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "Rio Tinto Digital",
+    "city": "Perth",
+    "country": "Australia",
+    "roles": "Digital Engineer, Backend Developer",
+    "website": "https://jobs.riotinto.com/",
+    "type": "fulltime",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "Woodside Energy Tech",
+    "city": "Perth",
+    "country": "Australia",
+    "roles": "AI Developer, Data Scientist",
+    "website": "https://www.woodside.com/careers",
+    "type": "fulltime",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "Bupa Digital",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Software Engineer, UI Developer",
+    "website": "https://careers.bupa.com.au/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Infosys Digital Experience",
+    "city": "Brisbane",
+    "country": "Australia",
+    "roles": "Frontend Developer, QA Tester",
+    "website": "https://www.infosys.com/careers",
+    "type": "fulltime",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "name": "Infosys Consulting Lab Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "AI Engineer, ML Engineer",
+    "website": "https://www.infosys.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Toptal AU",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Remote Full Stack Developer",
+    "website": "https://www.toptal.com/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Elastic Australia",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Search Developer, Data Engineer",
+    "website": "https://careers.elastic.co/",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Xero",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Backend Developer, Golang Developer",
+    "website": "https://www.xero.com/au/about/careers/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Lion Digital Tech",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "React Developer, Mobile Developer",
+    "website": "https://liondigital.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  }
+
+,
+  {
+    "name": "CSBP Digital",
+    "city": "Perth",
+    "country": "Australia",
+    "roles": "Backend Developer, Mobile App Developer",
+    "website": "https://csbp.com.au/careers",
+    "type": "fulltime",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "Seven West Media Tech",
+    "city": "Perth",
+    "country": "Australia",
+    "roles": "Web Developer, Streaming Tech Engineer",
+    "website": "https://sevenwestmedia.com.au/careers",
+    "type": "fulltime",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "Southern Cross Austereo Digital",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Data Analyst",
+    "website": "https://careers.sca.com.au/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Foxtel Digital",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Streaming Engineer, Backend Developer",
+    "website": "https://careers.foxtelgroup.com.au/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Stan Entertainment",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Mobile Engineer, Site Reliability Engineer",
+    "website": "https://careers.stan.com.au/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Nine Digital",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "React Developer, Backend Developer",
+    "website": "https://nine.com.au/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "ABC Digital Australia",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Frontend Developer, Cloud Engineer",
+    "website": "https://careers.abc.net.au/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "SBS Digital",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Mobile Developer, API Developer",
+    "website": "https://www.sbs.com.au/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Australia Post Digital",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Software Developer, Data Engineer",
+    "website": "https://auspost.com.au/jobs",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Medibank Digital",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Backend Developer, UI Developer",
+    "website": "https://careers.medibank.com.au/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "NAB Digital Lab",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Product Engineer",
+    "website": "https://careers.nab.com.au/en/listing/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Carsales",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "React Developer, Backend Developer",
+    "website": "https://careers.carsales.com.au/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Zip Co",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Java Developer, Cloud Developer",
+    "website": "https://zip.co/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Braintree Payments Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Payment Systems Developer, Node Developer",
+    "website": "https://www.braintreepayments.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Square AU",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "API Developer, Backend Developer",
+    "website": "https://squareup.com/au/en/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Envato",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Developer, WordPress Developer",
+    "website": "https://envato.com/careers/",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "ThemeForest AU",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "PHP Developer, Frontend Developer",
+    "website": "https://themeforest.net/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Codecov Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "DevOps Developer, Python Developer",
+    "website": "https://about.codecov.io/careers/",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Bitbucket Cloud AU",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Cloud Developer, SRE Engineer",
+    "website": "https://www.atlassian.com/company/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Minderoo Foundation Digital",
+    "city": "Perth",
+    "country": "Australia",
+    "roles": "AI Specialist, Software Engineer",
+    "website": "https://www.minderoo.org/careers/",
+    "type": "fulltime",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "SquarePeg",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Mobile Developer",
+    "website": "https://www.squarepeg.vc/careers/",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Airwallex",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Backend Developer, Go Developer",
+    "website": "https://www.airwallex.com/company/careers",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Culture Amp",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "React Developer, API Developer",
+    "website": "https://www.cultureamp.com/careers",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "SiteMinder",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "JavaScript Developer, Backend Developer",
+    "website": "https://www.siteminder.com/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Harrison.ai",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "ML Engineer, Deep Learning Engineer",
+    "website": "https://harrison.ai/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "SafetyCulture",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Mobile App Developer, Cloud Backend Developer",
+    "website": "https://safetyculture.com/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "A Cloud Guru",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Cloud Developer, AWS Course Engineer",
+    "website": "https://acloudguru.com/careers",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Coder Academy AU",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Web Developer Instructor, Software Developer",
+    "website": "https://coderacademy.edu.au/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  }
+,
+  {
+    "name": "Wise AU",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Backend Developer, Node.js Engineer",
+    "website": "https://wise.jobs/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Block AU",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Mobile Developer, API Developer",
+    "website": "https://block.xyz/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Nearmap",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "AI Computer Vision Engineer, Python Developer",
+    "website": "https://www.nearmap.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Envizi",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Developer, Data Analytics Engineer",
+    "website": "https://www.envizi.com/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Airtasker",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Mobile Developer",
+    "website": "https://www.airtasker.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Judo Bank Digital",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Java Developer, Automation Test Engineer",
+    "website": "https://www.judobank.com.au/careers",
+    "type": "fulltime",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Sendle Tech",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Backend Developer, Platform Engineer",
+    "website": "https://try.sendle.com/en-au/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Koala AU",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Frontend Developer, Shopify Developer",
+    "website": "https://au.koala.com/pages/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Who Gives a Crap Digital",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Remote Developer",
+    "website": "https://careers.whogivesacrap.org/",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Secure Code Warrior",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Cyber Security Engineer, Backend Developer",
+    "website": "https://www.securecodewarrior.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Frollo",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "FinTech Developer, React Developer",
+    "website": "https://frollo.com.au/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Baraja",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Lidar Software Engineer, C++ Developer",
+    "website": "https://www.baraja.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Fleet Space Technologies",
+    "city": "Adelaide",
+    "country": "Australia",
+    "roles": "AI Satellite Developer, Embedded Systems Software",
+    "website": "https://www.fleetspace.com/careers",
+    "type": "fulltime",
+    "lat": -34.9285,
+    "lng": 138.6007
+  },
+  {
+    "name": "Saab Australia",
+    "city": "Adelaide",
+    "country": "Australia",
+    "roles": "Defence Software Engineer, C++ Developer",
+    "website": "https://saab.com/au/en/careers",
+    "type": "fulltime",
+    "lat": -34.9285,
+    "lng": 138.6007
+  },
+  {
+    "name": "Codan Digital",
+    "city": "Adelaide",
+    "country": "Australia",
+    "roles": "Embedded Developer, DSP Developer",
+    "website": "https://www.codan.com.au/careers/",
+    "type": "fulltime",
+    "lat": -34.9285,
+    "lng": 138.6007
+  },
+  {
+    "name": "Humanforce",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Backend Developer, Full Stack Developer",
+    "website": "https://humanforce.com/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Linktree",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "React Developer, Node Developer",
+    "website": "https://linktr.ee/careers",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Deputy",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Mobile Developer, Backend Developer",
+    "website": "https://www.deputy.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Employment Hero",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Full Stack Developer, API Developer",
+    "website": "https://employmenthero.com/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Octopus Deploy",
+    "city": "Brisbane",
+    "country": "Australia",
+    "roles": "DevOps Developer, Cloud Engineer",
+    "website": "https://octopus.com/company/careers",
+    "type": "remote",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "name": "Altium",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "PCB Software Developer, C++ Developer",
+    "website": "https://www.altium.com/careers",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Main Sequence Ventures Digital",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "AI Developer, Research Programmer",
+    "website": "https://mseq.vc/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Propeller Aero",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Drone Software Developer, GIS Developer",
+    "website": "https://www.propelleraero.com/company/careers/",
+    "type": "fulltime",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Gilmour Space Technologies",
+    "city": "Gold Coast",
+    "country": "Australia",
+    "roles": "Space Software Engineer, Python Developer",
+    "website": "https://www.gspacetech.com/careers/",
+    "type": "fulltime",
+    "lat": -28.0167,
+    "lng": 153.4
+  },
+  {
+    "name": "Spacetalk",
+    "city": "Adelaide",
+    "country": "Australia",
+    "roles": "IoT Developer, Firmware Engineer",
+    "website": "https://spacetalk.com/au/pages/careers",
+    "type": "fulltime",
+    "lat": -34.9285,
+    "lng": 138.6007
+  }
+  ,
+  {
+    "name": "Atlassian Summer Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Engineer Intern, Backend Intern",
+    "website": "https://www.atlassian.com/company/careers/students",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Canva Internship Program",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Frontend Intern, UI/UX Intern",
+    "website": "https://www.canva.com/careers/students/",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Commonwealth Bank Tech Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Developer Intern, Data Intern",
+    "website": "https://www.commbank.com.au/careers/graduate-and-summer-internship.html",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Telstra IT Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Network Intern, Cloud Engineering Intern",
+    "website": "https://careers.telstra.com/early-careers",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Optus Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Intern, Mobile App Intern",
+    "website": "https://www.optus.com.au/about/careers/early-careers",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "ANZ Technology Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Intern, Cloud Intern",
+    "website": "https://www.anz.com.au/careers/programs/anz-graduate-program/",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Westpac Tech Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Java Intern, API Intern",
+    "website": "https://www.westpac.com.au/about-westpac/careers/early-careers/",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Woolworths Group Tech Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "App Developer Intern, UI Intern",
+    "website": "https://careers.woolworthsgroup.com.au/content/Students-&-Graduates/?locale=en_GB",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Qantas Digital Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Backend Developer Intern, Cloud Intern",
+    "website": "https://www.qantas.com/au/en/about-us/careers/early-careers.html",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Virgin Australia IT Internship",
+    "city": "Brisbane",
+    "country": "Australia",
+    "roles": "Software Intern, DevOps Intern",
+    "website": "https://www.virginaustralia.com/au/en/about-us/careers/",
+    "type": "internship",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "name": "Suncorp Tech Internship",
+    "city": "Brisbane",
+    "country": "Australia",
+    "roles": "Security Intern, Data Intern",
+    "website": "https://www.suncorpgroup.com.au/careers/early-careers",
+    "type": "internship",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "name": "Coles Technology Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Frontend Intern, Backend Intern",
+    "website": "https://careers.colesgroup.com.au/early-careers",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "REA Group Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "React Intern, DevOps Intern",
+    "website": "https://www.rea-group.com/careers/grads/",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "SEEK Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "App Developer Intern, Web Intern",
+    "website": "https://talent.seek.com.au/early-careers",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Afterpay Tech Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "ML Intern, Data Intern",
+    "website": "https://afterpay.com/en-au/careers/students",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Infosys Australia Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Java Intern, Cloud Intern",
+    "website": "https://www.infosys.com/careers/students",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "TCS Australia Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Python Intern, QA Intern",
+    "website": "https://www.tcs.com/careers/students",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "IBM Australia Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "AI Intern, Data Science Intern",
+    "website": "https://www.ibm.com/employment/au-en/students/",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Microsoft Australia Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Cloud Intern, Software Intern",
+    "website": "https://careers.microsoft.com/students/us/en",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Amazon AWS Internship Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "SDE Intern, Data Intern",
+    "website": "https://www.amazon.jobs/en/teams/internships-for-students",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Google Internship Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Android Intern, ML Intern",
+    "website": "https://careers.google.com/students/",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Meta Internship Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Frontend Intern, Research Intern",
+    "website": "https://www.metacareers.com/students-and-grads",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  }
+
+,
+  {
+    "name": "WiseTech Global Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Full Stack Intern, C# Intern",
+    "website": "https://www.wisetechglobal.com/careers/early-careers/",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Quantium Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Data Science Intern, ML Intern",
+    "website": "https://www.quantium.com/careers/grads-interns/",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "SafetyCulture Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Mobile App Intern, Cloud Engineering Intern",
+    "website": "https://safetyculture.com/careers/interns/",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "CSBP Digital Internship",
+    "city": "Perth",
+    "country": "Australia",
+    "roles": "Backend Intern, API Intern",
+    "website": "https://csbp.com.au/careers",
+    "type": "internship",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "University of Melbourne IT Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Research Software Intern, Web Intern",
+    "website": "https://careers.unimelb.edu.au/en/early-careers",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Monash University Digital Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "AI Intern, Python Intern",
+    "website": "https://www.monash.edu/it/internships",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "EY Australia Tech Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Tech Risk Intern, Data Analytics Intern",
+    "website": "https://www.ey.com/en_au/careers/students",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Deloitte Digital Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Backend Intern, Cloud Intern",
+    "website": "https://www2.deloitte.com/au/en/careers/students.html",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "KPMG Tech Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Data Intern, Cybersecurity Intern",
+    "website": "https://kpmg.com/au/en/home/careers/students.html",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "PwC Digital Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Intern, Data Analytics Intern",
+    "website": "https://www.pwc.com.au/careers/students.html",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "J.P. Morgan Tech Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Java Intern, Cloud Intern",
+    "website": "https://careers.jpmorgan.com/global/en/students/programs",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Morgan Stanley Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Cybersecurity Intern, Data Intern",
+    "website": "https://www.morganstanley.com/careers/campus",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Bloomberg Sydney Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Data Intern, Software Intern",
+    "website": "https://www.bloomberg.com/careers/students-and-graduates",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Macquarie Group Digital Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "Software Intern, ML Intern",
+    "website": "https://www.macquarie.com/au/en/careers/graduate-and-intern-programs.html",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Origin Energy Digital Internship",
+    "city": "Sydney",
+    "country": "Australia",
+    "roles": "App Developer Intern, Platform Intern",
+    "website": "https://careers.originenergy.com.au/early-careers",
+    "type": "internship",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "BHP Digital Internship",
+    "city": "Perth",
+    "country": "Australia",
+    "roles": "Cloud Engineering Intern, Data Intern",
+    "website": "https://careers.bhp.com/early-careers",
+    "type": "internship",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "Rio Tinto Tech Internship",
+    "city": "Perth",
+    "country": "Australia",
+    "roles": "Software Intern, AI Intern",
+    "website": "https://jobs.riotinto.com/early-careers/",
+    "type": "internship",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "Xero Tech Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Backend Intern, Golang Intern",
+    "website": "https://www.xero.com/au/about/careers/students/",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Airwallex Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Platform Intern, Full Stack Intern",
+    "website": "https://www.airwallex.com/careers/students",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Culture Amp Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "React Intern, Data Engineering Intern",
+    "website": "https://www.cultureamp.com/careers/students",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Envato Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Full Stack Intern, Web Intern",
+    "website": "https://envato.com/careers/students",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Linktree Internship",
+    "city": "Melbourne",
+    "country": "Australia",
+    "roles": "Mobile Intern, Frontend Intern",
+    "website": "https://linktr.ee/careers/internships",
+    "type": "internship",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Octopus Deploy Internship",
+    "city": "Brisbane",
+    "country": "Australia",
+    "roles": "Cloud Intern, DevOps Intern",
+    "website": "https://octopus.com/company/careers/interns",
+    "type": "internship",
+    "lat": -27.4698,
+    "lng": 153.0251
+  }
+  ,
+  {
+    "name": "Canva Remote Engineering",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Software Engineer (Remote), Frontend Developer",
+    "website": "https://www.canva.com/careers/",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Atlassian Remote Engineering",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Full Stack Developer (Remote), Backend Developer",
+    "website": "https://www.atlassian.com/company/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Envato Remote Developers",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Full Stack Developer, WordPress Developer",
+    "website": "https://envato.com/careers",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Linktree Remote Team",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "React Developer, Mobile Developer",
+    "website": "https://linktr.ee/careers",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Employment Hero Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Full Stack Developer, API Developer",
+    "website": "https://employmenthero.com/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Octopus Deploy Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Cloud Developer, DevOps Engineer",
+    "website": "https://octopus.com/company/careers",
+    "type": "remote",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "name": "Airwallex Remote AU",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Backend Engineer, Platform Engineer",
+    "website": "https://www.airwallex.com/company/careers",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "SafetyCulture Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Mobile Developer, Full Stack Developer",
+    "website": "https://safetyculture.com/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Xero Remote Developer Team",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Backend Engineer, Golang Developer",
+    "website": "https://www.xero.com/careers",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Culture Amp Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Software Engineer, Data Engineer",
+    "website": "https://www.cultureamp.com/careers",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "SiteMinder Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Java Developer, Javascript Developer",
+    "website": "https://www.siteminder.com/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Deputy Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Frontend Developer, Mobile Developer",
+    "website": "https://www.deputy.com/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Rocket Software AU Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Software Engineer, API Developer",
+    "website": "https://www.rocketsoftware.com/company/careers",
+    "type": "remote",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "Toptal Remote AU (Freelance Devs)",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Remote Full Stack Developer",
+    "website": "https://www.toptal.com/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Elastic AU Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Search Developer, Python Engineer",
+    "website": "https://careers.elastic.co",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "GitLab Remote AU",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Ruby on Rails Developer, DevOps Engineer",
+    "website": "https://about.gitlab.com/jobs",
+    "type": "remote",
+    "lat": -34.9285,
+    "lng": 138.6007
+  },
+  {
+    "name": "Redbubble Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "React Developer, Java Backend Developer",
+    "website": "https://careers.redbubble.com/",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Seek Remote Engineering",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Web Developer, Mobile Engineer",
+    "website": "https://talent.seek.com.au/au/en",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "REA Group Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Software Developer, DevOps Engineer",
+    "website": "https://www.rea-group.com/careers",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Carsales Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Frontend Developer, Backend Developer",
+    "website": "https://careers.carsales.com.au/",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Zip Co Remote Team",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Java Developer, Cloud Developer",
+    "website": "https://zip.co/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Square Remote AU",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "API Engineer, Backend Developer",
+    "website": "https://squareup.com/au/en/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "WeMoney Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "React Developer, Data Engineer",
+    "website": "https://wemoney.com.au/careers",
+    "type": "remote",
+    "lat": -32.0800,
+    "lng": 115.9333
+  },
+  {
+    "name": "Whispir Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Messaging Platform Engineer",
+    "website": "https://www.whispir.com/company/careers",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  }
+,
+  {
+    "name": "Tyro Payments Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Full Stack Engineer, Backend Developer",
+    "website": "https://www.tyro.com/about-us/careers/",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "OpenLearning Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "React Developer, LMS Developer",
+    "website": "https://careers.openlearning.com/",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "FlutterFlow Australia Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Flutter Developer, App Developer",
+    "website": "https://flutterflow.io/careers",
+    "type": "remote",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "name": "Zepto Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Payment API Developer, Backend Developer",
+    "website": "https://www.zepto.com.au/careers/",
+    "type": "remote",
+    "lat": -27.0,
+    "lng": 153.0
+  },
+  {
+    "name": "Neara Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "3D Software Engineer, Simulation Developer",
+    "website": "https://jobs.neara.com/",
+    "type": "remote",
+    "lat": -33.8,
+    "lng": 151.2
+  },
+  {
+    "name": "GoodData AU Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Data Analytics Engineer, Full Stack Developer",
+    "website": "https://www.gooddata.com/company/careers/",
+    "type": "remote",
+    "lat": -34.9,
+    "lng": 138.6
+  },
+  {
+    "name": "Lumary Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Salesforce Developer, API Integration Engineer",
+    "website": "https://www.lumary.com/careers/",
+    "type": "remote",
+    "lat": -34.9285,
+    "lng": 138.6007
+  },
+  {
+    "name": "Baraja Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "C++ Developer, Robotics Software Engineer",
+    "website": "https://www.baraja.com/careers",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Minderoo Foundation Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "AI Research Engineer, Data Developer",
+    "website": "https://www.minderoo.org/careers/",
+    "type": "remote",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "name": "Gilmour Space Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Space Software Engineer, Python Developer",
+    "website": "https://www.gspacetech.com/careers/",
+    "type": "remote",
+    "lat": -28.0167,
+    "lng": 153.4000
+  },
+  {
+    "name": "DigIO Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Platform Engineer",
+    "website": "https://www.digio.com.au/careers/",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Kasada Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Cybersecurity Engineer, Python Developer",
+    "website": "https://www.kasada.io/careers/",
+    "type": "remote",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "name": "Papercut Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Java Developer, Software Engineer",
+    "website": "https://www.papercut.com/about-us/careers/",
+    "type": "remote",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "name": "Mantel Group Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "DevOps Engineer, Cloud Developer",
+       "website": "https://www.mantelgroup.com.au/careers/",
+    "type": "remote",
+    "lat": -34.9,
+    "lng": 138.6
+  },
+  {
+    "name": "Biza.io Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "API Developer, Backend Developer",
+    "website": "https://biza.io/careers",
+    "type": "remote",
+    "lat": -33.86,
+    "lng": 151.20
+  },
+  {
+    "name": "UpGuard Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Security Software Engineer, Full Stack Developer",
+    "website": "https://www.upguard.com/careers",
+    "type": "remote",
+    "lat": -33.9,
+    "lng": 151.21
+  },
+  {
+    "name": "Mr Yum Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "React Developer, Backend Developer",
+    "website": "https://careers.mryum.com/",
+    "type": "remote",
+    "lat": -37.81,
+    "lng": 144.96
+  },
+  {
+    "name": "Lendi Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Software Engineer, Cloud Backend Developer",
+    "website": "https://www.lendi.com.au/careers/",
+    "type": "remote",
+    "lat": -33.86,
+    "lng": 151.20
+  },
+  {
+    "name": "Shippit Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Full Stack Developer, Logistics Software Engineer",
+    "website": "https://www.shippit.com/careers/",
+    "type": "remote",
+    "lat": -33.87,
+    "lng": 151.21
+  },
+  {
+    "name": "Vend Remote ANZ",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "iOS Developer, Web Developer",
+    "website": "https://www.vendhq.com/careers",
+    "type": "remote",
+    "lat": -37.81,
+    "lng": 144.96
+  },
+  {
+    "name": "Prezzee Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Software Developer, Node Developer",
+    "website": "https://www.prezzee.com.au/careers/",
+    "type": "remote",
+    "lat": -33.86,
+    "lng": 151.21
+  },
+  {
+    "name": "WooliesX Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Frontend Developer, DevOps Engineer",
+    "website": "https://www.wooliesx.com.au/careers",
+    "type": "remote",
+    "lat": -33.87,
+    "lng": 151.20
+  },
+  {
+    "name": "Zeller Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Flutter Developer, Backend Developer",
+    "website": "https://www.zeller.com/careers",
+    "type": "remote",
+    "lat": -37.81,
+    "lng": 144.96
+  },
+  {
+    "name": "Zai Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Java Developer, Cloud Developer",
+    "website": "https://www.hellozai.com/careers",
+    "type": "remote",
+    "lat": -33.87,
+    "lng": 151.21
+  },
+  {
+    "name": "Spaceship Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Mobile Developer, Full Stack Developer",
+    "website": "https://www.spaceship.com.au/careers",
+    "type": "remote",
+    "lat": -33.8,
+    "lng": 151.2
+  },
+  {
+    "name": "SelfWealth Remote",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "React Developer, API Developer",
+    "website": "https://www.selfwealth.com.au/careers",
+    "type": "remote",
+    "lat": -38.15,
+    "lng": 144.35
+  },
+  {
+    "name": "Finder Remote AU",
+    "city": "Remote",
+    "country": "Australia",
+    "roles": "Software Developer, Data Engineer",
+    "website": "https://www.finder.com.au/careers",
+    "type": "remote",
+    "lat": -33.86,
+    "lng": 151.20
+  }
+
+
+
+]
+
+
+
+
+

@@ -1,0 +1,2080 @@
+[
+  {
+    "name": "Shopify",
+    "city": "Ottawa",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Backend Developer",
+    "website": "https://www.shopify.com/careers",
+    "type": "fulltime",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Google Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Engineer, ML Engineer",
+    "website": "https://careers.google.com/locations/toronto/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Microsoft Canada",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Cloud Developer, Data Engineer",
+    "website": "https://careers.microsoft.com/",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Amazon Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "SDE I/II, Automation Engineer",
+    "website": "https://www.amazon.jobs/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "IBM Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Consultant, Cloud Developer",
+    "website": "https://www.ibm.com/ca-en/employment/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Meta Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "React Developer, AR/VR Developer",
+    "website": "https://www.metacareers.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Tesla Canada Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Firmware Developer",
+    "website": "https://www.tesla.com/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "SAP Canada",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Backend Developer, ERP Developer",
+    "website": "https://jobs.sap.com/",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Oracle Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Java Developer, Database Developer",
+    "website": "https://careers.oracle.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Intel Canada",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "C++ Developer, Systems Software Engineer",
+    "website": "https://jobs.intel.com/",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "NVIDIA Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "GPU Developer, CUDA Engineer",
+    "website": "https://nvidia.com/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Ubisoft Canada",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Game Developer, Unreal Developer",
+    "website": "https://www.ubisoft.com/en-us/company/careers",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "EA Sports Canada",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Gameplay Developer, C++ Engineer",
+    "website": "https://www.ea.com/careers",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Slack Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Backend Developer, Messaging Platform Developer",
+    "website": "https://slack.com/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "RBC Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Engineer, ML Engineer",
+    "website": "https://jobs.rbc.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Scotiabank Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Cloud Developer",
+    "website": "https://jobs.scotiabank.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "TD Bank Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Backend Developer, Cybersecurity Developer",
+    "website": "https://jobs.td.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "CIBC Technology",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Java Developer, QA Automation Developer",
+    "website": "https://jobs.cibc.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "BMO Digital Innovation",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Engineer, Data Specialist",
+    "website": "https://jobs.bmo.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Bell Digital",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Android Developer, iOS Developer",
+    "website": "https://jobs.bell.ca/",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Telus Digital",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Frontend Developer, API Developer",
+    "website": "https://www.telus.com/careers",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Rogers Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "React Developer, DevOps Engineer",
+    "website": "https://jobs.rogers.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "BlackBerry QNX",
+    "city": "Ottawa",
+    "country": "Canada",
+    "roles": "Security Engineer, Kernel Developer",
+    "website": "https://blackberry.qnx.com/en/careers",
+    "type": "fulltime",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "HCLTech Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Salesforce Developer",
+    "website": "https://www.hcltech.com/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Infosys Canada",
+    "city": "Mississauga",
+    "country": "Canada",
+    "roles": "Backend Developer, DotNet Developer",
+    "website": "https://www.infosys.com/careers",
+    "type": "fulltime",
+    "lat": 43.5890,
+    "lng": -79.6441
+  },
+  {
+    "name": "TCS Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, QA Engineer",
+    "website": "https://www.tcs.com/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Wipro Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Engineer, Data Engineer",
+    "website": "https://careers.wipro.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Cognizant Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Java Developer, DevOps Developer",
+    "website": "https://www.cognizant.com/us/en/careers/canada",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Accenture Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Engineer, Cloud Architect",
+    "website": "https://www.accenture.com/ca-en/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "KPMG Digital Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Cybersecurity Developer, Data Developer",
+    "website": "https://home.kpmg/ca/en/home/careers.html",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "PwC Canada Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Backend Developer, Cloud Developer",
+    "website": "https://www.pwc.com/ca/en/careers.html",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Ernst & Young Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Analytics Developer, Software Engineer",
+    "website": "https://www.ey.com/en_ca/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  }
+  ,
+  {
+    "name": "Lightspeed Commerce",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Full Stack Developer, React Developer",
+    "website": "https://www.lightspeedhq.com/careers/",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Hootsuite",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Backend Developer, Platform Engineer",
+    "website": "https://careers.hootsuite.com/",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Wealthsimple",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Engineer, SRE Engineer",
+    "website": "https://www.wealthsimple.com/en-ca/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Ritual",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Mobile Developer, Backend Developer",
+    "website": "https://ritual.co/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Ada Support",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "NLP Engineer, AI Developer",
+    "website": "https://www.ada.cx/company/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "League",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, API Developer",
+    "website": "https://league.com/careers/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Kik Interactive",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "Backend Developer, Chat App Engineer",
+    "website": "https://www.kik.com/jobs/",
+    "type": "fulltime",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "TextNow",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "Android Developer, iOS Developer",
+    "website": "https://www.textnow.com/careers",
+    "type": "fulltime",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "D2L (Desire2Learn)",
+    "city": "Kitchener",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Ed-Tech Developer",
+    "website": "https://www.d2l.com/careers/",
+    "type": "fulltime",
+    "lat": 43.4516,
+    "lng": -80.4925
+  },
+  {
+    "name": "ApplyBoard",
+    "city": "Kitchener",
+    "country": "Canada",
+    "roles": "Software Engineer, Data Engineer",
+    "website": "https://www.applyboard.com/careers",
+    "type": "fulltime",
+    "lat": 43.4516,
+    "lng": -80.4925
+  },
+  {
+    "name": "Arctic Wolf",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "Cybersecurity Developer, Python Developer",
+    "website": "https://arcticwolf.com/company/careers/",
+    "type": "fulltime",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "Magnet Forensics",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "Digital Forensics Developer, C++ Engineer",
+    "website": "https://www.magnetforensics.com/company/careers/",
+    "type": "fulltime",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "OpenText",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "Java Developer, Cloud Platform Developer",
+    "website": "https://careers.opentext.com/",
+    "type": "fulltime",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "CGI Canada",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Backend Developer, Consultant Engineer",
+    "website": "https://www.cgi.com/en/careers",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Desjardins Digital",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Data Developer",
+    "website": "https://www.desjardins.com/ca/careers",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Nuance Communications Canada",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Speech AI Developer, ML Engineer",
+    "website": "https://www.nuance.com/about-us/careers.html",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Lightspeed AI Lab",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Computer Vision Developer, Deep Learning Developer",
+    "website": "https://www.lightspeedhq.com/careers/",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Sage Canada",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Java Developer, .NET Developer",
+    "website": "https://www.sage.com/en-ca/careers/",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Trulioo",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "KYC Developer, Identity Security Developer",
+    "website": "https://www.trulioo.com/company/careers",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Clio",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Ruby Developer, Backend Developer",
+    "website": "https://www.clio.com/careers/",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Bench Accounting",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Cloud Developer",
+    "website": "https://bench.co/careers",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Later Media",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Frontend Developer, Product Engineer",
+    "website": "https://later.com/careers",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "GeoComply",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "C++ Developer, System Security Engineer",
+    "website": "https://www.geocomply.com/careers/",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Electronic Arts Mobile",
+    "city": "Kitchener",
+    "country": "Canada",
+    "roles": "Unity Developer, Gameplay Engineer",
+    "website": "https://www.ea.com/careers",
+    "type": "fulltime",
+    "lat": 43.4516,
+    "lng": -80.4925
+  },
+  {
+    "name": "Maple Leaf Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "React Developer, MERN Stack Developer",
+    "website": "https://www.mapleleafdigital.ca/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  }
+
+,
+  {
+    "name": "PointClickCare",
+    "city": "Mississauga",
+    "country": "Canada",
+    "roles": "Full Stack Developer, API Integration Engineer",
+    "website": "https://careers.pointclickcare.com/",
+    "type": "fulltime",
+    "lat": 43.5890,
+    "lng": -79.6441
+  },
+  {
+    "name": "Ceridian Dayforce",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Backend Developer, Cloud Infrastructure Engineer",
+    "website": "https://www.dayforce.com/en/careers",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Clearco",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Developer, Data Developer",
+    "website": "https://clear.co/careers/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "AbCellera Biologics",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "AI Software Engineer, Deep Learning Developer",
+    "website": "https://abcellera.com/careers",
+    "type": "fulltime",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Element AI (ServiceNow Canada)",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "ML Engineer, NLP Developer",
+    "website": "https://www.servicenow.com/careers.html",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Tulip Retail",
+    "city": "Kitchener",
+    "country": "Canada",
+    "roles": "React Developer, Full Stack Developer",
+    "website": "https://tulip.com/careers/",
+    "type": "fulltime",
+    "lat": 43.4516,
+    "lng": -80.4925
+  },
+  {
+    "name": "Symcor Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Java Developer, Cybersecurity Developer",
+    "website": "https://www.symcor.ca/careers/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Kyndryl Canada",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Cloud Engineer, Platform Engineer",
+    "website": "https://www.kyndryl.com/us/en/careers",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "McAfee Canada",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "Security Developer, Malware Research Engineer",
+    "website": "https://www.mcafee.com/en-ca/about/careers.html",
+    "type": "fulltime",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "Trend Micro Canada",
+    "city": "Ottawa",
+    "country": "Canada",
+    "roles": "Cybersecurity Developer, Backend Developer",
+    "website": "https://www.trendmicro.com/en_ca/careers.html",
+    "type": "fulltime",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Fortinet Canada",
+    "city": "Burnaby",
+    "country": "Canada",
+    "roles": "C Developer, Security Systems Engineer",
+    "website": "https://www.fortinet.com/corporate/careers",
+    "type": "fulltime",
+    "lat": 49.2488,
+    "lng": -122.9805
+  },
+  {
+    "name": "Intact Insurance Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Developer, Data Analyst Developer",
+    "website": "https://careers.intact.ca/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Sun Life Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Java Developer, Cloud Developer",
+    "website": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Aviva Digital",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, DevOps Engineer",
+    "website": "https://careers.aviva.ca/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Manulife Tech",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Backend Developer, Data Engineer",
+    "website": "https://www.manulife.ca/personal/careers.html",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Petal Health",
+    "city": "Quebec City",
+    "country": "Canada",
+    "roles": "Python Developer, HealthTech Full Stack Developer",
+    "website": "https://www.petal-health.com/en/careers/",
+    "type": "fulltime",
+    "lat": 46.8139,
+    "lng": -71.2080
+  },
+  {
+    "name": "MindBridge AI",
+    "city": "Ottawa",
+    "country": "Canada",
+    "roles": "AI Engineer, Risk Intelligence Developer",
+    "website": "https://www.mindbridge.ai/careers",
+    "type": "fulltime",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Vena Solutions",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Data Developer",
+    "website": "https://careers.venasolutions.com/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "CaseWare International",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, QA Automation Developer",
+    "website": "https://www.caseware.com/careers/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "AlayaCare",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Mobile Developer, Cloud Developer",
+    "website": "https://alayacare.com/careers/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Rangle.io",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "React Developer, Angular Developer",
+       "website": "https://rangle.io/careers/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Klarna Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Payments Developer",
+    "website": "https://www.klarna.com/careers/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "SNC-Lavalin Digital",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Software Developer, Data Developer",
+    "website": "https://careers.snclavalin.com/",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "CAE Digital",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Simulation Software Engineer, C++ Developer",
+    "website": "https://www.cae.com/careers",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Lightspeed Financial",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Trading Platform Developer, Low-latency Developer",
+    "website": "https://www.lightspeed.com/careers/",
+    "type": "fulltime",
+    "lat": 43.651070,
+    "lng": -79.347015
+  },
+  {
+    "name": "Hopper Canada",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Mobile Developer, Data Developer",
+    "website": "https://hopper.com/careers",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  }
+
+,
+  {
+    "name": "Teladoc Health Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Backend Developer, HealthTech Full Stack Developer",
+    "website": "https://www.teladochealth.com/careers",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Docebo",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "SaaS Developer, LMS Developer",
+    "website": "https://www.docebo.com/company/careers/",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Kinaxis",
+    "city": "Ottawa",
+    "country": "Canada",
+    "roles": "Cloud Developer, Optimization Software Engineer",
+    "website": "https://www.kinaxis.com/en/careers",
+    "type": "fulltime",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Nesto",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "React Developer, Frontend Developer",
+    "website": "https://www.nesto.ca/careers/",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "GSoft",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Backend Developer, Platform Engineer",
+    "website": "https://www.gsoft.com/en/careers/",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Valeyo",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Java Developer, Data Developer",
+    "website": "https://valeyo.com/careers/",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "SSENSE",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Full Stack Developer, eCommerce Platform Developer",
+    "website": "https://www.ssense.com/en-ca/careers",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Lightspeed Payments",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Payments Developer, DevOps Engineer",
+    "website": "https://www.lightspeedhq.com/careers/",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "BenchSci",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "ML Engineer, Python Developer",
+    "website": "https://benchsci.com/careers",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Ada HealthTech AI Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "AI Developer, Backend Developer",
+    "website": "https://www.ada.com/careers/",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Digital Extremes",
+    "city": "London",
+    "country": "Canada",
+    "roles": "Game Developer, C++ Gameplay Developer",
+    "website": "https://www.digitalextremes.com/careers",
+    "type": "fulltime",
+    "lat": 42.9849,
+    "lng": -81.2453
+  },
+  {
+    "name": "Carbon Engineering",
+    "city": "Squamish",
+    "country": "Canada",
+    "roles": "Software Engineer, Simulation Developer",
+    "website": "https://carbonengineering.com/careers/",
+    "type": "fulltime",
+    "lat": 49.7016,
+    "lng": -123.1558
+  },
+  {
+    "name": "Maropost",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, SaaS Developer",
+    "website": "https://www.maropost.com/careers/",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Symend",
+    "city": "Calgary",
+    "country": "Canada",
+    "roles": "Backend Developer, Data Developer",
+    "website": "https://www.symend.com/careers/",
+    "type": "fulltime",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "name": "Helcim",
+    "city": "Calgary",
+    "country": "Canada",
+    "roles": "Payments Developer, Cloud Developer",
+    "website": "https://www.helcim.com/careers/",
+    "type": "fulltime",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "name": "Neo Financial",
+    "city": "Calgary",
+    "country": "Canada",
+    "roles": "Software Engineer, Data Platform Engineer",
+    "website": "https://www.neofinancial.com/careers",
+    "type": "fulltime",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "name": "Solium (Morgan Stanley Canada)",
+    "city": "Calgary",
+       "country": "Canada",
+    "roles": "Backend Developer, Cloud Developer",
+    "website": "https://www.morganstanley.com/careers",
+    "type": "fulltime",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "name": "Clutch Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Developer, React Developer",
+    "website": "https://www.clutch.ca/careers",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Dialogue Tech",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Mobile Developer, Full Stack Developer",
+    "website": "https://www.dialogue.co/en/careers",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "WorkJam",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "API Developer, Full Stack Developer",
+    "website": "https://www.workjam.com/company/careers/",
+    "type": "fulltime",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Lightspeed Retail Cloud",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "React Developer, UI Developer",
+    "website": "https://www.lightspeedhq.com/careers/",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "TouchBistro",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "iOS Developer, Full Stack Developer",
+    "website": "https://touchbistro.com/careers/",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "CBC Digital Labs",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Frontend Developer, Backend Developer",
+    "website": "https://cbc.radio-canada.ca/en/working-at-cbc",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Peloton Interactive Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Developer, Multimedia Developer",
+    "website": "https://careers.onepeloton.com/",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Borealis AI",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "AI Engineer, Deep Learning Research Developer",
+    "website": "https://www.borealisai.com/careers/",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Deep Genomics",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Bioinformatics Software Developer, Python Developer",
+    "website": "https://www.deepgenomics.com/careers",
+    "type": "fulltime",
+    "lat": 43.65107,
+    "lng": -79.347015
+  }
+,
+  {
+    "name": "Shopify Internship Program",
+    "city": "Ottawa",
+    "country": "Canada",
+    "roles": "Software Developer Intern, Frontend Intern",
+    "website": "https://www.shopify.com/careers/internships",
+    "type": "internship",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Google STEP Internship Canada",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "STEP Software Intern, SWE Intern",
+    "website": "https://careers.google.com/students/",
+    "type": "internship",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "Microsoft Explore Internship Canada",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Software Engineering Intern, Cloud Intern",
+    "website": "https://careers.microsoft.com/students",
+    "type": "internship",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Amazon SDE Intern Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "SDE Intern, Data Engineer Intern",
+    "website": "https://www.amazon.jobs/en/business_categories/student-programs",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "IBM Internship Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Backend Intern, AI Intern",
+    "website": "https://www.ibm.com/careers/us-en/students/",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Meta University Intern Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Frontend Intern, AR/VR Developer Intern",
+    "website": "https://www.metacareers.com/students-and-grads",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "NVIDIA Research Intern Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "CUDA Intern, ML Intern",
+    "website": "https://nvidia.com/en-us/students/",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "BlackBerry QNX Internship",
+    "city": "Ottawa",
+    "country": "Canada",
+    "roles": "C++ Intern, Security Software Intern",
+    "website": "https://blackberry.qnx.com/en/careers/students",
+    "type": "internship",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "RBC Early Talent Tech Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Intern, Data Science Intern",
+    "website": "https://jobs.rbc.com/ca/en/students-grads",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Scotiabank Velocity Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Intern, Cloud Intern",
+    "website": "https://jobs.scotiabank.com/Students",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "TD Launch Technology Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "QA Intern, API Developer Intern",
+    "website": "https://jobs.td.com/ca/en/student-grads",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "CIBC Tech Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "SWE Intern, DevOps Intern",
+    "website": "https://jobs.cibc.com/students",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "BMO Digital Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Java Intern, Data Intern",
+    "website": "https://jobs.bmo.com/ca/en/students",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "HCLTech Graduate Internship Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Backend Intern, Full Stack Intern",
+    "website": "https://www.hcltech.com/careers/students-and-graduates",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Infosys Internship Canada",
+    "city": "Mississauga",
+    "country": "Canada",
+    "roles": "Software Intern, Automation Intern",
+    "website": "https://www.infosys.com/careers/students",
+    "type": "internship",
+    "lat": 43.5890,
+    "lng": -79.6441
+  },
+  {
+    "name": "TCS Ignite Internship Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Intern, AI Intern",
+    "website": "https://www.tcs.com/careers/students-graduates",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Wipro Canada Intern Program",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Intern, Cybersecurity Intern",
+    "website": "https://careers.wipro.com/students",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Accenture Canada Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Cloud Intern, Software Intern",
+    "website": "https://www.accenture.com/ca-en/careers/students",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "PwC Internship Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Data Intern, Software Intern",
+    "website": "https://www.pwc.com/ca/en/careers/campus.html",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "EY Tech Internship Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Cloud Intern, Data Intern",
+    "website": "https://www.ey.com/en_ca/careers/students-and-entry-level",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "CGI Student Internship",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Full Stack Intern, QA Automation Intern",
+    "website": "https://www.cgi.com/en/careers/students-and-graduates",
+    "type": "internship",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Ubisoft Student Internship",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Game Developer Intern, C++ Intern",
+    "website": "https://www.ubisoft.com/en-us/company/careers/students-and-grads",
+    "type": "internship",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "EA Sports Internship Canada",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Unity Developer Intern, Gameplay Intern",
+    "website": "https://www.ea.com/careers/students",
+    "type": "internship",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Klarna Internship Canada",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Full Stack Intern, API Intern",
+    "website": "https://www.klarna.com/careers/students/",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  }
+
+
+,
+  {
+    "name": "Wealthsimple Tech Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Software Intern, Data Intern",
+    "website": "https://www.wealthsimple.com/en-ca/careers/students",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Hootsuite Internship",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Frontend Intern, Backend Intern",
+    "website": "https://careers.hootsuite.com/students-grads",
+    "type": "internship",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Lightspeed Internship",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Full Stack Intern, Payments Developer Intern",
+    "website": "https://www.lightspeedhq.com/careers/students-grads/",
+    "type": "internship",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Clio LegalTech Internship",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Full Stack Intern, DevOps Intern",
+    "website": "https://www.clio.com/careers/students/",
+    "type": "internship",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Trulioo Identity Internship",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Cybersecurity Intern, API Intern",
+    "website": "https://www.trulioo.com/company/careers/students",
+    "type": "internship",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Geotab Internship",
+    "city": "Oakville",
+    "country": "Canada",
+    "roles": "Java Intern, Cloud Intern",
+    "website": "https://careers.geotab.com/students/",
+    "type": "internship",
+    "lat": 43.4675,
+    "lng": -79.6877
+  },
+  {
+    "name": "TELUS Digital Internship",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "React Intern, Full Stack Intern",
+    "website": "https://www.telus.com/en/careers/students-graduates",
+    "type": "internship",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Bell Digital Internship",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Software Intern, Mobile Intern",
+    "website": "https://jobs.bell.ca/ca/en/c/students-jobs",
+    "type": "internship",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Rogers Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "JavaScript Intern, Cloud Intern",
+    "website": "https://jobs.rogers.com/ca/en/students",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "CGI Student Developer Program",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Full Stack Intern, QA Intern",
+    "website": "https://www.cgi.com/en/careers/students-graduates",
+    "type": "internship",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "D2L EdTech Internship",
+    "city": "Kitchener",
+    "country": "Canada",
+    "roles": "MERN Intern, LMS Developer Intern",
+    "website": "https://www.d2l.com/careers/students/",
+    "type": "internship",
+    "lat": 43.4516,
+    "lng": -80.4925
+  },
+  {
+    "name": "ApplyBoard Internship",
+    "city": "Kitchener",
+    "country": "Canada",
+    "roles": "Backend Intern, Python Intern",
+    "website": "https://www.applyboard.com/careers/students",
+    "type": "internship",
+    "lat": 43.4516,
+    "lng": -80.4925
+  },
+  {
+    "name": "OpenText Internship",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "C++ Intern, Java Intern",
+    "website": "https://careers.opentext.com/studentsandgrads",
+    "type": "internship",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "Magnet Forensics Internship",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "Digital Forensics Intern, C++ Intern",
+    "website": "https://www.magnetforensics.com/careers/internships/",
+    "type": "internship",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "Arctic Wolf Internship",
+    "city": "Waterloo",
+    "country": "Canada",
+    "roles": "Cybersecurity Intern, Backend Intern",
+    "website": "https://arcticwolf.com/company/careers/internships/",
+    "type": "internship",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "Electronic Arts Internship Canada",
+    "city": "Vancouver",
+    "country": "Canada",
+    "roles": "Unity Intern, Game AI Intern",
+    "website": "https://www.ea.com/careers/students",
+    "type": "internship",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Ubisoft Gameplay Intern",
+    "city": "Montreal",
+    "country": "Canada",
+    "roles": "Gameplay Intern, 3D Engine Intern",
+    "website": "https://www.ubisoft.com/en-us/company/careers/interns",
+    "type": "internship",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Borealis AI Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "AI Intern, Deep Learning Intern",
+    "website": "https://www.borealisai.com/careers/internships/",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Deep Genomics Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "Bioinformatics Intern, Python Intern",
+    "website": "https://www.deepgenomics.com/careers/internships",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "BenchSci Internship",
+    "city": "Toronto",
+    "country": "Canada",
+    "roles": "ML Intern, Backend Intern",
+    "website": "https://benchsci.com/careers/students",
+    "type": "internship",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Helcim Internship",
+    "city": "Calgary",
+    "country": "Canada",
+    "roles": "Payments Developer Intern, Cloud Intern",
+    "website": "https://www.helcim.com/careers/students",
+    "type": "internship",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "name": "Neo Financial Internship",
+    "city": "Calgary",
+    "country": "Canada",
+    "roles": "Full Stack Intern, Data Intern",
+    "website": "https://www.neofinancial.com/careers/internships",
+    "type": "internship",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "name": "Solium Internship (Morgan Stanley Canada)",
+    "city": "Calgary",
+    "country": "Canada",
+    "roles": "Backend Intern, Cloud Intern",
+    "website": "https://www.morganstanley.com/careers/campus",
+    "type": "internship",
+    "lat": 51.0447,
+    "lng": -114.0719
+  }
+
+  ,
+  {
+    "name": "Shopify Remote Engineering",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Full Stack Developer, Backend Developer",
+    "website": "https://www.shopify.com/careers",
+    "type": "remote",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Google Canada Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Software Engineer Remote, ML Remote",
+    "website": "https://careers.google.com/",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Microsoft Canada Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Cloud Developer Remote, Azure Engineer Remote",
+    "website": "https://careers.microsoft.com/",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Amazon AWS Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "SDE Remote, Data Engineer Remote",
+    "website": "https://www.amazon.jobs/",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "IBM Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "API Developer Remote, AI Research Engineer Remote",
+    "website": "https://www.ibm.com/careers",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Meta Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "React Developer Remote, AR/VR Developer Remote",
+    "website": "https://www.metacareers.com/",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Tesla Digital Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Full Stack Remote, Firmware Developer Remote",
+    "website": "https://www.tesla.com/careers",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Hootsuite Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Backend Developer Remote, Platform Engineer Remote",
+    "website": "https://careers.hootsuite.com/",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Wealthsimple Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Software Engineer Remote, SRE Remote",
+    "website": "https://www.wealthsimple.com/en-ca/careers",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "RBC Digital Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Full Stack Developer Remote, ML Engineer Remote",
+    "website": "https://jobs.rbc.com/",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Scotiabank Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Software Developer Remote, Cloud Engineer Remote",
+    "website": "https://jobs.scotiabank.com/",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "TD Digital Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Backend Remote, DevOps Remote",
+    "website": "https://jobs.td.com/",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "CIBC Remote Developer",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Java Remote, QA Remote",
+    "website": "https://jobs.cibc.com/",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "BMO Remote Engineering",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Software Developer Remote, Data Engineer Remote",
+    "website": "https://jobs.bmo.com/",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "GitLab Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Ruby on Rails Developer Remote, DevOps Engineer Remote",
+    "website": "https://about.gitlab.com/jobs/",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Elastic Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Search Developer Remote, Python Developer Remote",
+    "website": "https://careers.elastic.co",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Toptal Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Remote Full Stack Developer",
+    "website": "https://www.toptal.com/careers",
+    "type": "remote",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Canva Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Frontend Developer Remote, UI Developer Remote",
+    "website": "https://www.canva.com/careers/",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Xero Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Backend Remote, Golang Developer Remote",
+    "website": "https://www.xero.com/careers",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Clio Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Ruby Developer Remote, Backend Remote",
+    "website": "https://www.clio.com/careers/",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Bench Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Full Stack Remote, Cloud Developer Remote",
+    "website": "https://bench.co/careers",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Geotab Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Java Developer Remote, Cloud Platform Remote",
+    "website": "https://careers.geotab.com/",
+    "type": "remote",
+    "lat": 43.4675,
+    "lng": -79.6877
+  },
+  {
+    "name": "Lightspeed Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "React Developer Remote, Full Stack Remote",
+    "website": "https://www.lightspeedhq.com/careers/",
+    "type": "remote",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Arctic Wolf Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Cybersecurity Engineer Remote, Python Developer Remote",
+    "website": "https://arcticwolf.com/company/careers/",
+    "type": "remote",
+    "lat": 43.4643,
+    "lng": -80.5204
+  },
+  {
+    "name": "Magnet Forensics Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Digital Forensics Developer Remote, C++ Developer Remote",
+    "website": "https://www.magnetforensics.com/careers/",
+    "type": "remote",
+    "lat": 43.4643,
+    "lng": -80.5204
+  }
+  ,
+  {
+    "name": "TELUS Digital Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Full Stack Remote, API Developer Remote",
+    "website": "https://www.telus.com/en/careers",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Bell Digital Media Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Backend Remote, Android Developer Remote",
+    "website": "https://jobs.bell.ca",
+    "type": "remote",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Rogers Digital Remote",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "React Developer Remote, QA Remote",
+    "website": "https://jobs.rogers.com",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Klarna Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Full Stack Remote, Payments Developer Remote",
+    "website": "https://www.klarna.com/careers",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Stripe Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Backend Developer Remote, Billing Platform Developer Remote",
+    "website": "https://stripe.com/jobs",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Coinbase Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Blockchain Developer Remote, Security Engineer Remote",
+    "website": "https://www.coinbase.com/careers",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Remote OK Labs Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Remote Backend Engineer, Remote MERN Developer",
+    "website": "https://remoteok.com/remote-dev-jobs",
+    "type": "remote",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Zapier Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Automation Developer Remote, Full Stack Remote",
+    "website": "https://zapier.com/jobs",
+    "type": "remote",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "Mozilla Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Rust Developer Remote, Web Platform Engineer Remote",
+    "website": "https://www.mozilla.org/en-US/careers",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Basecamp Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Ruby Developer Remote, Product Engineer Remote",
+    "website": "https://basecamp.com/about/jobs",
+    "type": "remote",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "Slack Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Backend Remote, Chat Platform Developer Remote",
+    "website": "https://slack.com/careers",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Zoom Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "WebRTC Developer Remote, Full Stack Remote",
+    "website": "https://zoom.us/careers",
+    "type": "remote",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "name": "Hotjar Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Full Stack Remote, Heatmap Analytics Developer Remote",
+    "website": "https://careers.hotjar.com",
+    "type": "remote",
+    "lat": 43.5890,
+    "lng": -79.6441
+  },
+  {
+    "name": "Automattic Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "WordPress Developer Remote, Backend Remote",
+    "website": "https://automattic.com/work-with-us",
+    "type": "remote",
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "name": "ClickUp Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Task Manager Developer Remote, MERN Developer Remote",
+    "website": "https://clickup.com/careers",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Chargebee Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Payments Platform Developer Remote",
+    "website": "https://careers.chargebee.com",
+    "type": "remote",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "name": "HubSpot Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "CRM Developer Remote, Full Stack Remote",
+    "website": "https://www.hubspot.com/careers",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Zendesk Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Support Platform Developer Remote, NodeJS Remote",
+    "website": "https://jobs.zendesk.com",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "FreshBooks Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Full Stack Remote, SaaS Platform Developer Remote",
+    "website": "https://www.freshbooks.com/careers",
+    "type": "remote",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "name": "Flipkart Engineering Remote (Canada Hiring)",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Distributed Systems Developer Remote, Data Platform Developer Remote",
+    "website": "https://www.flipkartcareers.com",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "Upwork Remote Engineering Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Full Stack Developer Remote, React Developer Remote",
+    "website": "https://www.upwork.com/careers",
+    "type": "remote",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "name": "PayPal Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Java Backend Developer Remote, API Developer Remote",
+    "website": "https://www.paypal.com/us/webapps/mpp/jobs",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Spotify Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Backend Remote, Data Engineer Remote",
+    "website": "https://www.lifeatspotify.com/jobs",
+    "type": "remote",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "name": "Netflix Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "Platform Developer Remote, ML Developer Remote",
+    "website": "https://jobs.netflix.com",
+    "type": "remote",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "name": "OpenAI Remote Canada",
+    "city": "Remote",
+    "country": "Canada",
+    "roles": "AI Engineer Remote, Research Developer Remote",
+    "website": "https://openai.com/careers",
+    "type": "remote",
+    "lat": 37.7749,
+    "lng": -122.4194
+  }
+
+
+]
+
+
+
+
