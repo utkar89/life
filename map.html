@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Global IT Companies | 3D Earth</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #020617;
+      color: #e5e7eb;
+    }
+
+    .layout {
+      display: flex;
+      width: 100%;
+      height: 100vh;
+    }
+
+    .sidebar {
+      width: 340px;
+      /* जो भी width तुम रखो */
+      flex: 0 0 340px;
+      /* 👈 अब sidebar kabhi shrink नहीं होगा */
+      background: #0f172a;
+      border-right: 1px solid #1e293b;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      overflow-y: auto;
+    }
+
+
+    .app-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .subtitle {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-bottom: 8px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-size: 11px;
+      background: rgba(37, 99, 235, 0.15);
+      color: #bfdbfe;
+      border: 1px solid rgba(59, 130, 246, 0.4);
+    }
+
+    .tag span.icon {
+      font-size: 14px;
+    }
+
+    /* 🔹 COUNTRY SWITCH BAR */
+    .country-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 10px;
+      margin-bottom: 4px;
+    }
+
+    .country-pill {
+      border-radius: 999px;
+      border: 1px solid #1f2937;
+      background: #020617;
+      padding: 4px 10px;
+      font-size: 11px;
+      color: #9ca3af;
+      cursor: pointer;
+      transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+      white-space: nowrap;
+    }
+
+    .country-pill.active {
+      background: #22c55e;
+      color: #0b1120;
+      border-color: #22c55e;
+      font-weight: 600;
+    }
+
+    .country-pill.global {
+      border-color: #0ea5e9;
+      color: #7dd3fc;
+    }
+
+    .country-pill.global.active {
+      background: #0ea5e9;
+      color: #0b1120;
+    }
+
+    .search-box {
+      margin-top: 8px;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 8px 10px;
+      border-radius: 999px;
+      border: 1px solid #1f2933;
+      background: #020617;
+      color: #e5e7eb;
+      font-size: 13px;
+      outline: none;
+    }
+
+    .search-box input:focus {
+      border-color: #2563eb;
+      box-shadow: 0 0 0 1px rgba(37, 99, 235, 0.5);
+    }
+
+    .filters {
+      display: flex;
+      gap: 6px;
+      margin-top: 8px;
+      flex-wrap: wrap;
+    }
+
+    .filter-pill {
+      font-size: 11px;
+      padding: 4px 8px;
+      border-radius: 999px;
+      border: 1px solid #1f2937;
+      background: #020617;
+      cursor: pointer;
+      color: #9ca3af;
+    }
+
+    .filter-pill.active {
+      background: #2563eb;
+      color: #ffffff;
+      border-color: #2563eb;
+    }
+
+    .section-title {
+      margin-top: 10px;
+      font-size: 12px;
+      font-weight: 600;
+      color: #9ca3af;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+
+    .company-list {
+      margin-top: 6px;
+      flex: 1;
+      overflow-y: auto;
+      padding-right: 4px;
+    }
+
+    .company-item {
+      padding: 8px 8px;
+      margin-bottom: 4px;
+      border-radius: 8px;
+      cursor: pointer;
+      border: 1px solid transparent;
+      background: rgba(15, 23, 42, 0.9);
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .company-item:hover {
+      border-color: #1f2937;
+      background: rgba(15, 23, 42, 1);
+    }
+
+    .company-item.active {
+      border-color: #2563eb;
+      box-shadow: 0 0 0 1px rgba(37, 99, 235, 0.5);
+    }
+
+    .company-name {
+      font-size: 13px;
+      font-weight: 600;
+      color: #e5e7eb;
+    }
+
+    .company-meta {
+      font-size: 11px;
+      color: #9ca3af;
+    }
+
+    .company-tag-row {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 2px;
+    }
+
+    .small-tag {
+      font-size: 10px;
+      padding: 2px 6px;
+      border-radius: 999px;
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid #1f2937;
+      color: #9ca3af;
+    }
+
+    .small-tag.type-fulltime {
+      border-color: #22c55e;
+      color: #bbf7d0;
+    }
+
+    .small-tag.type-internship {
+      border-color: #eab308;
+      color: #facc15;
+    }
+
+    .small-tag.type-remote {
+      border-color: #38bdf8;
+      color: #bae6fd;
+    }
+
+    .details-card {
+      margin-top: 6px;
+      padding: 8px;
+      border-radius: 10px;
+      border: 1px solid #1f2937;
+      background: rgba(15, 23, 42, 0.95);
+      font-size: 12px;
+    }
+
+    .details-card h3 {
+      margin: 0 0 4px 0;
+      font-size: 14px;
+    }
+
+    .details-row {
+      margin-top: 3px;
+    }
+
+    .details-label {
+      color: #9ca3af;
+      font-size: 11px;
+    }
+
+    .details-value {
+      font-size: 12px;
+    }
+
+    .details-actions {
+      margin-top: 8px;
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      font-size: 11px;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: none;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .btn-primary {
+      background: #2563eb;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #1d4ed8;
+    }
+
+    .btn-ghost {
+      background: transparent;
+      border: 1px solid #334155;
+      color: #e5e7eb;
+    }
+
+    .btn-ghost:hover {
+      background: #0f172a;
+    }
+
+    .globe-wrap {
+      flex: 1;
+      position: relative;
+    }
+
+    #globeContainer {
+      width: 100%;
+      height: 100%;
+    }
+
+    .hint {
+      position: absolute;
+      bottom: 12px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 11px;
+      color: #9ca3af;
+      background: rgba(15, 23, 42, 0.8);
+      padding: 4px 8px;
+      border-radius: 999px;
+      border: 1px solid #1f2937;
+      pointer-events: none;
+    }
+    /* Day / Night toggle on globe */
+.mode-toggle {
+  position: absolute;
+  top: 12px;
+  left: 16px;   /* ⭐ NEW */
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.9);
+  border: 1px solid #1f2937;
+  z-index: 5;
+}
+
+
+.mode-btn {
+  border: none;
+  outline: none;
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: transparent;
+  color: #e5e7eb;
+  cursor: pointer;
+  font-size: 13px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mode-btn span {
+  margin-left: 4px;
+  font-size: 11px;
+  color: #9ca3af;
+}
+
+.mode-btn.active {
+  background: #facc15;
+  color: #0b1120;
+}
+
+.mode-btn.active span {
+  color: #0b1120;
+}
+
+
+    @media (max-width: 800px) {
+      .layout {
+        flex-direction: column;
+      }
+
+      .sidebar {
+        width: 100%;
+        height: 45vh;
+        overflow-y: auto;
+      }
+
+      .globe-wrap {
+        height: 55vh;
+      }
+
+      .country-bar {
+        justify-content: flex-start;
+        overflow-x: auto;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="layout">
+    <!-- LEFT SIDEBAR -->
+    <aside class="sidebar">
+      <div>
+        <div class="app-title">IT & CS Companies — Global Map</div>
+        <div class="subtitle">3D Earth • Choose country • Click markers or list items.</div>
+        <div class="tag">
+          <span class="icon">🌍</span>
+          Interactive 3D globe • Multi-country
+        </div>
+      </div>
+
+      <!-- 🔹 COUNTRY SWITCH -->
+      <div class="country-bar">
+        <button class="country-pill active" data-country="india">India</button>
+        <button class="country-pill" data-country="usa">USA</button>
+        <button class="country-pill" data-country="germany">Germany</button>
+        <button class="country-pill" data-country="japan">Japan</button>
+        <button class="country-pill" data-country="australia">Australia</button>
+        <button class="country-pill" data-country="canada">Canada</button>
+        <button class="country-pill" data-country="sweden">Sweden</button>
+        <button class="country-pill global" data-country="global_remote">Global Remote</button>
+      </div>
+
+      <!-- SEARCH -->
+      <div class="search-box">
+        <input id="searchInput" type="text" placeholder="Search by company / country / city..." />
+      </div>
+
+      <!-- FILTERS -->
+      <div class="filters">
+        <button class="filter-pill active" data-type="all">All</button>
+        <button class="filter-pill" data-type="fulltime">Full-time</button>
+        <button class="filter-pill" data-type="internship">Internship</button>
+        <button class="filter-pill" data-type="remote">Remote</button>
+      </div>
+
+      <!-- LIST -->
+      <div class="section-title">Companies</div>
+      <div id="companyList" class="company-list"></div>
+
+      <!-- DETAILS -->
+      <div class="section-title">Details</div>
+      <div id="detailsCard" class="details-card">
+        <h3>Select a company</h3>
+        <div class="details-row">
+          <span class="details-label">Hint: </span>
+          <span class="details-value">Choose a country, then click a marker or list item.</span>
+        </div>
+      </div>
+    </aside>
+
+
+    <!-- RIGHT GLOBE AREA -->
+    <main class="globe-wrap">
+  <!-- Day / Night Toggle -->
+  <div class="mode-toggle">
+    <button class="mode-btn active" data-mode="night">
+      🌙 <span>Night</span>
+    </button>
+    <button class="mode-btn" data-mode="day">
+      ☀️ <span>Day</span>
+    </button>
+  </div>
+
+  <div id="globeContainer"></div>
+  <div class="hint">Drag to rotate • Scroll to zoom • Tap dots for details</div>
+</main>
+
+
+  <!-- SCRIPTS -->
+  <script src="https://unpkg.com/three"></script>
+  <script src="https://unpkg.com/globe.gl"></script>
+
+  <script>
+    // 🔹 COUNTRY CONFIG: kis country ka data kis file se aayega
+    const COUNTRY_CONFIG = {
+      india: {
+        label: "India",
+        file: "companies.json",        // ⚠️ abhi yahi tumhari India wali file hai
+        center: { lat: 20.5937, lng: 78.9629, altitude: 1.8 }
+      },
+      usa: {
+        label: "USA",
+        file: "usa.json",
+        center: { lat: 37.0902, lng: -95.7129, altitude: 2.1 }
+      },
+      germany: {
+        label: "Germany",
+        file: "germany.json",
+        center: { lat: 51.1657, lng: 10.4515, altitude: 2.0 }
+      },
+      japan: {
+        label: "Japan",
+        file: "japan.json",
+        center: { lat: 36.2048, lng: 138.2529, altitude: 2.0 }
+      },
+      australia: {
+        label: "Australia",
+        file: "australia.json",
+        center: { lat: -25.2744, lng: 133.7751, altitude: 2.0 }
+      },
+      canada: {
+        label: "Canada",
+        file: "canada.json",
+        center: { lat: 56.1304, lng: -106.3468, altitude: 2.0 }
+      },
+      sweden: {
+        label: "Sweden",
+        file: "sweden.json",
+        center: { lat: 59.334, lng: 18.0686, altitude: 2.0 }
+      },
+      global_remote: {
+        label: "Global Remote",
+        file: "remote-global.json",
+        center: { lat: 10, lng: 0, altitude: 2.8 }
+      }
+    };
+
+    // GLOBAL STATE
+    let companies = [];
+    let world = null;
+    let currentCountryKey = "india";
+    let currentTypeFilter = "all";
+    let currentSearch = "";
+    let activeCompany = null;
+    let currentMode = "night"; // night / day globe mode
+
+
+    // Labels for countries (for clarity on globe)
+    // 🌍 All world countries label data (Premium Edition)
+    const countryLabels = [
+      { lat: 20.5937, lng: 78.9629, label: "India" },
+      { lat: 37.0902, lng: -95.7129, label: "USA" },
+      { lat: 51.1657, lng: 10.4515, label: "Germany" },
+      { lat: 36.2048, lng: 138.2529, label: "Japan" },
+      { lat: -25.2744, lng: 133.7751, label: "Australia" },
+      { lat: 56.1304, lng: -106.3468, label: "Canada" },
+      { lat: 60.1282, lng: 18.6435, label: "Sweden" },
+      { lat: 46.2276, lng: 2.2137, label: "France" },
+      { lat: 35.8617, lng: 104.1954, label: "China" },
+      { lat: 55.3781, lng: -3.4360, label: "United Kingdom" },
+      { lat: 51.1657, lng: 10.4515, label: "Europe" },
+      { lat: -14.2350, lng: -51.9253, label: "Brazil" },
+      { lat: -1.2864, lng: 36.8172, label: "South Africa" },
+      { lat: 40.4637, lng: -3.7492, label: "Spain" },
+      { lat: 41.8719, lng: 12.5674, label: "Italy" },
+      { lat: 52.1326, lng: 5.2913, label: "Netherlands" },
+      { lat: 52.2370, lng: 21.0175, label: "Poland" },
+      { lat: 1.3521, lng: 103.8198, label: "Singapore" },
+      { lat: 23.4241, lng: 53.8478, label: "UAE" },
+      { lat: 3.1390, lng: 101.6869, label: "Malaysia" },
+      { lat: 50.8503, lng: 4.3517, label: "Belgium" },
+      { lat: 56.2639, lng: 9.5018, label: "Denmark" },
+      { lat: 61.9241, lng: 25.7482, label: "Finland" },
+      { lat: 35.4732, lng: 133.0474, label: "South Korea" },
+      { lat: 21.0285, lng: 105.8542, label: "Vietnam" },
+      { lat: 25.2048, lng: 55.2708, label: "Dubai" },
+      { lat: -40.9006, lng: 174.8860, label: "New Zealand" }
+    ];
+
+
+    // DOM elements
+    const globeContainer = document.getElementById("globeContainer");
+    const listEl = document.getElementById("companyList");
+    const detailsEl = document.getElementById("detailsCard");
+    const searchInput = document.getElementById("searchInput");
+    const filterButtons = document.querySelectorAll(".filter-pill");
+    const countryButtons = document.querySelectorAll(".country-pill");
+    const modeButtons = document.querySelectorAll(".mode-btn");
+
+
+    function initGlobe() {
+      world = Globe()(globeContainer)
+        // Ultra HD realistic earth textures
+        .globeImageUrl("https://unpkg.com/three-globe/example/img/earth-night.jpg")
+        .bumpImageUrl("https://unpkg.com/three-globe/example/img/earth-topology.png")
+        .backgroundImageUrl("https://unpkg.com/three-globe/example/img/night-sky.png")
+
+
+        // Atmosphere glow effect
+        .showAtmosphere(true)
+        .atmosphereColor("#3a9bdc")
+        .atmosphereAltitude(0.18)
+
+        // Country name labels (premium glow)
+        .labelsData(countryLabels)
+        .labelLat(d => d.lat)
+        .labelLng(d => d.lng)
+        .labelText(d => d.label)
+        .labelColor(() => "#00eaff")
+        .labelSize(1.35)
+        .labelResolution(3)
+        .labelDotRadius(0)
+
+        // Job / company markers
+        .pointAltitude(0.06)
+        .pointColor(c =>
+          c.type === "internship" ? "yellow" :
+            c.type === "remote" ? "cyan" :
+              "red"
+        )
+        .pointRadius(0.35)
+        .pointsData(companies)
+
+        // Pulse glow rings on selected company
+        .ringColor(() => "rgba(248, 113, 113, 0.7)")
+        .ringMaxRadius(4)
+        .ringPropagationSpeed(2)
+        .ringRepeatPeriod(2000);
+
+      // Cinematic slow auto rotation
+      world.controls().autoRotate = true;
+      world.controls().autoRotateSpeed = 0.8;
+
+      // Globe click → focus on company & open details
+      world.onPointClick(c => {
+        const found = companies.find(x => x.name === c.name);
+        if (found) focusOnCompany(found);
+      });
+    }
+
+
+    function setupUIEvents() {
+      // Search input handler
+      searchInput.addEventListener("input", (e) => {
+        currentSearch = e.target.value;
+        applyFilters();
+        // Day / Night toggle
+
+      });
+      // Day / Night toggle
+modeButtons.forEach(btn => {
+  btn.addEventListener("click", () => {
+    setGlobeMode(btn.dataset.mode);
+  });
+});
+
+      function setGlobeMode(mode) {
+  if (!world) return;
+  currentMode = mode;
+
+  // Button UI active class
+  modeButtons.forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.mode === mode);
+  });
+
+  if (mode === "night") {
+    world.globeImageUrl("https://unpkg.com/three-globe/example/img/earth-night.jpg");
+    world.backgroundImageUrl("https://unpkg.com/three-globe/example/img/night-sky.png");
+  } else {
+    world.globeImageUrl("https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg");
+    world.backgroundImageUrl(null);
+    world.backgroundColor("#020617");
+  }
+}
+
+
+      // Filter buttons handler
+      filterButtons.forEach(btn => {
+        btn.addEventListener("click", () => {
+          filterButtons.forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+          currentTypeFilter = btn.dataset.type;
+          applyFilters();
+        });
+      });
+
+      // Country switch buttons
+      countryButtons.forEach(btn => {
+        btn.addEventListener("click", () => {
+          const key = btn.dataset.country;
+          if (key === currentCountryKey) return;
+
+          countryButtons.forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+
+          loadCountry(key);
+        });
+      });
+    }
+
+    function loadCountry(countryKey) {
+      const config = COUNTRY_CONFIG[countryKey];
+      if (!config) return;
+
+      currentCountryKey = countryKey;
+      currentTypeFilter = "all";
+      currentSearch = "";
+      activeCompany = null;
+
+      // Reset search + filter UI
+      searchInput.value = "";
+      filterButtons.forEach(b => {
+        b.classList.toggle("active", b.dataset.type === "all");
+      });
+
+      // Show loading state
+      listEl.innerHTML = `<div style="font-size:12px;color:#9ca3af;margin-top:4px;">Loading ${config.label} jobs...</div>`;
+      detailsEl.innerHTML = `
+        <h3>Loading ${config.label}...</h3>
+        <div class="details-row">
+          <span class="details-label">Please wait: </span>
+          <span class="details-value">Fetching latest company data for ${config.label}.</span>
+        </div>
+      `;
+
+      fetch(config.file)
+        .then(res => {
+          if (!res.ok) throw new Error("HTTP " + res.status);
+          return res.json();
+        })
+        .then(data => {
+          companies = data;
+          activeCompany = null;
+
+          if (!world) {
+            initGlobe();
+            setupUIEvents();
+          } else {
+            world.pointsData(companies);
+            world.ringsData([]);
+          }
+
+          // ⚠ YAHAN Correct order
+          renderCompanyList(companies);
+          applyFilters();   // 🔥 ab sidebar sahi update hoga
+          resetDetailsCard();
+
+          if (config.center) {
+            world.pointOfView({
+              lat: config.center.lat,
+              lng: config.center.lng,
+              altitude: config.center.altitude
+            }, 1000);
+          }
+        })
+
+
+        .catch(err => {
+          console.error("Error loading", config.file, err);
+          listEl.innerHTML = `<div style="font-size:12px;color:#f87171;margin-top:4px;">Failed to load ${config.label} data (${config.file}).</div>`;
+          detailsEl.innerHTML = `
+            <h3>Error loading data</h3>
+            <div class="details-row">
+              <span class="details-label">File: </span>
+              <span class="details-value">${config.file}</span>
+            </div>
+            <div class="details-row">
+              <span class="details-label">Message: </span>
+              <span class="details-value">${err.message}</span>
+            </div>
+          `;
+        });
+    }
+
+    function applyFilters() {
+      const search = currentSearch.trim().toLowerCase();
+
+      const filtered = companies.filter(c => {
+        if (currentTypeFilter !== "all" && c.type !== currentTypeFilter) return false;
+
+        if (search) {
+          const text = (c.name + " " + c.city + " " + c.country).toLowerCase();
+          if (!text.includes(search)) return false;
+        }
+        return true;
+      });
+
+      world.pointsData(filtered);
+      renderCompanyList(filtered);
+
+      if (activeCompany && filtered.includes(activeCompany)) {
+        world.ringsData([activeCompany]);
+      } else {
+        world.ringsData([]);
+        activeCompany = null;
+        resetDetailsCard();
+      }
+    }
+    function renderCompanyList(list) {
+      listEl.innerHTML = "";
+      list.forEach(c => {
+        const item = document.createElement("div");
+        item.className = "company-item";
+        item.dataset.name = c.name;
+
+        if (activeCompany && activeCompany.name === c.name) {
+          item.classList.add("active");
+        }
+
+        item.innerHTML = `
+      <div class="company-name">${c.name}</div>
+      <div class="company-meta">${c.city}, ${c.country}</div>
+      <div class="company-tag-row">
+        <span class="small-tag type-${c.type}">
+          ${c.type === "fulltime" ? "Full-time" :
+            c.type === "internship" ? "Internship" :
+              "Remote"}
+        </span>
+      </div>
+    `;
+
+        item.addEventListener("click", () => focusOnCompany(c));
+        listEl.appendChild(item);
+      });
+
+      if (!list.length) {
+        listEl.innerHTML = `<div style="font-size:12px;color:#9ca3af;margin-top:4px;">No companies found for this filter.</div>`;
+      }
+    }
+
+    function resetDetailsCard() {
+      const label = COUNTRY_CONFIG[currentCountryKey]?.label || "selected country";
+      detailsEl.innerHTML = `
+        <h3>Select a company</h3>
+        <div class="details-row">
+          <span class="details-label">Hint: </span>
+          <span class="details-value">You are viewing ${label}. Use the list or click markers on the globe.</span>
+        </div>
+      `;
+    }
+
+    function updateDetailsCard(c) {
+      detailsEl.innerHTML = `
+        <h3>${c.name}</h3>
+        <div class="details-row">
+          <span class="details-label">Location: </span>
+          <span class="details-value">${c.city}, ${c.country}</span>
+        </div>
+        <div class="details-row">
+          <span class="details-label">Roles: </span>
+          <span class="details-value">${c.roles}</span>
+        </div>
+        <div class="details-row">
+          <span class="details-label">Type: </span>
+          <span class="details-value">${c.type === "fulltime" ? "Full-time" :
+          c.type === "internship" ? "Internship / Fresher Friendly" :
+            "Remote (Work From Home)"
+        }</span>
+        </div>
+        <div class="details-actions">
+          <a class="btn btn-primary" href="${c.website}" target="_blank" rel="noopener">
+            🔗 Open Careers Page
+          </a>
+          <button class="btn btn-ghost" onclick="alert('Future feature: direct apply / notes / save company ✨')">
+            ⭐ Save for later (demo)
+          </button>
+        </div>
+      `;
+    }
+
+    function focusOnCompany(c) {
+      activeCompany = c;
+      updateDetailsCard(c);
+
+      world.pointOfView({ lat: c.lat, lng: c.lng, altitude: 1.5 }, 1000);
+      world.ringsData([c]);
+
+      document.querySelectorAll(".company-item").forEach(el => {
+        el.classList.toggle("active", el.dataset.name === c.name);
+      });
+    }
+
+
+
+    // 🔥 START: default India load
+    loadCountry(currentCountryKey);
+  </script>
+
+</body>
+
+</html>
