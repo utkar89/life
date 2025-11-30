@@ -1,0 +1,1323 @@
+[
+  {
+    "name": "GitHub",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, Security, ML Engineer",
+    "website": "https://github.careers",
+    "type": "remote",
+    "lat": 5,
+    "lng": -10
+  },
+  {
+    "name": "Zapier",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Frontend, Backend, DevOps",
+    "website": "https://zapier.com/jobs",
+    "type": "remote",
+    "lat": 2,
+    "lng": -25
+  },
+  {
+    "name": "Automattic",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "React, PHP, Systems Engineer",
+    "website": "https://automattic.com/work-with-us",
+    "type": "remote",
+    "lat": 10,
+    "lng": 20
+  },
+  {
+    "name": "Toptal",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Software Engineer, Data Scientist",
+    "website": "https://www.toptal.com/careers",
+    "type": "remote",
+    "lat": -5,
+    "lng": 35
+  },
+  {
+    "name": "GitLab",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "DevOps, Platform Engineer, SRE",
+    "website": "https://about.gitlab.com/jobs/",
+    "type": "remote",
+    "lat": -12,
+    "lng": 12
+  },
+  {
+    "name": "Canva",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Frontend, Backend, Android",
+    "website": "https://www.canva.com/careers/",
+    "type": "remote",
+    "lat": -22,
+    "lng": 110
+  },
+  {
+    "name": "Notion",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, iOS, Product Engineer",
+    "website": "https://www.notion.so/careers",
+    "type": "remote",
+    "lat": 15,
+    "lng": -35
+  },
+  {
+    "name": "Stripe",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Payments Backend, Security Engineer",
+    "website": "https://stripe.com/jobs/search?query=remote",
+    "type": "remote",
+    "lat": 25,
+    "lng": -50
+  },
+  {
+    "name": "Deel",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, Finance Tech, API Engineer",
+    "website": "https://www.deel.com/careers",
+    "type": "remote",
+    "lat": 12,
+    "lng": -5
+  },
+  {
+    "name": "Remote.com",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cloud Engineer, Frontend, Rust",
+    "website": "https://remote.com/jobs",
+    "type": "remote",
+    "lat": -18,
+    "lng": 40
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Software Engineer, DevOps, Data",
+    "website": "https://boards.greenhouse.io/wikimedia",
+    "type": "remote",
+    "lat": -8,
+    "lng": 28
+  },
+  {
+    "name": "Mozilla",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Rust Developer, Firefox Engineer",
+    "website": "https://careers.mozilla.org/listings/",
+    "type": "remote",
+    "lat": 8,
+    "lng": -15
+  },
+  {
+    "name": "Shopify",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, Android, iOS",
+    "website": "https://www.shopify.com/careers",
+    "type": "remote",
+    "lat": 33,
+    "lng": -90
+  },
+  {
+    "name": "Hotjar",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Backend, Product Engineer",
+    "website": "https://careers.hotjar.com/jobs",
+    "type": "remote",
+    "lat": -15,
+    "lng": 20
+  },
+  {
+    "name": "Cactus Communications",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "AI Engineer, NLP Developer",
+       "website": "https://cactusglobal.com/careers/",
+    "type": "remote",
+    "lat": 10,
+    "lng": 70
+  },
+  {
+    "name": "HelpScout",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, Support Engineer",
+    "website": "https://www.helpscout.com/company/careers/",
+    "type": "remote",
+    "lat": -3,
+    "lng": -40
+  },
+  {
+    "name": "Time Doctor",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "API Developer, Python, ML",
+    "website": "https://www.timedoctor.com/careers",
+    "type": "remote",
+    "lat": -12,
+    "lng": 25
+  },
+  {
+    "name": "Revolut",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Financial Tech Engineer, Python",
+    "website": "https://jobs.lever.co/revolut",
+    "type": "remote",
+    "lat": 40,
+    "lng": 5
+  },
+  {
+    "name": "ClickUp",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Frontend, React, Productivity App Dev",
+    "website": "https://clickup.com/careers",
+    "type": "remote",
+    "lat": 20,
+    "lng": -30
+  },
+  {
+    "name": "Hubstaff",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Backend, iOS, Android",
+    "website": "https://hubstaff.com/jobs",
+    "type": "remote",
+    "lat": -15,
+    "lng": -15
+  }
+  ,
+  {
+    "name": "Contentful",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Backend, Cloud, API Engineer",
+    "website": "https://www.contentful.com/careers/",
+    "type": "remote",
+    "lat": -5,
+    "lng": 60
+  },
+  {
+    "name": "CrowdStrike",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cyber Security, Threat Intelligence",
+    "website": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers",
+    "type": "remote",
+    "lat": 8,
+    "lng": 15
+  },
+  {
+    "name": "Miro",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, Infrastructure Engineer",
+    "website": "https://miro.com/careers/",
+    "type": "remote",
+    "lat": 30,
+    "lng": -15
+  },
+  {
+    "name": "Fiverr",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Node.js, React, Platform Dev",
+    "website": "https://jobs.fiverr.com/",
+    "type": "remote",
+    "lat": -10,
+    "lng": 10
+  },
+  {
+    "name": "Upwork",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, Payments Engineer",
+    "website": "https://careers.upwork.com/jobs",
+    "type": "remote",
+    "lat": 0,
+    "lng": 25
+  },
+  {
+    "name": "Linear",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Frontend, Product Engineer",
+    "website": "https://linear.app/careers",
+    "type": "remote",
+    "lat": 18,
+    "lng": -42
+  },
+  {
+    "name": "Ahrefs",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Rust, Backend, Big Data",
+    "website": "https://ahrefs.com/jobs",
+    "type": "remote",
+    "lat": -22,
+    "lng": 53
+  },
+  {
+    "name": "Cloudflare",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Systems Engineer, SRE, Go Developer",
+    "website": "https://www.cloudflare.com/careers/jobs/",
+    "type": "remote",
+    "lat": 3,
+    "lng": -60
+  },
+  {
+    "name": "Webflow",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "React, Full Stack, API Developer",
+    "website": "https://webflow.com/careers",
+    "type": "remote",
+    "lat": -2,
+    "lng": 5
+  },
+  {
+    "name": "Ghost Foundation",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Node.js, SQL, Backend Developer",
+    "website": "https://careers.ghost.org/",
+    "type": "remote",
+    "lat": 10,
+    "lng": 45
+  },
+  {
+    "name": "TelemetryHub (Scalyr)",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Telemetry Platform, Big Data, APIs",
+    "website": "https://www.telemetryhub.com/careers",
+    "type": "remote",
+    "lat": -12,
+    "lng": -25
+  },
+  {
+    "name": "SonarSource",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Java, Code Quality, Dev Tools Engineer",
+    "website": "https://www.sonarsource.com/company/jobs/",
+    "type": "remote",
+    "lat": 12,
+    "lng": -10
+  },
+  {
+    "name": "MessageBird",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cloud Messaging, Backend, React",
+    "website": "https://messagebird.com/careers",
+    "type": "remote",
+    "lat": 15,
+    "lng": 25
+  },
+  {
+    "name": "Bitwarden",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Security Engineer, Rust Developer",
+    "website": "https://bitwarden.com/careers/",
+    "type": "remote",
+    "lat": -30,
+    "lng": 35
+  },
+  {
+    "name": "Bitly",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Go Developer, Full Stack Engineer",
+    "website": "https://bitly.com/pages/careers",
+    "type": "remote",
+    "lat": 8,
+    "lng": -2
+  },
+  {
+    "name": "Payoneer",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Payments Developer, Java, DevOps",
+    "website": "https://payoneer.careers/",
+    "type": "remote",
+    "lat": -8,
+    "lng": 12
+  },
+  {
+    "name": "Airtable",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Platform Engineer, Full Stack",
+    "website": "https://www.airtable.com/careers",
+    "type": "remote",
+    "lat": 10,
+    "lng": -20
+  },
+  {
+    "name": "PlanetScale",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Database Engineer, Distributed Systems",
+    "website": "https://planetscale.com/careers",
+    "type": "remote",
+    "lat": 6,
+    "lng": 30
+  },
+  {
+    "name": "Docker",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Container Platform, Go Developer",
+    "website": "https://www.docker.com/careers",
+    "type": "remote",
+    "lat": -4,
+    "lng": -30
+  },
+  {
+    "name": "Vercel",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Next.js, Full Stack, Infra",
+    "website": "https://vercel.com/careers",
+    "type": "remote",
+    "lat": 14,
+    "lng": -45
+  },
+  {
+    "name": "DigitalOcean",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cloud Engineer, SRE, DevOps",
+    "website": "https://www.digitalocean.com/careers",
+    "type": "remote",
+    "lat": -15,
+    "lng": -10
+  },
+  {
+    "name": "JetBrains",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "IDE Developer, Kotlin, UI Framework Engineer",
+    "website": "https://www.jetbrains.com/careers/",
+    "type": "remote",
+    "lat": 5,
+    "lng": 45
+  },
+  {
+    "name": "Intel Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Hardware-Software Integration, C++",
+    "website": "https://jobs.intel.com/en/c/remote-jobs",
+    "type": "remote",
+    "lat": -10,
+    "lng": 5
+  },
+  {
+    "name": "Oracle Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Java Platform, Database, Cloud",
+    "website": "https://careers.oracle.com/jobs/#remote",
+    "type": "remote",
+    "lat": 18,
+    "lng": 25
+  },
+  {
+    "name": "Salesforce Anywhere",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "CRM, Apex Developer, LWC",
+    "website": "https://www.salesforce.com/company/careers/",
+    "type": "remote",
+    "lat": -5,
+    "lng": -20
+  },
+  {
+    "name": "Siemens Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Industrial IoT, Embedded, Data",
+    "website": "https://jobs.siemens.com/careers?remote=true",
+    "type": "remote",
+    "lat": -12,
+    "lng": 15
+  }
+  ,
+  {
+    "name": "Spotify Remote Tech",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Backend, Data Platform, ML Engineer",
+    "website": "https://www.lifeatspotify.com/jobs",
+    "type": "remote",
+    "lat": 15,
+    "lng": -5
+  },
+  {
+    "name": "Netflix Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Platform Engineering, Cloud, DevSecOps",
+    "website": "https://jobs.netflix.com/",
+    "type": "remote",
+    "lat": -10,
+    "lng": 42
+  },
+  {
+    "name": "Twitter Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Software Engineering, ML, Backend",
+    "website": "https://careers.twitter.com/",
+    "type": "remote",
+    "lat": 7,
+    "lng": 55
+  },
+  {
+    "name": "Adobe Remote Careers",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cloud, Backend, Computer Vision",
+    "website": "https://adobe.com/careers",
+    "type": "remote",
+    "lat": -15,
+    "lng": -42
+  },
+  {
+    "name": "Slack Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Backend, Productivity Platform, iOS",
+    "website": "https://slack.com/careers",
+    "type": "remote",
+    "lat": 14,
+    "lng": -33
+  },
+  {
+    "name": "Asana Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, AI Workflows, Product Engineer",
+    "website": "https://asana.com/jobs",
+    "type": "remote",
+    "lat": -5,
+    "lng": 18
+  },
+  {
+    "name": "Trello/Atlassian Anywhere",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Frontend, Backend, Infrastructure",
+    "website": "https://www.atlassian.com/company/careers",
+    "type": "remote",
+    "lat": 20,
+    "lng": 8
+  },
+  {
+    "name": "ClickHouse Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Database Engineering, C++, Distributed Systems",
+    "website": "https://clickhouse.com/company/careers",
+    "type": "remote",
+    "lat": -12,
+    "lng": 66
+  },
+  {
+    "name": "Canonical (Ubuntu)",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Linux Kernel, Rust, Platform Engineering",
+    "website": "https://canonical.com/careers",
+    "type": "remote",
+    "lat": 0,
+    "lng": -15
+  },
+  {
+    "name": "HashiCorp Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Terraform, Vault, SRE, Cloud Security",
+    "website": "https://www.hashicorp.com/careers",
+    "type": "remote",
+    "lat": -4,
+    "lng": 10
+  },
+  {
+    "name": "DataDog Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Observability, Metrics Platform, Go Engineering",
+    "website": "https://www.datadoghq.com/careers/",
+    "type": "remote",
+    "lat": 9,
+    "lng": 30
+  },
+  {
+    "name": "Sentry Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, Monitoring, Rust Developer",
+    "website": "https://sentry.io/careers/",
+    "type": "remote",
+    "lat": 12,
+    "lng": -45
+  },
+  {
+    "name": "PaddyPower Betfair Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Realtime Betting Platform, Full Stack",
+    "website": "https://careers.flutter.com/",
+    "type": "remote",
+    "lat": -18,
+    "lng": -20
+  },
+  {
+    "name": "CircleCI Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "DevOps, CI/CD Engineers",
+    "website": "https://circleci.com/careers/",
+    "type": "remote",
+    "lat": 22,
+    "lng": 58
+  },
+  {
+    "name": "MindsDB Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "AI Engineer, Python, Data Infra",
+    "website": "https://mindsdb.com/careers",
+    "type": "remote",
+    "lat": 0,
+    "lng": -65
+  },
+  {
+    "name": "Render Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Platform Engineer, Kubernetes, Go",
+    "website": "https://render.com/careers",
+    "type": "remote",
+    "lat": -28,
+    "lng": 31
+  },
+  {
+    "name": "Replit Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Compiler, Full Stack, Infrastructure",
+    "website": "https://replit.com/careers",
+    "type": "remote",
+    "lat": 10,
+    "lng": 60
+  },
+  {
+    "name": "Softr Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, Product Engineering",
+    "website": "https://www.softr.io/jobs",
+    "type": "remote",
+    "lat": -6,
+    "lng": 10
+  },
+  {
+    "name": "Figment Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Blockchain Engineering, Infra, Rust",
+    "website": "https://figment.io/careers",
+    "type": "remote",
+    "lat": 7,
+    "lng": 38
+  },
+  {
+    "name": "Chainlink Labs Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Smart Contracts, TypeScript, Solidity",
+    "website": "https://chainlinklabs.com/careers",
+    "type": "remote",
+    "lat": -14,
+    "lng": 15
+  },
+  {
+    "name": "Polygon Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Web3 Full Stack, Cryptography, Rust",
+    "website": "https://polygon.technology/careers",
+    "type": "remote",
+    "lat": 18,
+    "lng": -5
+  },
+  {
+    "name": "Kraken Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Backend, Security, Crypto Engineer",
+    "website": "https://jobs.lever.co/kraken",
+    "type": "remote",
+    "lat": -25,
+    "lng": -40
+  },
+  {
+    "name": "Coinbase Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Blockchain Engineering, Security",
+    "website": "https://www.coinbase.com/careers",
+    "type": "remote",
+    "lat": 29,
+    "lng": 15
+  },
+  {
+    "name": "Telegram Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Backend, Graphics, Android, Cryptography",
+    "website": "https://telegram.org/jobs",
+    "type": "remote",
+    "lat": 3,
+    "lng": 0
+  },
+  {
+    "name": "Discord Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Game Networking Platform, React, Full Stack",
+    "website": "https://discord.com/jobs",
+    "type": "remote",
+    "lat": -18,
+    "lng": 0
+  },
+  {
+    "name": "PlayStation Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Game Engine, Network Platform Dev",
+    "website": "https://www.playstation.com/en-us/corporate/jobs/",
+    "type": "remote",
+    "lat": -11,
+    "lng": 33
+  },
+  {
+    "name": "Epic Games Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Unreal Engine, Multiplayer, C++",
+    "website": "https://www.epicgames.com/site/en-US/careers",
+    "type": "remote",
+    "lat": 17,
+    "lng": 25
+  },
+  {
+    "name": "Unity Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Rendering, Graphics Pipeline, C#",
+    "website": "https://careers.unity.com/",
+    "type": "remote",
+    "lat": -3,
+    "lng": 12
+  }
+  ,
+  {
+    "name": "HackerRank Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Java Backend, Full Stack, Platform Engineering",
+    "website": "https://www.hackerrank.com/careers",
+    "type": "remote",
+    "lat": 10,
+    "lng": -10
+  },
+  {
+    "name": "HackerEarth Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Backend, AI, Platform Developer",
+    "website": "https://hackerearth.com/careers",
+    "type": "remote",
+    "lat": -10,
+    "lng": 18
+  },
+  {
+    "name": "OpenSea Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Blockchain Engineer, Solidity, Frontend",
+    "website": "https://opensea.io/careers",
+    "type": "remote",
+    "lat": 6,
+    "lng": 35
+  },
+  {
+    "name": "Protocol Labs (IPFS)",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Distributed Systems, Rust, Crypto",
+    "website": "https://protocol.ai/join/",
+    "type": "remote",
+    "lat": -9,
+    "lng": -45
+  },
+  {
+    "name": "Pusher Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Real-Time Platform, JS/TS Dev",
+    "website": "https://pusher.com/careers",
+    "type": "remote",
+    "lat": 12,
+    "lng": -22
+  },
+  {
+    "name": "SaaS Labs Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "React, Full Stack, Backend",
+    "website": "https://saaslabs.co/careers",
+    "type": "remote",
+    "lat": -16,
+    "lng": 15
+  },
+  {
+    "name": "SaaSGroup Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Growth Software Engineering, SaaS Tooling",
+    "website": "https://saas.group/careers",
+    "type": "remote",
+    "lat": 18,
+    "lng": -40
+  },
+  {
+    "name": "TestGorilla Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Engineering, Python, Full Stack",
+    "website": "https://www.testgorilla.com/careers/",
+    "type": "remote",
+    "lat": 6,
+    "lng": 62
+  },
+  {
+    "name": "Clipboard Health Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, AI + Healthcare SaaS",
+    "website": "https://clipboardhealth.com/careers",
+    "type": "remote",
+    "lat": -5,
+    "lng": -25
+  },
+  {
+    "name": "CoderPad Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Interview Platform, Full Stack, Java",
+    "website": "https://coderpad.io/careers",
+    "type": "remote",
+    "lat": 14,
+    "lng": 10
+  },
+  {
+    "name": "CleverTech Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Senior Software Engineer, React, AWS",
+    "website": "https://clevertech.biz/careers",
+    "type": "remote",
+    "lat": -10,
+    "lng": 33
+  },
+  {
+    "name": "Outliant Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full-Stack, Backend, Web3 Developer",
+    "website": "https://outliant.com/careers",
+    "type": "remote",
+    "lat": 2,
+    "lng": -5
+  },
+  {
+    "name": "Invisible Technologies Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Automation Engineer, AI Ops",
+    "website": "https://www.inv.tech/careers",
+    "type": "remote",
+    "lat": -28,
+    "lng": 3
+  },
+  {
+    "name": "Andela Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Global Remote Developer Hiring",
+    "website": "https://andela.com/careers",
+    "type": "remote",
+    "lat": 0,
+    "lng": 25
+  },
+  {
+    "name": "AWS Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cloud Engineering, Lambda, Distributed Systems",
+    "website": "https://aws.amazon.com/careers/",
+    "type": "remote",
+    "lat": 13,
+    "lng": 45
+  },
+  {
+    "name": "Google Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "AI/ML, TensorFlow, Full Stack, Security",
+    "website": "https://careers.google.com/locations?distance=50&remote=true",
+    "type": "remote",
+    "lat": -6,
+    "lng": 15
+  },
+  {
+    "name": "Microsoft Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cloud, Azure, Cyber Security",
+    "website": "https://careers.microsoft.com/",
+    "type": "remote",
+    "lat": 19,
+    "lng": -18
+  },
+  {
+    "name": "Meta Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "AR/VR, ML, Infrastructure, Full Stack",
+    "website": "https://www.metacareers.com/jobs?locations=Remote",
+    "type": "remote",
+    "lat": -10,
+    "lng": -10
+  },
+  {
+    "name": "Apple Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "iOS Frameworks, Platform, ML",
+    "website": "https://jobs.apple.com/en-us/search?remote=true",
+    "type": "remote",
+    "lat": 10,
+    "lng": 28
+  },
+  {
+    "name": "NVIDIA Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "CUDA, GPU Computing, Deep Learning",
+    "website": "https://nvidia.com/en-us/about-nvidia/careers/",
+    "type": "remote",
+    "lat": -5,
+    "lng": -42
+  },
+  {
+    "name": "AMD Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "GPU Driver, Graphics Pipeline, C++",
+    "website": "https://www.amd.com/en/corporate/careers",
+    "type": "remote",
+    "lat": 6,
+    "lng": -32
+  },
+  {
+    "name": "Dropbox Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Backend, Distributed Infra, Desktop Client",
+    "website": "https://www.dropbox.com/jobs",
+    "type": "remote",
+    "lat": -3,
+    "lng": 60
+  },
+  {
+    "name": "Coursera Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Ed-Tech Full Stack, Product, ML",
+    "website": "https://about.coursera.org/careers/",
+    "type": "remote",
+    "lat": 10,
+    "lng": 12
+  },
+  {
+    "name": "Grammarly Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "NLP, AI, Full Stack",
+    "website": "https://www.grammarly.com/jobs",
+    "type": "remote",
+    "lat": 14,
+    "lng": -4
+  },
+  {
+    "name": "Duolingo Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Learning Tech, Full Stack, ML",
+    "website": "https://careers.duolingo.com/",
+    "type": "remote",
+    "lat": -14,
+    "lng": 5
+  },
+  {
+    "name": "Khan Academy Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Ed-Tech Engineering, Data, Backend",
+    "website": "https://www.khanacademy.org/careers",
+    "type": "remote",
+    "lat": 2,
+    "lng": 40
+  },
+  {
+    "name": "Udemy Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Online Learning Apps, Full Stack",
+    "website": "https://about.udemy.com/careers/",
+    "type": "remote",
+    "lat": -2,
+    "lng": -55
+  }
+,
+  {
+    "name": "Bosch Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Embedded, IoT, Automotive Cloud",
+    "website": "https://www.bosch.com/careers/",
+    "type": "remote",
+    "lat": 6,
+    "lng": -44
+  },
+  {
+    "name": "Siemens Healthineers Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Healthcare AI, Cloud, Data Engineering",
+    "website": "https://jobs.siemens-healthineers.com/",
+    "type": "remote",
+    "lat": -14,
+    "lng": 32
+  },
+  {
+    "name": "Philips Digital Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Medical Data Engineering, ML, IoT",
+    "website": "https://www.careers.philips.com/",
+    "type": "remote",
+    "lat": 2,
+    "lng": -8
+  },
+  {
+    "name": "Cloudera Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Big Data, Hadoop, Spark Engineering",
+    "website": "https://cloudera.com/careers",
+    "type": "remote",
+    "lat": 18,
+    "lng": -32
+  },
+  {
+    "name": "Databricks Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Apache Spark, Data Platform, ML",
+    "website": "https://databricks.com/company/careers",
+    "type": "remote",
+    "lat": -8,
+    "lng": 12
+  },
+  {
+    "name": "Snowflake Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Data Warehouse, Cloud Engineer, SQL",
+    "website": "https://careers.snowflake.com/",
+    "type": "remote",
+    "lat": 12,
+    "lng": 48
+  },
+  {
+    "name": "ElasticSearch Elastic Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Search Engineering, Platform, Java",
+    "website": "https://www.elastic.co/about/careers",
+    "type": "remote",
+    "lat": -3,
+    "lng": -38
+  },
+  {
+    "name": "MuleSoft Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "API Developer, Integration Engineering",
+    "website": "https://mulesoft.com/careers",
+    "type": "remote",
+    "lat": 5,
+    "lng": -18
+  },
+  {
+    "name": "MongoDB Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Database Engineer, Atlas, Full Stack",
+    "website": "https://www.mongodb.com/careers",
+    "type": "remote",
+    "lat": -16,
+    "lng": 30
+  },
+  {
+    "name": "Couchbase Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Distributed Systems, NoSQL Engineering",
+    "website": "https://www.couchbase.com/careers",
+    "type": "remote",
+    "lat": 12,
+    "lng": -51
+  },
+  {
+    "name": "HCL Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cloud, SAP, Full Stack, Infrastructure",
+    "website": "https://www.hcltech.com/careers",
+    "type": "remote",
+    "lat": -12,
+    "lng": 8
+  },
+  {
+    "name": "TCS Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Full Stack, QA, DevOps, Business Apps",
+    "website": "https://www.tcs.com/careers",
+    "type": "remote",
+    "lat": 20,
+    "lng": 6
+  },
+  {
+    "name": "Infosys Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Java Engineer, Cloud, Data",
+    "website": "https://www.infosys.com/careers",
+    "type": "remote",
+    "lat": -5,
+    "lng": 52
+  },
+  {
+    "name": "Wipro Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Automation, Cybersecurity, Data Engineer",
+    "website": "https://careers.wipro.com/",
+    "type": "remote",
+    "lat": 8,
+    "lng": -20
+  },
+  {
+    "name": "Accenture Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cloud Program, SAP, Full Stack",
+    "website": "https://www.accenture.com/careers",
+    "type": "remote",
+    "lat": -8,
+    "lng": -10
+  },
+  {
+    "name": "Capgemini Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Java Full Stack, Azure, Automation",
+    "website": "https://capgemini.com/careers",
+    "type": "remote",
+    "lat": 6,
+    "lng": 28
+  },
+  {
+    "name": "Cognizant Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Solutions Engineer, Data Analytics",
+    "website": "https://careers.cognizant.com/global/en",
+    "type": "remote",
+    "lat": -6,
+    "lng": 20
+  },
+  {
+    "name": "Dell Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Hardware + Software Engineering, Cloud",
+    "website": "https://jobs.dell.com/",
+    "type": "remote",
+    "lat": -20,
+    "lng": -32
+  },
+  {
+    "name": "Intel Global AI Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "AI Platforms, CUDA, C++ Engineering",
+    "website": "https://jobs.intel.com/",
+    "type": "remote",
+    "lat": 10,
+    "lng": -43
+  },
+  {
+    "name": "Qualcomm Global Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Embedded, SoC, Modem Stack",
+    "website": "https://www.qualcomm.com/company/careers",
+    "type": "remote",
+    "lat": -15,
+    "lng": 10
+  },
+  {
+    "name": "Samsung Remote R&D",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Android Framework, AI, ML",
+    "website": "https://www.samsung.com/in/about-us/careers/",
+    "type": "remote",
+    "lat": 2,
+    "lng": -22
+  },
+  {
+    "name": "Dyson Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Robotics, Embedded, ML Engineering",
+    "website": "https://careers.dyson.com/",
+    "type": "remote",
+    "lat": -5,
+    "lng": -12
+  },
+  {
+    "name": "NASA Software Remote Programs",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Science Computing, Python, ML, HPC",
+    "website": "https://www.nasa.gov/careers/",
+    "type": "remote",
+    "lat": 22,
+    "lng": 65
+  },
+  {
+    "name": "SpaceX Distributed Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "C++, Embedded, Autonomous Systems",
+    "website": "https://www.spacex.com/careers",
+    "type": "remote",
+    "lat": -12,
+    "lng": -48
+  },
+  {
+    "name": "Tesla Software Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Autopilot, IoT, Battery Systems, Cloud",
+    "website": "https://www.tesla.com/careers",
+    "type": "remote",
+    "lat": 2,
+    "lng": 10
+  },
+  {
+    "name": "BMW Global Tech Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Automotive OS, Infotainment, AI",
+    "website": "https://www.bmwgroup.com/en/careers.html",
+    "type": "remote",
+    "lat": 10,
+    "lng": 45
+  },
+  {
+    "name": "Mercedes Tech Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Navigation, AI, Mobile Apps",
+    "website": "https://group.mercedes-benz.com/careers/",
+    "type": "remote",
+    "lat": -10,
+    "lng": 14
+  },
+  {
+    "name": "Toyota Connected Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Cloud Vehicle Platform, ML",
+    "website": "https://www.toyotaconnected.com/careers",
+    "type": "remote",
+    "lat": 8,
+    "lng": -6
+  },
+  {
+    "name": "Audi Connected Car Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Embedded UX, Automotive Cloud",
+    "website": "https://www.audi.com/en/careers.html",
+    "type": "remote",
+    "lat": -7,
+    "lng": 5
+  },
+  {
+    "name": "Rolls-Royce Digital Remote",
+    "city": "Remote – Worldwide",
+    "country": "Global",
+    "roles": "Aerospace ML, Digital Twin Software",
+    "website": "https://www.rolls-royce.com/careers",
+    "type": "remote",
+    "lat": 15,
+    "lng": 22
+  }
+
+
+
+]
+
+
+
+
