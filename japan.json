@@ -1,0 +1,1120 @@
+[
+  {
+    "name": "Rakuten",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Full Stack Developer, Mobile Developer",
+    "website": "https://jobs.rakuten.careers/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Hitachi",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Software Developer, Cloud Engineer",
+    "website": "https://www.hitachi.com/recruit/index.html",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Fujitsu",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Cyber Security Engineer, QA, Backend",
+    "website": "https://www.fujitsu.com/global/about/careers/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "SoftBank",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "AI Developer, Cloud Developer",
+    "website": "https://recruit.softbank.jp/en",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Sony",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Game Developer, Mobile Developer, ML Engineer",
+    "website": "https://www.sony.com/en/SonyInfo/Careers/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Nintendo",
+    "city": "Kyoto",
+    "country": "Japan",
+    "roles": "Game Developer, Graphics Engineer",
+    "website": "https://www.nintendo.co.jp/jobs/en/",
+    "type": "fulltime",
+    "lat": 35.0116,
+    "lng": 135.7681
+  },
+  {
+    "name": "Capcom",
+    "city": "Osaka",
+    "country": "Japan",
+    "roles": "Game Developer, C++ Developer",
+    "website": "https://www.capcom.co.jp/ir/english/recruit/",
+    "type": "fulltime",
+    "lat": 34.6937,
+    "lng": 135.5023
+  },
+  {
+    "name": "SEGA",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Unity Developer, Backend Developer",
+    "website": "https://www.sega.co.jp/recruit/english/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Square Enix",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Graphics Programmer, Game Designer",
+    "website": "https://www.jp.square-enix.com/recruit/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Konami",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Game AI Engineer, Developer",
+    "website": "https://www.konami.com/recruit/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "LINE Corporation",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Backend Developer, Android Developer",
+    "website": "https://careers.linecorp.com/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Mercari",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Flutter Developer, Data Engineer",
+    "website": "https://careers.mercari.com/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "CyberAgent",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Full Stack Developer, Cloud Developer",
+    "website": "https://www.cyberagent.co.jp/en/careers/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "DeNA",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "AI Developer, Python Developer",
+    "website": "https://dena.com/intl/career/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "GREE",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Backend Developer, Game Developer",
+    "website": "https://corp.gree.net/jp/en/recruit/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Bandai Namco",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "C++ Developer, 3D Graphics Developer",
+    "website": "https://www.bandainamcoent.co.jp/english/recruit/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Cygames",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Unity Developer, Game Programmer",
+    "website": "https://careers.cygames.co.jp/en/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Tokyo Electron",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Semiconductor Software Engineer",
+    "website": "https://www.tel.com/careers/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "NEC Corporation",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Data Engineer, Network Engineer",
+    "website": "https://www.nec.com/en/global/careers/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Canon",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Software Engineer, ML Developer",
+    "website": "https://global.canon/en/corp/careers/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  }
+  ,
+  {
+    "name": "Panasonic",
+    "city": "Osaka",
+    "country": "Japan",
+    "roles": "Embedded Systems Developer, Firmware Engineer",
+    "website": "https://holdings.panasonic/global/corporate/jobs/",
+    "type": "fulltime",
+    "lat": 34.6937,
+    "lng": 135.5023
+  },
+  {
+    "name": "Toshiba",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Software Developer, AI Engineer",
+    "website": "https://www.toshiba.co.jp/recruit/en/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "NTT Data",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "SAP Developer, Data Engineer",
+    "website": "https://recruit.nttdata.com/global/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Yahoo Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Backend Developer, Security Analyst",
+    "website": "https://about.yahoo.co.jp/hr/en/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "PayPay",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Mobile Developer, Backend Developer",
+    "website": "https://paypay-corp.co.jp/en/careers/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "KDDI",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Cloud Engineer, Software Developer",
+    "website": "https://www.kddi.com/english/corporate/recruit/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Mizuho Financial Group",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "FinTech Developer, Web Developer",
+    "website": "https://www.mizuho-fg.com/recruit/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Mitsubishi Electric",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Java Developer, Robotics Software Engineer",
+    "website": "https://www.mitsubishielectric.com/en/about/careers/index.html",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Tokyo Stock Exchange",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Backend Developer, Cyber Security Engineer",
+    "website": "https://www.jpx.co.jp/english/corporate/careers/index.html",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Nomura Research Institute",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Data Scientist, Python Developer",
+    "website": "https://nri.com/en/careers",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Astellas Pharma",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "AI in Medical Research, Data Engineer",
+    "website": "https://www.astellas.com/en/careers",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Recruit Holdings",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Web Developer, Full Stack Developer",
+    "website": "https://recruit-holdings.com/en/career/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Aeon Digital",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Frontend Developer, UI Developer",
+    "website": "https://www.aeon.info/en/career/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Z Holdings",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Node.js Developer, Security Engineer",
+    "website": "https://www.z-holdings.co.jp/en/careers/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Denso",
+    "city": "Aichi",
+    "country": "Japan",
+    "roles": "Embedded Developer, Automotive Software",
+    "website": "https://www.denso.com/global/en/careers/",
+    "type": "fulltime",
+    "lat": 35.1802,
+    "lng": 136.9066
+  },
+  {
+    "name": "Nissan",
+    "city": "Yokohama",
+    "country": "Japan",
+    "roles": "Autonomous Driving Software Engineer",
+    "website": "https://www.nissanmotor.jobs/en/",
+    "type": "fulltime",
+    "lat": 35.4437,
+    "lng": 139.6380
+  },
+  {
+    "name": "Toyota",
+    "city": "Aichi",
+    "country": "Japan",
+    "roles": "AI Engineer, Robotics Developer",
+    "website": "https://www.toyota-global.com/careers/",
+    "type": "fulltime",
+    "lat": 34.8020,
+    "lng": 137.1590
+  },
+  {
+    "name": "Subaru",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "ML Engineer for Automotive",
+    "website": "https://www.subaru.co.jp/en/careers/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "ANA Systems",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Cloud Developer, DevOps Engineer",
+    "website": "https://www.anasystems.co.jp/en/recruit/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Japan Airlines IT",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Java Developer, Data Engineer",
+    "website": "https://www.jal.com/en/recruit/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  }
+    ,
+  {
+    "name": "Riot Games Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Game Developer, DevOps Engineer",
+    "website": "https://www.riotgames.com/en/work-with-us",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Autodesk Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "3D Engine Developer, Cloud Engineer",
+    "website": "https://www.autodesk.com/careers",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "IBM Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "AI Engineer, Data Scientist, Cloud Developer",
+    "website": "https://www.ibm.com/employment/jp-en/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Accenture Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Full Stack Developer, SAP Developer",
+    "website": "https://www.accenture.com/jp-en/careers",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Bosch Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Autonomous Systems Developer, C++ Developer",
+    "website": "https://www.bosch.com/careers/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "SAP Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "ERP Developer, Backend Developer",
+    "website": "https://jobs.sap.com/location/Japan-jobs/627/1101677/2",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Infosys Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Web Developer, Full Stack Developer",
+    "website": "https://www.infosys.com/careers",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "TCS Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Java Developer, QA Engineer",
+    "website": "https://www.tcs.com/careers",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Wipro Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Cloud Developer, UI Developer",
+    "website": "https://careers.wipro.com/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "HCL Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Front-End Developer, Remote Dev",
+    "website": "https://www.hcltech.com/careers",
+    "type": "remote",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Mindtree Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Python Developer, ML Developer",
+    "website": "https://www.mindtree.com/careers",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Tech Mahindra Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Cyber Security Engineer, Network Engineer",
+    "website": "https://careers.techmahindra.com/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Nokia Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "5G Software Developer, Embedded Developer",
+    "website": "https://www.nokia.com/about-us/careers/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Siemens Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "AI for Automation Developer, SCADA Developer",
+    "website": "https://www.siemens.com/jp/en/company/jobs.html",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Dell Technologies Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Cloud Developer, Technical Support Engineer",
+    "website": "https://jobs.dell.com/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Lenovo Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Firmware Engineer, Backend Developer",
+    "website": "https://lenovocareers.com/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "HP Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Software Developer, QA Tester",
+    "website": "https://jobs.hp.com/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Cisco Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Cyber Security Engineer, Network Dev",
+    "website": "https://jobs.cisco.com/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Oracle Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Database Developer, Java Developer",
+    "website": "https://careers.oracle.com/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Google Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "ML Engineer, Android Developer",
+    "website": "https://careers.google.com/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Microsoft Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Cloud Developer, AI Engineer",
+    "website": "https://careers.microsoft.com/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Amazon Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Backend Developer, SDE-1, Data Engineer",
+    "website": "https://www.amazon.jobs/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Meta Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Frontend Developer, Research Engineer",
+    "website": "https://www.metacareers.com/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "OpenAI Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Research Engineer, AI Scientist",
+    "website": "https://openai.com/careers",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Adobe Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Full Stack Developer, Product Engineer",
+    "website": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Salesforce Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "CRM Developer, JavaScript Developer",
+    "website": "https://www.salesforce.com/company/careers/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Unity Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Unity Developer, 3D Engine Developer",
+    "website": "https://careers.unity.com/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Epic Games Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Unreal Engine Developer, 3D Graphics Programmer",
+    "website": "https://www.epicgames.com/site/en-US/careers",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  }
+  ,
+  
+  {
+    "name": "Nikon",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Image Processing Developer, Embedded Software Engineer",
+    "website": "https://www.nikon.com/about/careers/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Yamaha Motor",
+    "city": "Shizuoka",
+    "country": "Japan",
+    "roles": "Automotive Software Engineer, C++ Developer",
+    "website": "https://global.yamaha-motor.com/employment/",
+    "type": "fulltime",
+    "lat": 34.7108,
+    "lng": 137.7261
+  },
+  {
+    "name": "Kawasaki Robotics",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Robotics Developer, AI Systems Engineer",
+    "website": "https://robotics.kawasaki.com/en1/company/recruit/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Fast Retailing (Uniqlo)",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Full Stack Developer, Web Developer",
+    "website": "https://www.fastretailing.com/employment/en/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Rinnai IT",
+    "city": "Nagoya",
+    "country": "Japan",
+    "roles": "Cloud Developer, Frontend Developer",
+    "website": "https://www.rinnai.co.jp/en/company/recruit/",
+    "type": "fulltime",
+    "lat": 35.1815,
+    "lng": 136.9066
+  },
+  {
+    "name": "NTT Docomo",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Telecom Software Developer, AI Engineer",
+    "website": "https://www.docomo.ne.jp/english/recruit/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Zozo Technologies",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Frontend Developer, Data Engineer",
+    "website": "https://tech.zozo.com/recruit/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Cookpad",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Backend Developer, Mobile App Developer",
+    "website": "https://careers.cookpad.com/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "SmartNews",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "iOS Developer, Machine Learning Engineer",
+    "website": "https://careers.smartnews.com/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "ExaWizards",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "AI Engineer, Data Scientist",
+    "website": "https://exawizards.com/en/recruit/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Preferred Networks",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Deep Learning Engineer, Research Engineer",
+    "website": "https://www.preferred.jp/en/jobs/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Aiming Inc",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Unity Developer, Java Developer",
+    "website": "https://recruit.aiming-inc.com/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "GungHo Online Entertainment",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Game Programmer, Backend Dev",
+    "website": "https://www.gungho.co.jp/english/recruit/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Enish",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Game Developer, UI Developer",
+    "website": "https://www.enish.co.jp/recruit/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "KLab",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Mobile Game Programmer, Backend Developer",
+    "website": "https://www.klab.com/en/careers/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "CyberConnect2",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "roles": "3D Game Developer, C++ Graphics Programmer",
+    "website": "https://www.cc2.co.jp/en/recruit/",
+    "type": "fulltime",
+    "lat": 33.5902,
+    "lng": 130.4017
+  },
+  {
+    "name": "PlatinumGames",
+    "city": "Osaka",
+    "country": "Japan",
+    "roles": "Game Engine Developer, Shader Developer",
+    "website": "https://www.platinumgames.com/careers",
+    "type": "fulltime",
+    "lat": 34.6937,
+    "lng": 135.5023
+  },
+  {
+    "name": "FromSoftware",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "C++ Gameplay Developer, Animation Engineer",
+    "website": "https://www.fromsoftware.jp/ww/development_recruit/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Spike Chunsoft",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Unity Developer, Web Developer",
+    "website": "https://www.spike-chunsoft.co.jp/careers/",
+    "type": "fulltime",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Kadokawa",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Web Developer, Backend Developer",
+    "website": "https://group.kadokawa.co.jp/global/recruit/",
+    "type": "fulltime",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Koei Tecmo",
+    "city": "Yokohama",
+    "country": "Japan",
+    "roles": "C++ Developer, Game AI Engineer",
+    "website": "https://www.koeitecmo.co.jp/recruit/",
+    "type": "fulltime",
+    "lat": 35.4437,
+    "lng": 139.6380
+  },
+  {
+    "name": "Level-5",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "roles": "Game Programmer, UI Developer",
+    "website": "https://www.level5.co.jp/recruit/",
+    "type": "fulltime",
+    "lat": 33.5902,
+    "lng": 130.4017
+  },
+  {
+    "name": "Marvelous Interactive",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Game AI Developer, Unreal Engine Developer",
+    "website": "https://www.marv.jp/recruit/",
+    "type": "fulltime",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Sumitomo Electric IT",
+    "city": "Osaka",
+    "country": "Japan",
+    "roles": "Embedded Developer, Automotive Software",
+    "website": "https://global-sei.com/recruit/",
+    "type": "fulltime",
+    "lat": 34.6937,
+    "lng": 135.5023
+  },
+  {
+    "name": "Zuken Global",
+    "city": "Yokohama",
+    "country": "Japan",
+    "roles": "Electronic Design Software Developer",
+    "website": "https://www.zuken.com/company/careers/",
+    "type": "fulltime",
+    "lat": 35.4437,
+    "lng": 139.6380
+  },
+  {
+    "name": "GMO Internet",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Blockchain Developer, Backend Developer",
+    "website": "https://recruit.gmo.jp/en/",
+    "type": "remote",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "BitFlyer Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Crypto Developer, Security Engineer",
+    "website": "https://hr.bitflyer.com/",
+    "type": "remote",
+    "lat": 35.6895,
+    "lng": 139.6917
+  }
+,
+  {
+    "name": "Rakuten Internship Program",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Software Engineer Intern, Backend Intern",
+    "website": "https://corp.rakuten.co.jp/careers/students/",
+    "type": "internship",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Sony Engineering Intern",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "ML Intern, Game Development Intern",
+    "website": "https://www.sony.com/en/SonyInfo/Careers/students/",
+    "type": "internship",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Nintendo Internship",
+    "city": "Kyoto",
+    "country": "Japan",
+    "roles": "Game Developer Intern, Unity Intern",
+    "website": "https://www.nintendo.co.jp/jobs/en/",
+    "type": "internship",
+    "lat": 35.0116,
+    "lng": 135.7681
+  },
+  {
+    "name": "CyberAgent Summer Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Frontend Intern, Mobile App Intern",
+    "website": "https://www.cyberagent.co.jp/en/careers/students/",
+    "type": "internship",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Mercari Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Android Intern, Data Engineer Intern",
+    "website": "https://careers.mercari.com/students/",
+    "type": "internship",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "LINE Developers Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Backend Intern, Flutter Intern",
+    "website": "https://careers.linecorp.com/students/en/",
+    "type": "internship",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "KLab Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Game Programming Intern, Unity Intern",
+    "website": "https://www.klab.com/en/careers/intern/",
+    "type": "internship",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "Konami Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Graphics Intern, Unreal Engine Intern",
+    "website": "https://www.konami.com/recruit/students/internship",
+    "type": "internship",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "DeNA Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "AI Intern, Python Intern",
+    "website": "https://dena.com/intl/career/students/",
+    "type": "internship",
+    "lat": 35.652832,
+    "lng": 139.839478
+  },
+  {
+    "name": "GREE Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Game Intern, Backend Intern",
+    "website": "https://corp.gree.net/jp/en/recruit/students/",
+    "type": "internship",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Capcom Internship",
+    "city": "Osaka",
+    "country": "Japan",
+    "roles": "C++ Game Developer Intern",
+    "website": "https://www.capcom.co.jp/ir/english/recruit/students/",
+    "type": "internship",
+    "lat": 34.6937,
+    "lng": 135.5023
+  },
+  {
+    "name": "SEGA Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Unity Intern, Gameplay Programming Intern",
+    "website": "https://www.sega.co.jp/recruit/students/intern/",
+    "type": "internship",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "Square Enix Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Game Designer Intern, Software Intern",
+    "website": "https://www.jp.square-enix.com/recruit/internship/",
+    "type": "internship",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "name": "OpenAI Japan Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "AI Research Intern",
+    "website": "https://openai.com/careers/internships",
+    "type": "internship",
+    "lat": 35.6895,
+    "lng": 139.6917
+  },
+  {
+    "name": "Unity Japan Internship",
+    "city": "Tokyo",
+    "country": "Japan",
+    "roles": "Unity Engine Intern, 3D Intern",
+    "website": "https://careers.unity.com/campus",
+    "type": "internship",
+    "lat": 35.6895,
+    "lng": 139.6917
+  }
+
+
+
+
+]
+
+
+
+
+
+
+
+
+
