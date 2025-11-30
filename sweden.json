@@ -1,0 +1,1995 @@
+[
+  {
+    "name": "Spotify HQ",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Backend Developer, Data Engineer, Full Stack Developer",
+    "website": "https://www.lifeatspotify.com/jobs",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Ericsson Global",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Cloud Engineer, Software Engineer, AI Engineer",
+    "website": "https://www.ericsson.com/en/careers",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Volvo Cars Digital",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Embedded Developer",
+    "website": "https://www.volvocars.com/intl/v/careers",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Klarna Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Frontend Developer, Payments Developer",
+    "website": "https://www.klarna.com/careers/",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "King Game Studio",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Unity Developer, Game Developer, C++ Developer",
+    "website": "https://careers.king.com/",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "IKEA Digital",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Software Engineer, Full Stack Developer",
+    "website": "https://jobs.ikea.com/",
+    "type": "fulltime",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "H&M Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "React Developer, Backend Developer",
+    "website": "https://career.hm.com",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Tobii Eye Tracking",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Machine Learning Engineer, Python Developer",
+    "website": "https://jobs.tobii.com/",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Northvolt",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Software Developer, Industrial Automation Engineer",
+    "website": "https://northvolt.com/career/",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "SEB Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Java Developer, DevOps Engineer",
+    "website": "https://sebgroup.com/career",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Handelsbanken Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Software Developer, Data Engineer",
+    "website": "https://www.handelsbanken.com/en/career",
+    "type": "fulltime",
+    "lat": 59.3325,
+    "lng": 18.0649
+  },
+  {
+    "name": "Voi Technology",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Firmware Developer",
+    "website": "https://careers.voi.com/",
+    "type": "fulltime",
+    "lat": 59.3325,
+    "lng": 18.0649
+  },
+  {
+    "name": "Tink API",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "API Developer, Payment Integrations Developer",
+    "website": "https://tink.com/careers",
+    "type": "fulltime",
+    "lat": 59.3325,
+    "lng": 18.0649
+  },
+  {
+    "name": "Mojang Studios",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Game Developer, Backend Developer",
+    "website": "https://careers.microsoft.com/us/en/mojang-studios",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Trustly",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Payments Developer, Full Stack Developer",
+    "website": "https://trustly.com/careers",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Cisco Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Cloud Developer, Full Stack Developer",
+    "website": "https://jobs.cisco.com/",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Accenture Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Backend Developer, Cloud Engineer",
+    "website": "https://www.accenture.com/se-en/careers",
+    "type": "fulltime",
+    "lat": 59.3349,
+    "lng": 18.0687
+  },
+  {
+    "name": "CGI Sweden",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Cloud Developer",
+    "website": "https://www.cgi.com/en/careers",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Fortnox Cloud",
+    "city": "Växjö",
+    "country": "Sweden",
+    "roles": "Java Developer, Cloud Engineer",
+    "website": "https://fortnox.se/career",
+    "type": "fulltime",
+    "lat": 56.8777,
+    "lng": 14.8091
+  },
+  {
+    "name": "Qlik Data Analytics",
+    "city": "Lund",
+    "country": "Sweden",
+    "roles": "Data Engineer, BI Developer",
+    "website": "https://www.qlik.com/us/company/careers",
+    "type": "fulltime",
+    "lat": 55.7047,
+    "lng": 13.1910
+  },
+  {
+    "name": "Storytel",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Android Developer, iOS Developer",
+    "website": "https://www.storytel.com/careers",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Zettle by PayPal",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Frontend Developer, Payments Developer",
+    "website": "https://www.zettle.com/gb/careers",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Sinch",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "C# Developer, Messaging Platform Developer",
+    "website": "https://sinch.com/careers",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Nasdaq Stockholm Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Java Developer, Low-latency Platform Developer",
+    "website": "https://www.nasdaq.com/about/careers",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  }
+  ,
+  {
+    "name": "Telia Company Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Backend Developer, Network Software Engineer",
+    "website": "https://www.teliacompany.com/en/careers",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "SF Studios Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Video Streaming Developer, Cloud Developer",
+    "website": "https://www.sfstudios.se/en/career/",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Paradox Interactive",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Gameplay Developer, AI Systems Programmer",
+    "website": "https://career.paradoxplaza.com/",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "DICE EA Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "C++ Engine Developer, Multiplayer Systems Engineer",
+    "website": "https://www.ea.com/careers",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Avalanche Studios",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Unreal Developer, Rendering Developer",
+    "website": "https://avalanchestudios.com/careers",
+    "type": "fulltime",
+    "lat": 59.3358,
+    "lng": 18.0706
+  },
+  {
+    "name": "NetEnt Gaming",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "React Developer, Unity Developer",
+    "website": "https://careers.netent.com/",
+    "type": "fulltime",
+    "lat": 59.3333,
+    "lng": 18.0686
+  },
+  {
+    "name": "Zenuity / Zenseact",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Autonomous Driving Developer, C++/Python Developer",
+    "website": "https://www.zenseact.com/careers/",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "SKF Digital",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Cloud Developer, Full Stack Developer",
+    "website": "https://www.skf.com/group/career",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Scania Autonomous Solutions",
+    "city": "Södertälje",
+    "country": "Sweden",
+    "roles": "Software Engineer, Embedded Developer",
+    "website": "https://www.scania.com/group/en/career/",
+    "type": "fulltime",
+    "lat": 59.1955,
+    "lng": 17.6259
+  },
+  {
+    "name": "ABB Robotics Sweden",
+    "city": "Västerås",
+    "country": "Sweden",
+    "roles": "Industrial Automation Developer, C++/PLC Developer",
+    "website": "https://careers.abb/global/en",
+    "type": "fulltime",
+    "lat": 59.6099,
+    "lng": 16.5448
+  },
+  {
+    "name": "Axis Communications",
+    "city": "Lund",
+    "country": "Sweden",
+    "roles": "IoT Developer, Embedded Developer",
+    "website": "https://www.axis.com/careers",
+    "type": "fulltime",
+    "lat": 55.7047,
+    "lng": 13.1910
+  },
+  {
+    "name": "Tetra Pak Digital",
+    "city": "Lund",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Cloud Platform Developer",
+    "website": "https://www.tetrapak.com/careers/",
+    "type": "fulltime",
+    "lat": 55.7047,
+    "lng": 13.1910
+  },
+  {
+    "name": "Bambora / Worldline Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Payments Developer, Java Developer",
+    "website": "https://worldline.com/en/careers",
+    "type": "fulltime",
+    "lat": 59.3331,
+    "lng": 18.0649
+  },
+  {
+    "name": "Evolution Gaming",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Game Platform Developer, Streaming Video Developer",
+    "website": "https://careers.evolution.com/",
+    "type": "fulltime",
+    "lat": 59.3328,
+    "lng": 18.0648
+  },
+  {
+    "name": "Husqvarna Group Digital",
+    "city": "Jönköping",
+    "country": "Sweden",
+    "roles": "Software Developer, Robotics Automation Engineer",
+    "website": "https://www.husqvarnacareer.com/",
+    "type": "fulltime",
+    "lat": 57.7826,
+    "lng": 14.1618
+  },
+  {
+    "name": "SAS Scandinavian Airlines Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Java Developer, Cloud Migration Developer",
+    "website": "https://www.sasgroup.net/careers/",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Nordic Semiconductor Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Embedded Developer, Wireless Systems Developer",
+    "website": "https://www.nordicsemi.com/About-us/Careers",
+    "type": "fulltime",
+    "lat": 59.3330,
+    "lng": 18.0649
+  },
+  {
+    "name": "AstraZeneca Tech Sweden",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "ML Engineer, Bioinformatics Software Developer",
+    "website": "https://careers.astrazeneca.com/",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Cellink BioTech",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Python Developer, Research Software Engineer",
+    "website": "https://www.cellink.com/careers/",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Sandvik Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Java Developer",
+    "website": "https://www.home.sandvik/en/careers/",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "SEK (Swedish Export Credit) IT",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Backend Developer, Cloud Developer",
+    "website": "https://www.sek.se/en/careers/",
+    "type": "fulltime",
+    "lat": 59.3338,
+    "lng": 18.0645
+  },
+  {
+    "name": "Ängström Aerospace Software",
+    "city": "Uppsala",
+    "country": "Sweden",
+    "roles": "C++ Developer, Simulation Software Developer",
+    "website": "https://angstromspace.com/careers",
+    "type": "fulltime",
+    "lat": 59.8586,
+    "lng": 17.6389
+  },
+  {
+    "name": "Uppsala University IT",
+    "city": "Uppsala",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Systems Developer",
+    "website": "https://uu.se/en/about-uu/join-us/",
+    "type": "fulltime",
+    "lat": 59.8586,
+    "lng": 17.6389
+  },
+  {
+    "name": "Linköping University Digital",
+    "city": "Linköping",
+    "country": "Sweden",
+    "roles": "Software Engineer, C++/Python Developer",
+    "website": "https://liu.se/en/work-at-liu",
+    "type": "fulltime",
+    "lat": 58.4109,
+    "lng": 15.6216
+  }
+  ,
+  {
+    "name": "Svea Solar Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Energy Platform Engineer",
+    "website": "https://sveasolar.com/careers",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Hemnet Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "React Developer, Backend Developer",
+    "website": "https://www.hemnet.se/om-oss/jobb",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Polestar Digital",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Android Automotive Developer, Full Stack Developer",
+    "website": "https://www.polestar.com/careers",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Einride Autonomous Freight",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Autonomous Systems Developer, Data Engineer",
+    "website": "https://einride.tech/careers",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Better Shelter Innovation Lab",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Platform Engineer",
+    "website": "https://bettershelter.org/career",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "NENT Group / Viaplay Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Streaming Platform Developer, DevOps Engineer",
+    "website": "https://viaplaygroup.com/careers",
+    "type": "fulltime",
+    "lat": 59.3325,
+    "lng": 18.0649
+  },
+  {
+    "name": "Hem Hygien Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Machine Learning Engineer, Data Developer",
+    "website": "https://www.hemhygi.com/careers",
+    "type": "fulltime",
+    "lat": 59.3350,
+    "lng": 18.0700
+  },
+  {
+    "name": "Bonnier News Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, DevOps Engineer",
+    "website": "https://www.bonniernewstech.se/careers/",
+    "type": "fulltime",
+    "lat": 59.3320,
+    "lng": 18.0640
+  },
+  {
+    "name": "Oatly Digital",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Software Engineer, Data Platform Developer",
+    "website": "https://www.oatly.com/en/careers",
+    "type": "fulltime",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Crunchfish Gesture Tech",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "C++ Developer, Computer Vision Developer",
+    "website": "https://www.crunchfish.com/careers/",
+    "type": "fulltime",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Hogia Group",
+    "city": "Stenungsund",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Java Developer",
+    "website": "https://www.hogia.se/karriar",
+    "type": "fulltime",
+    "lat": 58.0700,
+    "lng": 11.8186
+  },
+  {
+    "name": "Visma Software Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Cloud Developer, Full Stack Developer",
+    "website": "https://www.visma.com/careers/",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Bokio Financial Software",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "React Developer, Backend Developer",
+    "website": "https://www.bokio.se/karriar/",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Quinyx Workforce Management",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "SaaS Developer, Backend Developer",
+    "website": "https://www.quinyx.com/careers",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Telavox Unified Communications",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Web Developer, Cloud Developer",
+    "website": "https://www.telavox.com/careers/",
+    "type": "fulltime",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "RaySearch Laboratories",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Medical Imaging Developer, C++ Developer",
+    "website": "https://www.raysearchlabs.com/careers/",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Sileon Payments",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Backend Developer, Payments Platform Developer",
+    "website": "https://www.sileon.com/careers/",
+    "type": "fulltime",
+    "lat": 59.3342,
+    "lng": 18.0635
+  },
+  {
+    "name": "TactoTek Sweden",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Embedded Software Developer, C Developer",
+    "website": "https://www.tactotek.com/careers",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Additude IT Consulting",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Software Developer, Cloud Consultant",
+    "website": "https://additude.se/karriar/",
+    "type": "fulltime",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Eletive HR Platform",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, API Developer",
+    "website": "https://eletive.com/careers",
+    "type": "fulltime",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Tillväxtverket Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Backend Developer, Systems Developer",
+    "website": "https://tillvaxtverket.se/om-tillvaxtverket/jobba-hos-oss.html",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Teknikföretagen IT",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, .NET Developer",
+    "website": "https://www.teknikforetagen.se/om-oss/jobba-hos-oss/",
+    "type": "fulltime",
+    "lat": 59.3320,
+    "lng": 18.0640
+  },
+  {
+    "name": "Hoist Finance Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Java Developer, Cloud Developer",
+    "website": "https://www.hoistfinance.com/careers/",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Lime CRM Tech",
+    "city": "Lund",
+    "country": "Sweden",
+    "roles": "SaaS Developer, Full Stack Developer",
+    "website": "https://www.lime-technologies.com/career/",
+    "type": "fulltime",
+    "lat": 55.7047,
+    "lng": 13.1910
+  },
+  {
+    "name": "Kry / Livi HealthTech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Mobile Developer, Backend Developer",
+    "website": "https://www.kry.se/careers/",
+    "type": "fulltime",
+    "lat": 59.3342,
+    "lng": 18.0635
+  },
+  {
+    "name": "Epidemic Sound",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Audio Streaming Developer, Full Stack Developer",
+    "website": "https://www.epidemicsound.com/careers/",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  }
+,
+  {
+    "name": "Afa Insurance Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Java Developer",
+    "website": "https://www.afaforsakring.se/om-oss/karriar/",
+    "type": "fulltime",
+    "lat": 59.3342,
+    "lng": 18.0635
+  },
+  {
+    "name": "SICK IVP Sweden",
+    "city": "Linköping",
+    "country": "Sweden",
+    "roles": "Computer Vision Developer, C++ Developer",
+    "website": "https://www.sick.com/se/en/careers/c/g366778",
+    "type": "fulltime",
+    "lat": 58.4109,
+    "lng": 15.6216
+  },
+  {
+    "name": "Cambio Healthcare Systems",
+    "city": "Linköping",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, .NET Developer",
+    "website": "https://www.cambio.se/career/",
+    "type": "fulltime",
+    "lat": 58.4109,
+    "lng": 15.6216
+  },
+  {
+    "name": "Örebro University Digital",
+    "city": "Örebro",
+    "country": "Sweden",
+    "roles": "Software Engineer, Data Engineer",
+    "website": "https://www.oru.se/english/working-at-orebro-university/",
+    "type": "fulltime",
+    "lat": 59.2753,
+    "lng": 15.2134
+  },
+  {
+    "name": "Epiroc Tech",
+    "city": "Örebro",
+    "country": "Sweden",
+    "roles": "Embedded Developer, Automation Developer",
+    "website": "https://www.epiroc.com/en/careers",
+    "type": "fulltime",
+    "lat": 59.2753,
+    "lng": 15.2134
+  },
+  {
+    "name": "HCLTech Sweden",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Software Engineer, Cloud Developer",
+    "website": "https://www.hcltech.com/careers",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "TCS Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Backend Developer, Data Engineer",
+    "website": "https://www.tcs.com/careers",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Wipro Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Java Developer, Systems Engineer",
+    "website": "https://careers.wipro.com/",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Capgemini Sweden",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Cloud Developer, SAP Developer",
+    "website": "https://www.capgemini.com/se-en/careers/",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Sogeti Sweden",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, DevOps Engineer",
+    "website": "https://www.sogeti.se/jobba-hos-oss/",
+    "type": "fulltime",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Netlight Consulting",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Software Engineer, Data Engineer",
+    "website": "https://career.netlight.com/",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Academic Work Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Junior Developer, QA Engineer, Full Stack Developer",
+    "website": "https://www.academicwork.se/jobbsok",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Nexer Group",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Backend Developer, Cloud Engineer",
+    "website": "https://nexergroup.com/career/",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Sigma Technology",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Technical Software Engineer",
+    "website": "https://sigmatechnology.com/careers/",
+    "type": "fulltime",
+    "lat": 59.3350,
+    "lng": 18.0700
+  },
+  {
+    "name": "Öhlins Racing Digital",
+    "city": "Upplands Väsby",
+    "country": "Sweden",
+    "roles": "Embedded Developer, C Developer",
+    "website": "https://www.ohlins.com/about/career/",
+    "type": "fulltime",
+    "lat": 59.5182,
+    "lng": 17.9233
+  },
+  {
+    "name": "Etraveli Group",
+    "city": "Uppsala",
+    "country": "Sweden",
+    "roles": "React Developer, Backend Developer",
+    "website": "https://careers.etraveligroup.com/",
+    "type": "fulltime",
+    "lat": 59.8586,
+    "lng": 17.6389
+  },
+  {
+    "name": "Tietoevry Sweden",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Software Developer, Cloud Developer",
+    "website": "https://www.tietoevry.com/en/careers/",
+    "type": "fulltime",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Nordnet Bank Tech",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Node.js Developer, Full Stack Developer",
+    "website": "https://nordnet.se/om-oss/jobba-pa-nordnet",
+    "type": "fulltime",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "SEBx Innovation Lab",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Kotlin Developer, Data Platform Developer",
+    "website": "https://sebgroup.com/career/sebx",
+    "type": "fulltime",
+    "lat": 59.3349,
+    "lng": 18.0687
+  },
+  {
+    "name": "PostNord Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Software Engineer, Cloud Developer",
+    "website": "https://www.postnord.com/careers",
+    "type": "fulltime",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Dustin Tech",
+    "city": "Nacka",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Solutions Developer",
+    "website": "https://www.dustingroup.com/en/career",
+    "type": "fulltime",
+    "lat": 59.3109,
+    "lng": 18.1643
+  },
+  {
+    "name": "Apotek Hjärtat Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "iOS Developer, Web Developer",
+    "website": "https://www.apotekhjartat.se/karriar/",
+    "type": "fulltime",
+    "lat": 59.3350,
+    "lng": 18.0705
+  },
+  {
+    "name": "Elgiganten Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Frontend Developer, Backend Developer",
+    "website": "https://www.elgiganten.se/cms/karriar/karriar/",
+    "type": "fulltime",
+    "lat": 59.3335,
+    "lng": 18.0650
+  },
+  {
+    "name": "MySQL AB (Oracle Sweden)",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Database Developer, Systems Developer",
+    "website": "https://www.oracle.com/se/careers/",
+    "type": "fulltime",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Thermo Fisher Scientific Sweden",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Bioinformatics Software Engineer, Data Developer",
+    "website": "https://jobs.thermofisher.com/",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Hitachi Energy Sweden",
+    "city": "Västerås",
+    "country": "Sweden",
+    "roles": "Automation Software Engineer, Embedded Developer",
+    "website": "https://www.hitachienergy.com/careers",
+    "type": "fulltime",
+    "lat": 59.6099,
+    "lng": 16.5448
+  },
+  {
+    "name": "Alten Sweden",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Full Stack Developer, Cloud Engineer",
+    "website": "https://www.alten.se/lediga-jobb",
+    "type": "fulltime",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "AFRY Digital",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Java Developer, Cloud Developer",
+    "website": "https://afry.com/en/career",
+    "type": "fulltime",
+    "lat": 59.3349,
+    "lng": 18.0687
+  }
+  ,
+  {
+    "name": "Spotify Internship Program",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Backend Intern, Data Intern, Frontend Intern",
+    "website": "https://www.lifeatspotify.com/students",
+    "type": "internship",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Ericsson Student Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Software Intern, Cloud Intern, Network Engineering Intern",
+    "website": "https://www.ericsson.com/en/careers/students",
+    "type": "internship",
+    "lat": 59.3336,
+    "lng": 18.0631
+  },
+  {
+    "name": "Klarna Software Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "React Intern, Product Intern",
+    "website": "https://www.klarna.com/careers/students",
+    "type": "internship",
+    "lat": 59.3340,
+    "lng": 18.0635
+  },
+  {
+    "name": "Volvo Cars Internship",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "ML Intern, Embedded Intern",
+    "website": "https://www.volvocars.com/intl/v/careers/students",
+    "type": "internship",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "IKEA Digital Internship",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Software Intern, UX Intern",
+    "website": "https://jobs.ikea.com/category/internships/34147",
+    "type": "internship",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "H&M Tech Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Mobile Intern, Web Intern",
+    "website": "https://career.hm.com/en/internships",
+    "type": "internship",
+    "lat": 59.3318,
+    "lng": 18.0647
+  },
+  {
+    "name": "King Game Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Unity Intern, Game Dev Intern",
+    "website": "https://careers.king.com/students-and-graduates",
+    "type": "internship",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Mojang Minecraft Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "C++ Intern, Gameplay Intern",
+    "website": "https://careers.microsoft.com/students",
+    "type": "internship",
+    "lat": 59.3344,
+    "lng": 18.0631
+  },
+  {
+    "name": "SEB Tech Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Java Intern, Cloud Intern",
+    "website": "https://sebgroup.com/career/students-and-graduates",
+    "type": "internship",
+    "lat": 59.3350,
+    "lng": 18.0701
+  },
+  {
+    "name": "Tink API Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "API Intern, Payments Intern",
+    "website": "https://tink.com/careers/students",
+    "type": "internship",
+    "lat": 59.3330,
+    "lng": 18.0648
+  },
+  {
+    "name": "Voi Technology Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Web Intern, Fleet Data Intern",
+    "website": "https://careers.voi.com/students",
+    "type": "internship",
+    "lat": 59.3325,
+    "lng": 18.0649
+  },
+  {
+    "name": "Northvolt Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Data Intern, Electrical Intern",
+    "website": "https://northvolt.com/career/students",
+    "type": "internship",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Cybercom Sweden Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Cloud Intern, Full Stack Intern",
+    "website": "https://www.cybercom.com/career",
+    "type": "internship",
+    "lat": 59.3321,
+    "lng": 18.0641
+  },
+  {
+    "name": "Axis Communications Internship",
+    "city": "Lund",
+    "country": "Sweden",
+    "roles": "Networking Intern, Security Intern",
+    "website": "https://www.axis.com/careers/students",
+    "type": "internship",
+    "lat": 55.7047,
+    "lng": 13.1910
+  },
+  {
+    "name": "Tetra Pak Software Internship",
+    "city": "Lund",
+    "country": "Sweden",
+    "roles": "Java Intern, DevOps Intern",
+    "website": "https://www.tetrapak.com/careers/students",
+    "type": "internship",
+    "lat": 55.7047,
+    "lng": 13.1910
+  },
+  {
+    "name": "Telia Digital Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Frontend Intern, Backend Intern",
+    "website": "https://teliacompany.com/careers/students",
+    "type": "internship",
+    "lat": 59.3334,
+    "lng": 18.0628
+  },
+  {
+    "name": "Nasdaq Stockholm Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Low latency systems Intern, C++ Intern",
+    "website": "https://www.nasdaq.com/about/careers/students",
+    "type": "internship",
+    "lat": 59.3322,
+    "lng": 18.0643
+  },
+  {
+    "name": "SEGA Nordic Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Game Programming Intern",
+    "website": "https://careers.sega.com/students",
+    "type": "internship",
+    "lat": 59.3348,
+    "lng": 18.0680
+  },
+  {
+    "name": "Epidemic Sound Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Audio Streaming Intern, Backend Intern",
+    "website": "https://www.epidemicsound.com/careers/internships",
+    "type": "internship",
+    "lat": 59.3327,
+    "lng": 18.0648
+  },
+  {
+    "name": "Malmö University Research Internship",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "AI Intern, Research Intern",
+    "website": "https://mau.se/en/about-us/job-here/",
+    "type": "internship",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Chalmers University Tech Internship",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Software Intern, Computer Vision Intern",
+    "website": "https://www.chalmers.se/en/about-chalmers/job-openings/",
+    "type": "internship",
+    "lat": 57.6891,
+    "lng": 11.9769
+  },
+  {
+    "name": "Lund University AI Internship",
+    "city": "Lund",
+    "country": "Sweden",
+    "roles": "AI Intern, ML Intern",
+    "website": "https://www.lunduniversity.lu.se/about/work-us",
+    "type": "internship",
+    "lat": 55.7047,
+    "lng": 13.1910
+  }
+  ,
+  {
+    "name": "SEBx Innovation Lab Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Kotlin Intern, Data Platform Intern",
+    "website": "https://sebgroup.com/career/sebx",
+    "type": "internship",
+    "lat": 59.3349,
+    "lng": 18.0687
+  },
+  {
+    "name": "Bambora / Worldline Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Payment Systems Intern, Java Intern",
+    "website": "https://worldline.com/en/careers/students",
+    "type": "internship",
+    "lat": 59.3331,
+    "lng": 18.0649
+  },
+  {
+    "name": "Paradox Interactive Game Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Gameplay Intern, AI Programming Intern",
+    "website": "https://career.paradoxplaza.com/students",
+    "type": "internship",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "DICE EA Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Rendering Intern, Game Engine Intern",
+    "website": "https://www.ea.com/careers/students",
+    "type": "internship",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Avalanche Studios Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "C++ Intern, Unreal Engine Intern",
+    "website": "https://avalanchestudios.com/careers/internships",
+    "type": "internship",
+    "lat": 59.3358,
+    "lng": 18.0706
+  },
+  {
+    "name": "NetEnt Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Unity Intern, JavaScript Intern",
+    "website": "https://careers.netent.com/students",
+    "type": "internship",
+    "lat": 59.3333,
+    "lng": 18.0686
+  },
+  {
+    "name": "Sinch Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "C# Intern, Messaging Platform Intern",
+    "website": "https://sinch.com/careers/students",
+    "type": "internship",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Zettle by PayPal Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Frontend Intern, Fintech Intern",
+    "website": "https://www.zettle.com/students",
+    "type": "internship",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Qlik Internship Program",
+    "city": "Lund",
+    "country": "Sweden",
+    "roles": "BI Intern, Data Analytics Intern",
+    "website": "https://www.qlik.com/us/company/careers/students",
+    "type": "internship",
+    "lat": 55.7047,
+    "lng": 13.1910
+  },
+  {
+    "name": "Axis Computer Vision Internship",
+    "city": "Lund",
+    "country": "Sweden",
+    "roles": "Computer Vision Intern, ML Intern",
+    "website": "https://www.axis.com/careers/students",
+    "type": "internship",
+    "lat": 55.7047,
+    "lng": 13.1910
+  },
+  {
+    "name": "TactoTek Internship",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "C Developer Intern, Electronics Intern",
+    "website": "https://www.tactotek.com/careers",
+    "type": "internship",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Husqvarna Robotics Internship",
+    "city": "Jönköping",
+    "country": "Sweden",
+    "roles": "Embedded Intern, Robotics Intern",
+    "website": "https://www.husqvarnacareer.com/students",
+    "type": "internship",
+    "lat": 57.7826,
+    "lng": 14.1618
+  },
+  {
+    "name": "ABB Robotics Internship",
+    "city": "Västerås",
+    "country": "Sweden",
+    "roles": "Control Systems Intern, C++ Intern",
+    "website": "https://careers.abb/global/en/students",
+    "type": "internship",
+    "lat": 59.6099,
+    "lng": 16.5448
+  },
+  {
+    "name": "Hitachi Energy Internship",
+    "city": "Västerås",
+    "country": "Sweden",
+    "roles": "Automation Intern, Embedded Intern",
+    "website": "https://www.hitachienergy.com/careers/students",
+    "type": "internship",
+    "lat": 59.6099,
+    "lng": 16.5448
+  },
+  {
+    "name": "Alten Sweden Internship",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Software Intern, Cloud Intern",
+    "website": "https://www.alten.se/lediga-jobb/students",
+    "type": "internship",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Tietoevry Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Backend Intern, DevOps Intern",
+    "website": "https://www.tietoevry.com/en/careers/students/",
+    "type": "internship",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "CGI Sweden Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Full Stack Intern, QA Intern",
+    "website": "https://www.cgi.com/en/careers/students",
+    "type": "internship",
+    "lat": 59.3343,
+    "lng": 18.0632
+  },
+  {
+    "name": "Capgemini Internship (Sweden)",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Cloud Intern, SAP Intern",
+    "website": "https://www.capgemini.com/se-en/careers/students-graduates/",
+    "type": "internship",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Sogeti Sweden Internship",
+    "city": "Malmö",
+    "country": "Sweden",
+    "roles": "Web Intern, Data Intern",
+    "website": "https://www.sogeti.se/jobba-hos-oss/students",
+    "type": "internship",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Netlight Internship",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "roles": "Software Engineering Intern",
+    "website": "https://career.netlight.com/students",
+    "type": "internship",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Etraveli Group Internship",
+    "city": "Uppsala",
+    "country": "Sweden",
+    "roles": "Full Stack Intern, Travel Tech Intern",
+    "website": "https://careers.etraveligroup.com/students",
+    "type": "internship",
+    "lat": 59.8586,
+    "lng": 17.6389
+  },
+  {
+    "name": "Uppsala University Internship",
+    "city": "Uppsala",
+    "country": "Sweden",
+    "roles": "Software Research Intern",
+    "website": "https://uu.se/en/about-uu/join-us/",
+    "type": "internship",
+    "lat": 59.8586,
+    "lng": 17.6389
+  },
+  {
+    "name": "Linköping University Internship",
+    "city": "Linköping",
+    "country": "Sweden",
+    "roles": "Research Intern, ML Intern",
+    "website": "https://liu.se/en/work-at-liu",
+    "type": "internship",
+    "lat": 58.4109,
+    "lng": 15.6216
+  },
+  {
+    "name": "Chalmers Robotics Internship",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "roles": "Robotics Intern, Systems Intern",
+    "website": "https://www.chalmers.se/en/about-chalmers/job-openings/",
+    "type": "internship",
+    "lat": 57.6891,
+    "lng": 11.9769
+  }
+  ,
+  {
+    "name": "Spotify Remote Engineering",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Backend Engineer Remote, Data Engineer Remote",
+    "website": "https://www.lifeatspotify.com/jobs?remote=true",
+    "type": "remote",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Klarna Remote Tech",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Full Stack Remote, React Remote",
+    "website": "https://www.klarna.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3340,
+    "lng": 18.0635
+  },
+  {
+    "name": "IKEA Digital Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Frontend Remote, UX Remote",
+    "website": "https://jobs.ikea.com/?remote=true",
+    "type": "remote",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "H&M Tech Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Mobile Developer (Remote), Web Developer Remote",
+    "website": "https://career.hm.com/?remote=true",
+    "type": "remote",
+    "lat": 59.3318,
+    "lng": 18.0647
+  },
+  {
+    "name": "Voi Technology Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Backend Remote, IoT Remote",
+    "website": "https://careers.voi.com/?remote=true",
+    "type": "remote",
+    "lat": 59.3325,
+    "lng": 18.0649
+  },
+  {
+    "name": "Tink API Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "API Remote, Payments Platform Remote",
+    "website": "https://tink.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3330,
+    "lng": 18.0648
+  },
+  {
+    "name": "Qliro Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Node.js Remote Developer, Full Stack Remote",
+    "website": "https://careers.qliro.com/jobs?remote=true",
+    "type": "remote",
+    "lat": 59.3347,
+    "lng": 18.0642
+  },
+  {
+    "name": "Storytel Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Streaming Platform Remote, Android/iOS Remote",
+    "website": "https://www.storytel.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Mojang Studios Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "C#/C++ Remote, Game Systems Remote",
+    "website": "https://careers.microsoft.com/mojang?remote=true",
+    "type": "remote",
+    "lat": 59.3344,
+    "lng": 18.0631
+  },
+  {
+    "name": "Paradox Interactive Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Unity Developer Remote, AI Gameplay Remote",
+    "website": "https://career.paradoxplaza.com/?remote=true",
+    "type": "remote",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Avalanche Studios Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Unreal Developer Remote, Rendering Remote",
+    "website": "https://avalanchestudios.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3358,
+    "lng": 18.0706
+  },
+  {
+    "name": "Sinch Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "C# Messaging Remote Developer",
+    "website": "https://sinch.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Epidemic Sound Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Audio Streaming Remote Developer",
+    "website": "https://www.epidemicsound.com/careers/?remote=true",
+    "type": "remote",
+    "lat": 59.3327,
+    "lng": 18.0648
+  },
+  {
+    "name": "Tobii Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Machine Learning Remote, Computer Vision Remote",
+    "website": "https://jobs.tobii.com/?remote=true",
+    "type": "remote",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Northvolt Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Electrical Remote, Data Remote",
+    "website": "https://northvolt.com/career?remote=true",
+    "type": "remote",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Visma Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Java Remote Developer, Full Stack Remote",
+    "website": "https://visma.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3323,
+    "lng": 18.0647
+  },
+  {
+    "name": "CGI Sweden Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Cloud Remote, Software Remote",
+    "website": "https://cgi.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3343,
+    "lng": 18.0632
+  },
+  {
+    "name": "Capgemini Sweden Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "SAP Remote, Java Remote",
+    "website": "https://www.capgemini.com/se-en/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3334,
+    "lng": 18.0628
+  },
+  {
+    "name": "Tietoevry Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Backend Remote, DevOps Remote",
+    "website": "https://tietoevry.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Netlight Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Software Engineer Remote",
+    "website": "https://career.netlight.com/?remote=true",
+    "type": "remote",
+    "lat": 59.3335,
+    "lng": 18.0650
+  },
+  {
+    "name": "Alten Sweden Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Full Stack Remote, Automation Remote",
+    "website": "https://www.alten.se/lediga-jobb?remote=true",
+    "type": "remote",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Nexer Group Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Java Remote, Cloud Remote",
+    "website": "https://nexergroup.com/career?remote=true",
+    "type": "remote",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Sigma Technology Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Software Remote, Technical Systems Remote",
+    "website": "https://sigmatechnology.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3350,
+    "lng": 18.0700
+  },
+  {
+    "name": "Zenseact Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Autonomous Driving Remote, AI Remote",
+    "website": "https://zenseact.com/careers?remote=true",
+    "type": "remote",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Einride Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Python Remote, Data Remote",
+    "website": "https://einride.tech/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3344,
+    "lng": 18.0630
+  }
+
+,
+  {
+    "name": "PostNord Digital Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Backend Remote, Full Stack Remote",
+    "website": "https://www.postnord.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "Nordic Semiconductor Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Embedded Remote, Wireless Systems Remote",
+    "website": "https://www.nordicsemi.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3330,
+    "lng": 18.0649
+  },
+  {
+    "name": "North Alliance Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Cloud Remote, React Remote",
+    "website": "https://noaagency.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3340,
+    "lng": 18.0634
+  },
+  {
+    "name": "Fortnox Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Java Remote, ERP Systems Remote",
+    "website": "https://fortnox.se/career?remote=true",
+    "type": "remote",
+    "lat": 56.8777,
+    "lng": 14.8091
+  },
+  {
+    "name": "Skanska Digital Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Software Remote, Data Remote",
+    "website": "https://www.skanska.se/career?remote=true",
+    "type": "remote",
+    "lat": 59.3303,
+    "lng": 18.0550
+  },
+  {
+    "name": "SAS Scandinavian Airlines Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Java Remote, Cloud Migration Remote",
+    "website": "https://www.sasgroup.net/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3302,
+    "lng": 18.0678
+  },
+  {
+    "name": "Barnes Remote Nordic",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Automation Remote, C++ Remote",
+    "website": "https://barnesgroupinc.com/careers?remote=true",
+    "type": "remote",
+    "lat": 57.7800,
+    "lng": 14.1590
+  },
+  {
+    "name": "Etraveli Group Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Full Stack Remote, Travel Tech Remote",
+    "website": "https://careers.etraveligroup.com/?remote=true",
+    "type": "remote",
+    "lat": 59.8586,
+    "lng": 17.6389
+  },
+  {
+    "name": "Afa Insurance Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Java Remote Developer",
+    "website": "https://www.afaforsakring.se/karriar?remote=true",
+    "type": "remote",
+    "lat": 59.3342,
+    "lng": 18.0635
+  },
+  {
+    "name": "SEK Export Credit Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Backend Remote, Cloud Remote",
+    "website": "https://www.sek.se/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3338,
+    "lng": 18.0645
+  },
+  {
+    "name": "Hoist Finance Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Fintech Remote, Full Stack Remote",
+    "website": "https://www.hoistfinance.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3345,
+    "lng": 18.0684
+  },
+  {
+    "name": "Dustin Digital Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Solutions Remote, Full Stack Remote",
+    "website": "https://www.dustingroup.com/en/career?remote=true",
+    "type": "remote",
+    "lat": 59.3109,
+    "lng": 18.1643
+  },
+  {
+    "name": "Lime CRM Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "SaaS Remote, Full Stack Remote",
+    "website": "https://www.lime-technologies.com/career?remote=true",
+    "type": "remote",
+    "lat": 55.7047,
+    "lng": 13.1910
+  },
+  {
+    "name": "Eletive Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "API Remote, Full Stack Remote",
+    "website": "https://eletive.com/careers?remote=true",
+    "type": "remote",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Telavox Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Web Remote, Cloud Remote",
+    "website": "https://www.telavox.com/careers?remote=true",
+    "type": "remote",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Crunchfish Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "C++ Remote, Computer Vision Remote",
+    "website": "https://www.crunchfish.com/careers?remote=true",
+    "type": "remote",
+    "lat": 55.6050,
+    "lng": 13.0038
+  },
+  {
+    "name": "Thermo Fisher Scientific Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Bioinformatics Remote, Data Engineering Remote",
+    "website": "https://jobs.thermofisher.com/?remote=true",
+    "type": "remote",
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  {
+    "name": "Scania Autonomous Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Software Remote, Embedded Remote",
+    "website": "https://www.scania.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.1955,
+    "lng": 17.6259
+  },
+  {
+    "name": "Sandvik Digital Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Full Stack Remote, Platform Remote",
+    "website": "https://www.home.sandvik/en/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "name": "Sileon Payments Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Fintech Remote Developer",
+    "website": "https://www.sileon.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3342,
+    "lng": 18.0635
+  },
+  {
+    "name": "Zettle Engineering Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Fintech Remote, Frontend Remote",
+    "website": "https://www.zettle.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "King Game Studio Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Unity Remote, Game Programming Remote",
+    "website": "https://careers.king.com/jobs?remote=true",
+    "type": "remote",
+    "lat": 59.3326,
+    "lng": 18.0649
+  },
+  {
+    "name": "Dometic Tech Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "IoT Remote, Cloud Remote",
+    "website": "https://www.dometic.com/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3272,
+    "lng": 18.0600
+  },
+  {
+    "name": "Einride Logistics Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "ML Remote, Python Remote",
+    "website": "https://einride.tech/careers?remote=true",
+    "type": "remote",
+    "lat": 59.3344,
+    "lng": 18.0630
+  },
+  {
+    "name": "SEGA Nordic Remote",
+    "city": "Remote – Sweden",
+    "country": "Sweden",
+    "roles": "Game Developer Remote, Gameplay Remote",
+    "website": "https://careers.sega.com/?remote=true",
+    "type": "remote",
+    "lat": 59.3328,
+    "lng": 18.0648
+  }
+]
+
+
+
+
+

@@ -1,0 +1,4262 @@
+[
+{
+  "name": "Google",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Full-Time • SDE / ML Engineer / Cloud",
+  "website": "https://careers.google.com/",
+  "type": "fulltime",
+  "lat": 37.422,
+  "lng": -122.084
+},
+{
+  "name": "Microsoft",
+  "city": "Redmond",
+  "country": "USA",
+  "roles": "Full-Time • Cloud Engineer / AI Engineer",
+  "website": "https://careers.microsoft.com/",
+  "type": "fulltime",
+  "lat": 47.6401,
+  "lng": -122.1295
+},
+{
+  "name": "Amazon",
+  "city": "Seattle",
+  "country": "USA",
+  "roles": "Full-Time • SDE / Data / Security",
+  "website": "https://www.amazon.jobs/",
+  "type": "fulltime",
+  "lat": 47.6225,
+  "lng": -122.3365
+},
+{
+  "name": "Meta",
+  "city": "Menlo Park",
+  "country": "USA",
+  "roles": "Internship • AR/VR / AI / Software",
+  "website": "https://www.metacareers.com/",
+  "type": "internship",
+  "lat": 37.4848,
+  "lng": -122.1484
+},
+{
+  "name": "Apple",
+  "city": "Cupertino",
+  "country": "USA",
+  "roles": "Full-Time • iOS / Systems / Platform",
+  "website": "https://www.apple.com/careers/",
+  "type": "fulltime",
+  "lat": 37.3349,
+  "lng": -122.009
+},
+{
+  "name": "Tesla",
+  "city": "Palo Alto",
+  "country": "USA",
+  "roles": "Full-Time • Autopilot / Robotics / Software",
+  "website": "https://www.tesla.com/careers",
+  "type": "fulltime",
+  "lat": 37.4419,
+  "lng": -122.143
+},
+{
+  "name": "NVIDIA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Internship • AI / CUDA / Deep Learning",
+  "website": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+  "type": "internship",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Netflix",
+  "city": "Los Gatos",
+  "country": "USA",
+  "roles": "Remote • Backend / Security / Cloud",
+  "website": "https://jobs.netflix.com/",
+  "type": "remote",
+  "lat": 37.2358,
+  "lng": -121.9624
+},
+{
+  "name": "Adobe",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Full-Time • Backend / Web / Cloud",
+  "website": "https://www.adobe.com/careers.html",
+  "type": "fulltime",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "IBM",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Cloud / Cyber Security / Software",
+  "website": "https://www.ibm.com/careers",
+  "type": "remote",
+  "lat": 40.7549,
+  "lng": -73.984
+},
+{
+  "name": "Intel",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Internship • Semiconductor / Embedded / Software",
+  "website": "https://jobs.intel.com/",
+  "type": "internship",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Oracle",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Full-Time • Java / Cloud / DB Engineer",
+  "website": "https://careers.oracle.com/",
+  "type": "fulltime",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Salesforce",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Cloud / Web / SDE",
+  "website": "https://www.salesforce.com/company/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Airbnb",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Full stack / ML / Data",
+  "website": "https://careers.airbnb.com/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "LinkedIn",
+  "city": "Sunnyvale",
+  "country": "USA",
+  "roles": "Full-Time • Cloud / Web / Systems",
+  "website": "https://careers.linkedin.com/",
+  "type": "fulltime",
+  "lat": 37.3688,
+  "lng": -122.0363
+},
+{
+  "name": "Stripe",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Payments / Backend / Cloud",
+  "website": "https://stripe.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "PayPal",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Full-Time • Web / API / Security",
+  "website": "https://www.paypal.com/us/webapps/mpp/jobs",
+  "type": "fulltime",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "GitHub",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Software / Security / DevOps",
+  "website": "https://github.com/about/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Zoom",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Remote • Cloud / Streaming / Platform",
+  "website": "https://careers.zoom.us/",
+  "type": "remote",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "SAP Labs USA",
+  "city": "Palo Alto",
+  "country": "USA",
+  "roles": "Internship • Web / Backend / ML",
+  "website": "https://www.sap.com/about/careers.html",
+  "type": "internship",
+  "lat": 37.4419,
+  "lng": -122.143
+},
+{
+  "name": "Uber",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Backend / Real-time systems",
+  "website": "https://www.uber.com/global/en/careers/",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Lyft",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Mobile / Platform / Testing",
+  "website": "https://www.lyft.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Snapchat",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Full-Time • AR / Camera / Backend",
+  "website": "https://careers.snap.com/",
+  "type": "fulltime",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "Discord",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Backend / Messaging / Systems",
+  "website": "https://discord.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Slack",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Platform / Web / API",
+  "website": "https://salesforce.wd1.myworkdayjobs.com/Slack",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Twilio",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • API / Cloud / DevOps",
+  "website": "https://www.twilio.com/company/jobs",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Databricks",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Big Data / ML / Platform",
+  "website": "https://databricks.com/company/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Snowflake",
+  "city": "Bozeman",
+  "country": "USA",
+  "roles": "Full-Time • Data / Cloud / Security",
+  "website": "https://careers.snowflake.com/",
+  "type": "fulltime",
+  "lat": 45.6770,
+  "lng": -111.0429
+},
+{
+  "name": "Red Hat",
+  "city": "Raleigh",
+  "country": "USA",
+  "roles": "Remote • Linux / Cloud / DevOps",
+  "website": "https://www.redhat.com/en/jobs",
+  "type": "remote",
+  "lat": 35.7796,
+  "lng": -78.6382
+},
+{
+  "name": "VMware",
+  "city": "Palo Alto",
+  "country": "USA",
+  "roles": "Full-Time • Cloud / Systems Engineering",
+  "website": "https://careers.vmware.com/",
+  "type": "fulltime",
+  "lat": 37.4419,
+  "lng": -122.143
+},
+{
+  "name": "Cisco",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Internship • Networking / Cyber Security",
+  "website": "https://jobs.cisco.com/",
+  "type": "internship",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Qualcomm",
+  "city": "San Diego",
+  "country": "USA",
+  "roles": "Full-Time • Embedded / Wireless / Software",
+  "website": "https://careers.qualcomm.com/",
+  "type": "fulltime",
+  "lat": 32.7157,
+  "lng": -117.1611
+},
+{
+  "name": "Electronic Arts (EA)",
+  "city": "Redwood City",
+  "country": "USA",
+  "roles": "Remote • Game Dev / Animation / Testing",
+  "website": "https://www.ea.com/careers",
+  "type": "remote",
+  "lat": 37.4852,
+  "lng": -122.2364
+},
+{
+  "name": "Riot Games",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Internship • Game Dev / 3D / Backend",
+  "website": "https://www.riotgames.com/en/work-with-us",
+  "type": "internship",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "Epic Games",
+  "city": "Cary",
+  "country": "USA",
+  "roles": "Full-Time • Unreal Engine / Game Dev",
+  "website": "https://www.epicgames.com/site/en-US/careers",
+  "type": "fulltime",
+  "lat": 35.7915,
+  "lng": -78.7811
+},
+{
+  "name": "Unity Technologies",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • 3D / Simulation / Tools",
+  "website": "https://careers.unity.com/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "OpenAI",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Research / AI / Safety / SDE",
+  "website": "https://openai.com/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Anthropic",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • AI / Research / ML Systems",
+  "website": "https://www.anthropic.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Hugging Face",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • NLP / ML / Software",
+  "website": "https://huggingface.co/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Khan Academy",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Remote • Full Stack / Mobile / Data",
+  "website": "https://www.khanacademy.org/careers",
+  "type": "remote",
+  "lat": 37.422,
+  "lng": -122.084
+},
+{
+  "name": "Coursera",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Full-Time • Platform / Web / AI",
+  "website": "https://www.coursera.org/careers",
+  "type": "fulltime",
+  "lat": 37.422,
+  "lng": -122.084
+},
+{
+  "name": "Duolingo",
+  "city": "Pittsburgh",
+  "country": "USA",
+  "roles": "Internship • EdTech / Backend / Mobile",
+  "website": "https://careers.duolingo.com/",
+  "type": "internship",
+  "lat": 40.4406,
+  "lng": -79.9959
+},
+{
+  "name": "Dropbox",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Storage / Cloud / Platform",
+  "website": "https://www.dropbox.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+
+{
+  "name": "Asana",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Web / Backend / Cloud",
+  "website": "https://asana.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Atlassian USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Full-Time • Full Stack / Platform Engineer",
+  "website": "https://www.atlassian.com/company/careers",
+  "type": "fulltime",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Figma",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Web / Graphics / Frontend",
+  "website": "https://www.figma.com/careers/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Spotify USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Backend / Data / Music ML",
+  "website": "https://www.lifeatspotify.com/",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Robinhood",
+  "city": "Menlo Park",
+  "country": "USA",
+  "roles": "Full-Time • Fintech / Web / Cloud",
+  "website": "https://careers.robinhood.com/",
+  "type": "fulltime",
+  "lat": 37.4848,
+  "lng": -122.1484
+},
+{
+  "name": "Coinbase USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Blockchain / Crypto / Backend",
+  "website": "https://www.coinbase.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Shopify USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Remote • Full Stack / MERN / Web",
+  "website": "https://www.shopify.com/careers",
+  "type": "remote",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Squarespace",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Web Platform / UI / SDE",
+  "website": "https://www.squarespace.com/about/careers",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "MongoDB USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • Database / Backend / C++",
+  "website": "https://www.mongodb.com/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "DigitalOcean",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Cloud / API / Systems",
+  "website": "https://www.digitalocean.com/careers",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "HubSpot",
+  "city": "Cambridge",
+  "country": "USA",
+  "roles": "Remote • CRM / SaaS / Web Dev",
+  "website": "https://www.hubspot.com/careers",
+  "type": "remote",
+  "lat": 42.3736,
+  "lng": -71.1097
+},
+{
+  "name": "Notion",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Productivity / Web / Mobile",
+  "website": "https://www.notion.so/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Twitch",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Streaming / Backend / Data",
+  "website": "https://www.twitch.tv/jobs",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Yelp",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Full Stack / API / Search",
+  "website": "https://www.yelp.careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Grammarly USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • NLP / AI / Web",
+  "website": "https://www.grammarly.com/jobs",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "OpenSea",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Web3 / NFT / Blockchain Dev",
+  "website": "https://opensea.io/careers",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Plaid",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Fintech / API / Backend",
+  "website": "https://plaid.com/careers/",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Robin AI USA",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Internship • AI / LegalTech / Web",
+  "website": "https://www.robinal.com/careers",
+  "type": "internship",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "Bolt",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Payments / Platform / Full Stack",
+  "website": "https://www.bolt.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Reddit",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Social / Backend / Web",
+  "website": "https://redditinc.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Instacart",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Real-time systems / API",
+  "website": "https://instacart.careers/",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "DoorDash",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Logistics / Software / Data",
+  "website": "https://careers.doordash.com/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Stripe Atlas Lab",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Data / Backend / API",
+  "website": "https://stripe.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Groupon",
+  "city": "Chicago",
+  "country": "USA",
+  "roles": "Full-Time • Ecommerce / Backend / Mobile",
+  "website": "https://www.grouponcareers.com/",
+  "type": "fulltime",
+  "lat": 41.8781,
+  "lng": -87.6298
+},
+{
+  "name": "Paycom",
+  "city": "Oklahoma City",
+  "country": "USA",
+  "roles": "Internship • HR SaaS / Web / Product",
+  "website": "https://www.paycom.com/careers/",
+  "type": "internship",
+  "lat": 35.4676,
+  "lng": -97.5164
+},
+{
+  "name": "Calendly",
+  "city": "Atlanta",
+  "country": "USA",
+  "roles": "Remote • Scheduling / Web / API",
+  "website": "https://careers.calendly.com/",
+  "type": "remote",
+  "lat": 33.749,
+  "lng": -84.388
+},
+{
+  "name": "Mailchimp",
+  "city": "Atlanta",
+  "country": "USA",
+  "roles": "Full-Time • Web / Analytics / Backend",
+  "website": "https://mailchimp.com/careers/",
+  "type": "fulltime",
+  "lat": 33.749,
+  "lng": -84.388
+},
+{
+  "name": "Zapier USA",
+  "city": "Remote First",
+  "country": "USA",
+  "roles": "Remote • Automation / SaaS / Full Stack",
+  "website": "https://zapier.com/jobs",
+  "type": "remote",
+  "lat": 39.8283,
+  "lng": -98.5795
+},
+{
+  "name": "GoDaddy USA",
+  "city": "Scottsdale",
+  "country": "USA",
+  "roles": "Internship • Domain / Hosting / Web Dev",
+  "website": "https://careers.godaddy.com/",
+  "type": "internship",
+  "lat": 33.4942,
+  "lng": -111.9261
+},
+{
+  "name": "WeWork USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • SaaS / Product / Web",
+  "website": "https://careers.wework.com/",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "ServiceNow USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Full-Time • Platform / SDE / Cloud",
+  "website": "https://careers.servicenow.com/",
+  "type": "fulltime",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Zendesk USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • SaaS / CRM / Web Apps",
+  "website": "https://www.zendesk.com/jobs/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Chewy USA",
+  "city": "Plantation",
+  "country": "USA",
+  "roles": "Remote • Ecommerce / Backend / App",
+  "website": "https://careers.chewy.com/",
+  "type": "remote",
+  "lat": 26.1276,
+  "lng": -80.2331
+},
+{
+  "name": "Best Buy USA",
+  "city": "Richfield",
+  "country": "USA",
+  "roles": "Full-Time • Web / Retail / Data",
+  "website": "https://www.bestbuy-jobs.com/",
+  "type": "fulltime",
+  "lat": 44.8833,
+  "lng": -93.283
+},
+{
+  "name": "eBay USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Remote • Ecommerce / Backend / Search",
+  "website": "https://careers.ebayinc.com/",
+  "type": "remote",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Nordstrom Tech",
+  "city": "Seattle",
+  "country": "USA",
+  "roles": "Internship • Retail Tech / Web / App",
+  "website": "https://careers.nordstrom.com/",
+  "type": "internship",
+  "lat": 47.6062,
+  "lng": -122.3321
+},
+{
+  "name": "Costco Tech",
+  "city": "Issaquah",
+  "country": "USA",
+  "roles": "Remote • Platform / Data / Support",
+  "website": "https://www.costco.com/jobs.html",
+  "type": "remote",
+  "lat": 47.5301,
+  "lng": -122.0326
+},
+{
+  "name": "Target Tech",
+  "city": "Minneapolis",
+  "country": "USA",
+  "roles": "Full-Time • Retail / Product / Web",
+  "website": "https://corporate.target.com/careers",
+  "type": "fulltime",
+  "lat": 44.9778,
+  "lng": -93.265
+},
+{
+  "name": "Walmart Global Tech",
+  "city": "Bentonville",
+  "country": "USA",
+  "roles": "Remote • Web / Data / Cloud",
+  "website": "https://careers.walmart.com/",
+  "type": "remote",
+  "lat": 36.3729,
+  "lng": -94.2088
+}
+
+
+,
+{
+  "name": "Bloomberg",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Data / Finance / Backend",
+  "website": "https://www.bloomberg.com/careers/",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Goldman Sachs",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • Fintech / Data / Web",
+  "website": "https://www.goldmansachs.com/careers/",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "JPMorgan Chase Tech",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Fintech / Backend / Security",
+  "website": "https://careers.jpmorgan.com/",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Morgan Stanley Technology",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Platform / Cloud / SDE",
+  "website": "https://www.morganstanley.com/people-opportunities",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Bank of America Tech",
+  "city": "Charlotte",
+  "country": "USA",
+  "roles": "Internship • Cyber Security / Cloud / App Dev",
+  "website": "https://careers.bankofamerica.com/",
+  "type": "internship",
+  "lat": 35.2271,
+  "lng": -80.8431
+},
+{
+  "name": "Capital One Tech",
+  "city": "Richmond",
+  "country": "USA",
+  "roles": "Remote • Backend / ML / Platform",
+  "website": "https://www.capitalonecareers.com/",
+  "type": "remote",
+  "lat": 37.5407,
+  "lng": -77.436
+},
+{
+  "name": "Visa Technology",
+  "city": "Foster City",
+  "country": "USA",
+  "roles": "Full-Time • Payments / API / Software",
+  "website": "https://usa.visa.com/careers.html",
+  "type": "fulltime",
+  "lat": 37.5585,
+  "lng": -122.2711
+},
+{
+  "name": "Mastercard Tech",
+  "city": "Purchase",
+  "country": "USA",
+  "roles": "Internship • Web / Cybersecurity / Cloud",
+  "website": "https://careers.mastercard.com/",
+  "type": "internship",
+  "lat": 41.0387,
+  "lng": -73.7174
+},
+{
+  "name": "American Express Tech",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • SDE / Data / Cloud",
+  "website": "https://www.americanexpress.com/en-us/careers/",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "HSBC Technology USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Fintech / Risk / Platform",
+  "website": "https://www.hsbc.com/careers",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "EY Tech (Ernst & Young)",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • Software / AI / Cloud",
+  "website": "https://www.ey.com/en_us/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Deloitte Technology",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Consulting / Data / SDE",
+  "website": "https://www2.deloitte.com/global/en/careers.html",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "KPMG Technology",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • IT / Cloud / SDE",
+  "website": "https://www.kpmguscareers.com/",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "PwC Technology",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • Data / Dev / Cloud",
+  "website": "https://www.pwc.com/us/en/careers.html",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Dell Technologies USA",
+  "city": "Round Rock",
+  "country": "USA",
+  "roles": "Remote • Cloud / DevOps / Support",
+  "website": "https://jobs.dell.com/",
+  "type": "remote",
+  "lat": 30.5083,
+  "lng": -97.6789
+},
+{
+  "name": "HP USA",
+  "city": "Houston",
+  "country": "USA",
+  "roles": "Full-Time • Software / Testing / Systems",
+  "website": "https://jobs.hp.com/",
+  "type": "fulltime",
+  "lat": 29.7604,
+  "lng": -95.3698
+},
+{
+  "name": "Cisco Systems USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Internship • Networks / Security / Cloud",
+  "website": "https://jobs.cisco.com/",
+  "type": "internship",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Qualtrics",
+  "city": "Seattle",
+  "country": "USA",
+  "roles": "Remote • Analytics / Web / Cloud",
+  "website": "https://www.qualtrics.com/careers/",
+  "type": "remote",
+  "lat": 47.6062,
+  "lng": -122.3321
+},
+{
+  "name": "Tableau Software",
+  "city": "Seattle",
+  "country": "USA",
+  "roles": "Full-Time • BI / Data / Cloud",
+  "website": "https://www.tableau.com/careers",
+  "type": "fulltime",
+  "lat": 47.6062,
+  "lng": -122.3321
+},
+{
+  "name": "Starbucks Technology",
+  "city": "Seattle",
+  "country": "USA",
+  "roles": "Internship • Mobile / Retail / App Development",
+  "website": "https://www.starbucks.com/careers",
+  "type": "internship",
+  "lat": 47.6062,
+  "lng": -122.3321
+},
+{
+  "name": "Costco Technology",
+  "city": "Issaquah",
+  "country": "USA",
+  "roles": "Remote • Cloud / SRE / Platform",
+  "website": "https://www.costco.com/jobs.html",
+  "type": "remote",
+  "lat": 47.5301,
+  "lng": -122.0326
+},
+{
+  "name": "Expedia Group",
+  "city": "Seattle",
+  "country": "USA",
+  "roles": "Full-Time • Travel Tech / Web / Data",
+  "website": "https://careers.expediagroup.com/",
+  "type": "fulltime",
+  "lat": 47.6062,
+  "lng": -122.3321
+},
+{
+  "name": "DocuSign",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Web / API / Platform",
+  "website": "https://www.docusign.com/company/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Cloudflare USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Security / Web / Networking",
+  "website": "https://www.cloudflare.com/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Akamai USA",
+  "city": "Cambridge",
+  "country": "USA",
+  "roles": "Full-Time • CDN / Cloud / Security",
+  "website": "https://www.akamai.com/careers",
+  "type": "fulltime",
+  "lat": 42.3736,
+  "lng": -71.1097
+},
+{
+  "name": "TripAdvisor",
+  "city": "Needham",
+  "country": "USA",
+  "roles": "Internship • Travel Tech / Web / Data",
+  "website": "https://www.tripadvisor.com/careers",
+  "type": "internship",
+  "lat": 42.2809,
+  "lng": -71.2378
+},
+{
+  "name": "Wayfair Tech",
+  "city": "Boston",
+  "country": "USA",
+  "roles": "Remote • Ecommerce / Web / Data",
+  "website": "https://www.aboutwayfair.com/careers",
+  "type": "remote",
+  "lat": 42.3601,
+  "lng": -71.0589
+},
+{
+  "name": "HubSpot USA",
+  "city": "Cambridge",
+  "country": "USA",
+  "roles": "Full-Time • CRM / Full Stack / Product",
+  "website": "https://www.hubspot.com/careers",
+  "type": "fulltime",
+  "lat": 42.3736,
+  "lng": -71.1097
+},
+{
+  "name": "Northeastern University Tech",
+  "city": "Boston",
+  "country": "USA",
+  "roles": "Internship • Software / Data / ML",
+  "website": "https://careers.northeastern.edu/",
+  "type": "internship",
+  "lat": 42.3601,
+  "lng": -71.0589
+},
+{
+  "name": "Harvard Innovation Labs",
+  "city": "Boston",
+  "country": "USA",
+  "roles": "Remote • Web / ML / Product",
+  "website": "https://innovationlabs.harvard.edu/careers/",
+  "type": "remote",
+  "lat": 42.3601,
+  "lng": -71.0589
+},
+{
+  "name": "MIT Digital Lab",
+  "city": "Cambridge",
+  "country": "USA",
+  "roles": "Full-Time • Research / Software / AI",
+  "website": "https://careers.mit.edu/",
+  "type": "fulltime",
+  "lat": 42.3736,
+  "lng": -71.1097
+},
+{
+  "name": "Boston Dynamics",
+  "city": "Waltham",
+  "country": "USA",
+  "roles": "Internship • Robotics / AI / Control Systems",
+  "website": "https://www.bostondynamics.com/jobs",
+  "type": "internship",
+  "lat": 42.3765,
+  "lng": -71.2356
+},
+{
+  "name": "Siemens Technology USA",
+  "city": "Princeton",
+  "country": "USA",
+  "roles": "Remote • Cloud / Embedded / AI",
+  "website": "https://jobs.siemens.com/",
+  "type": "remote",
+  "lat": 40.3573,
+  "lng": -74.6672
+},
+{
+  "name": "Accenture USA",
+  "city": "Chicago",
+  "country": "USA",
+  "roles": "Full-Time • Software / Cloud / DevOps",
+  "website": "https://www.accenture.com/us-en/careers",
+  "type": "fulltime",
+  "lat": 41.8781,
+  "lng": -87.6298
+},
+{
+  "name": "Infosys USA",
+  "city": "Richardson",
+  "country": "USA",
+  "roles": "Internship • Backend / Data / QA",
+  "website": "https://www.infosys.com/careers.html",
+  "type": "internship",
+  "lat": 32.9483,
+  "lng": -96.7299
+},
+{
+  "name": "Wipro USA",
+  "city": "East Brunswick",
+  "country": "USA",
+  "roles": "Remote • Full Stack / Cloud / Platform",
+  "website": "https://careers.wipro.com/",
+  "type": "remote",
+  "lat": 40.4312,
+  "lng": -74.415
+},
+{
+  "name": "HCLTech USA",
+  "city": "Frisco",
+  "country": "USA",
+  "roles": "Full-Time • Software / Support / Engineering",
+  "website": "https://www.hcltech.com/careers",
+  "type": "fulltime",
+  "lat": 33.1507,
+  "lng": -96.8236
+},
+{
+  "name": "Tech Mahindra USA",
+  "city": "Plano",
+  "country": "USA",
+  "roles": "Internship • Telecom / Web / QA",
+  "website": "https://www.techmahindra.com/en-in/careers/",
+  "type": "internship",
+  "lat": 33.0198,
+  "lng": -96.6989
+},
+{
+  "name": "Cognizant USA",
+  "city": "Teaneck",
+  "country": "USA",
+  "roles": "Remote • Cloud / Web / ERP",
+  "website": "https://careers.cognizant.com/",
+  "type": "remote",
+  "lat": 40.8862,
+  "lng": -74.0153
+},
+{
+  "name": "Capgemini USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • IT / SDE / Cyber Security",
+  "website": "https://www.capgemini.com/careers/",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Tata Consultancy Services USA",
+  "city": "Milpitas",
+  "country": "USA",
+  "roles": "Internship • Freshers / Software / QA",
+  "website": "https://www.tcs.com/careers",
+  "type": "internship",
+  "lat": 37.4323,
+  "lng": -121.8996
+},
+{
+  "name": "L&T Technology Services USA",
+  "city": "Peoria",
+  "country": "USA",
+  "roles": "Remote • Engineering / Embedded / Software",
+  "website": "https://www.ltts.com/careers",
+  "type": "remote",
+  "lat": 40.6936,
+  "lng": -89.5889
+},
+{
+  "name": "Zebra Technologies",
+  "city": "Lincolnshire",
+  "country": "USA",
+  "roles": "Full-Time • Cloud / Web / Embedded",
+  "website": "https://www.zebra.com/us/en/about-zebra/careers.html",
+  "type": "fulltime",
+  "lat": 42.1900,
+  "lng": -87.9084
+},
+{
+  "name": "Motorola Solutions USA",
+  "city": "Chicago",
+  "country": "USA",
+  "roles": "Internship • Software / Radio / Networking",
+  "website": "https://www.motorolasolutions.com/en_us/about/careers.html",
+  "type": "internship",
+  "lat": 41.8781,
+  "lng": -87.6298
+},
+{
+  "name": "AMD Research USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Remote • CPU / AI / Embedded",
+  "website": "https://www.amd.com/en/corporate/careers",
+  "type": "remote",
+  "lat": 37.3541,
+  "lng": -121.9552
+}
+,
+{
+  "name": "Western Digital USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Full-Time • Storage / Firmware / Cloud",
+  "website": "https://jobs.westerndigital.com/",
+  "type": "fulltime",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Micron Technology USA",
+  "city": "Boise",
+  "country": "USA",
+  "roles": "Internship • Semiconductor / Systems / Software",
+  "website": "https://www.micron.com/about/careers",
+  "type": "internship",
+  "lat": 43.6150,
+  "lng": -116.2023
+},
+{
+  "name": "Texas Instruments USA",
+  "city": "Dallas",
+  "country": "USA",
+  "roles": "Remote • Embedded / Electronics / Software",
+  "website": "https://careers.ti.com/",
+  "type": "remote",
+  "lat": 32.7767,
+  "lng": -96.7970
+},
+{
+  "name": "Western Union Tech USA",
+  "city": "Denver",
+  "country": "USA",
+  "roles": "Full-Time • Fintech / Cloud / API",
+  "website": "https://careers.westernunion.com/",
+  "type": "fulltime",
+  "lat": 39.7392,
+  "lng": -104.9903
+},
+{
+  "name": "Procore USA",
+  "city": "Carpinteria",
+  "country": "USA",
+  "roles": "Internship • SaaS / Construction Tech / Full-stack",
+  "website": "https://www.procore.com/jobs",
+  "type": "internship",
+  "lat": 34.3989,
+  "lng": -119.5185
+},
+{
+  "name": "Autodesk USA",
+  "city": "San Rafael",
+  "country": "USA",
+  "roles": "Remote • CAD / AI / 3D Dev",
+  "website": "https://www.autodesk.com/careers",
+  "type": "remote",
+  "lat": 37.9735,
+  "lng": -122.5311
+},
+{
+  "name": "Unity USA",
+  "city": "Bellevue",
+  "country": "USA",
+  "roles": "Full-Time • Real-time 3D / Games / Simulation",
+  "website": "https://careers.unity.com/",
+  "type": "fulltime",
+  "lat": 47.6104,
+  "lng": -122.2007
+},
+{
+  "name": "Illumina USA",
+  "city": "San Diego",
+  "country": "USA",
+  "roles": "Internship • Bioinformatics / Data / Platform",
+  "website": "https://www.illumina.com/company/careers.html",
+  "type": "internship",
+  "lat": 32.7157,
+  "lng": -117.1611
+},
+{
+  "name": "Gilead Tech",
+  "city": "Foster City",
+  "country": "USA",
+  "roles": "Remote • Biotech / Data / Cloud",
+  "website": "https://www.gilead.com/careers",
+  "type": "remote",
+  "lat": 37.5585,
+  "lng": -122.2711
+},
+{
+  "name": "Amgen Digital Labs",
+  "city": "Thousand Oaks",
+  "country": "USA",
+  "roles": "Full-Time • AI / Automation / Web Platforms",
+  "website": "https://careers.amgen.com/",
+  "type": "fulltime",
+  "lat": 34.1706,
+  "lng": -118.8376
+},
+{
+  "name": "Medtronic Tech USA",
+  "city": "Minneapolis",
+  "country": "USA",
+  "roles": "Internship • Healthcare / IoT / ML",
+  "website": "https://jobs.medtronic.com/",
+  "type": "internship",
+  "lat": 44.9778,
+  "lng": -93.2650
+},
+{
+  "name": "Philips Innovation USA",
+  "city": "Cambridge",
+  "country": "USA",
+  "roles": "Remote • Healthcare / Cloud / Mobile",
+  "website": "https://www.careers.philips.com/",
+  "type": "remote",
+  "lat": 42.3736,
+  "lng": -71.1097
+},
+{
+  "name": "Siemens Healthineers USA",
+  "city": "Princeton",
+  "country": "USA",
+  "roles": "Full-Time • AI / Embedded / Medical Imaging",
+  "website": "https://jobs.siemens-healthineers.com/",
+  "type": "fulltime",
+  "lat": 40.3573,
+  "lng": -74.6672
+},
+{
+  "name": "Boston Scientific Digital",
+  "city": "Marlborough",
+  "country": "USA",
+  "roles": "Internship • Software / Robotics",
+  "website": "https://www.bostonscientific.com/careers",
+  "type": "internship",
+  "lat": 42.3460,
+  "lng": -71.5506
+},
+{
+  "name": "GE Digital USA",
+  "city": "Atlanta",
+  "country": "USA",
+  "roles": "Remote • IoT / Cloud / ML Platforms",
+  "website": "https://jobs.gecareers.com/global/en",
+  "type": "remote",
+  "lat": 33.7490,
+  "lng": -84.3880
+},
+{
+  "name": "Honeywell USA",
+  "city": "Charlotte",
+  "country": "USA",
+  "roles": "Full-Time • Automation / Aerospace / Software",
+  "website": "https://careers.honeywell.com/",
+  "type": "fulltime",
+  "lat": 35.2271,
+  "lng": -80.8431
+},
+{
+  "name": "3M Digital",
+  "city": "St. Paul",
+  "country": "USA",
+  "roles": "Internship • Industrial Tech / Web / Data",
+  "website": "https://www.3m.com/3M/en_US/careers-us/",
+  "type": "internship",
+  "lat": 44.9537,
+  "lng": -93.0900
+},
+{
+  "name": "John Deere Digital",
+  "city": "Moline",
+  "country": "USA",
+  "roles": "Remote • IoT / Fleet Data / Web",
+  "website": "https://careers.deere.com/",
+  "type": "remote",
+  "lat": 41.5067,
+  "lng": -90.5151
+},
+{
+  "name": "Ford Motor Tech",
+  "city": "Dearborn",
+  "country": "USA",
+  "roles": "Full-Time • Automotive Cloud / AI / Software",
+  "website": "https://corporate.ford.com/careers.html",
+  "type": "fulltime",
+  "lat": 42.3223,
+  "lng": -83.1763
+},
+{
+  "name": "General Motors Tech",
+  "city": "Detroit",
+  "country": "USA",
+  "roles": "Internship • Autonomous / ML / Software",
+  "website": "https://search-careers.gm.com/",
+  "type": "internship",
+  "lat": 42.3314,
+  "lng": -83.0458
+},
+{
+  "name": "Rivian USA",
+  "city": "Irvine",
+  "country": "USA",
+  "roles": "Remote • EV / Cloud / Embedded",
+  "website": "https://rivian.com/careers",
+  "type": "remote",
+  "lat": 33.6846,
+  "lng": -117.8265
+},
+{
+  "name": "Lucid Motors USA",
+  "city": "Newark",
+  "country": "USA",
+  "roles": "Full-Time • EV / Systems / ML",
+  "website": "https://www.lucidmotors.com/careers",
+  "type": "fulltime",
+  "lat": 37.5297,
+  "lng": -122.0402
+},
+{
+  "name": "SpaceX",
+  "city": "Hawthorne",
+  "country": "USA",
+  "roles": "Internship • Avionics / AI / Robotics / Software",
+  "website": "https://www.spacex.com/careers/",
+  "type": "internship",
+  "lat": 33.9164,
+  "lng": -118.3526
+},
+{
+  "name": "Blue Origin",
+  "city": "Kent",
+  "country": "USA",
+  "roles": "Remote • Aerospace / AI / Cloud",
+  "website": "https://www.blueorigin.com/careers",
+  "type": "remote",
+  "lat": 47.3809,
+  "lng": -122.2348
+},
+{
+  "name": "NASA Jet Propulsion Lab",
+  "city": "Pasadena",
+  "country": "USA",
+  "roles": "Full-Time • Robotics / Aerospace / Data",
+  "website": "https://www.jpl.nasa.gov/opportunities/",
+  "type": "fulltime",
+  "lat": 34.1478,
+  "lng": -118.1445
+},
+{
+  "name": "Boeing Tech",
+  "city": "Arlington",
+  "country": "USA",
+  "roles": "Internship • Autonomous / Simulation / ML",
+  "website": "https://jobs.boeing.com/",
+  "type": "internship",
+  "lat": 38.8816,
+  "lng": -77.0910
+},
+{
+  "name": "Lockheed Martin Tech",
+  "city": "Bethesda",
+  "country": "USA",
+  "roles": "Remote • Defense / AI / Cloud / Cyber",
+  "website": "https://www.lockheedmartinjobs.com/",
+  "type": "remote",
+  "lat": 38.9807,
+  "lng": -77.1003
+},
+{
+  "name": "Northrop Grumman Tech",
+  "city": "Falls Church",
+  "country": "USA",
+  "roles": "Full-Time • Aerospace / Cyber / Software",
+  "website": "https://www.northropgrumman.com/careers/",
+  "type": "fulltime",
+  "lat": 38.8823,
+  "lng": -77.1711
+},
+{
+  "name": "Raytheon Digital",
+  "city": "Arlington",
+  "country": "USA",
+  "roles": "Internship • Cyber / ML / Simulation",
+  "website": "https://careers.rtx.com/",
+  "type": "internship",
+  "lat": 38.8816,
+  "lng": -77.0910
+},
+{
+  "name": "Palantir USA",
+  "city": "Denver",
+  "country": "USA",
+  "roles": "Remote • Data / ML / Intelligence Systems",
+  "website": "https://www.palantir.com/careers/",
+  "type": "remote",
+  "lat": 39.7392,
+  "lng": -104.9903
+},
+{
+  "name": "Datadog USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Cloud Observability / SDE",
+  "website": "https://www.datadoghq.com/careers/",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Splunk USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Analytics / Data Ops / Backend",
+  "website": "https://www.splunk.com/en_us/careers.html",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "PagerDuty USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Platform / Cloud / SRE",
+  "website": "https://www.pagerduty.com/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "New Relic USA",
+  "city": "Portland",
+  "country": "USA",
+  "roles": "Full-Time • Monitoring / Observability / Backend",
+  "website": "https://newrelic.com/about/careers",
+  "type": "fulltime",
+  "lat": 45.5051,
+  "lng": -122.6750
+},
+{
+  "name": "Fastly USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • CDN / Networking / Web",
+  "website": "https://www.fastly.com/about/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Okta USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Identity / Cyber / Full-Stack",
+  "website": "https://www.okta.com/company/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "NortonLifeLock USA",
+  "city": "Tempe",
+  "country": "USA",
+  "roles": "Full-Time • Cyber Security / Web / Data",
+  "website": "https://careers.nortonlifelock.com/",
+  "type": "fulltime",
+  "lat": 33.4255,
+  "lng": -111.94
+},
+{
+  "name": "Trend Micro USA",
+  "city": "Irving",
+  "country": "USA",
+  "roles": "Internship • Malware Research / SOC / Cloud",
+  "website": "https://www.trendmicro.com/en_us/about/careers.html",
+  "type": "internship",
+  "lat": 32.8140,
+  "lng": -96.9489
+},
+{
+  "name": "CrowdStrike USA",
+  "city": "Sunnyvale",
+  "country": "USA",
+  "roles": "Remote • Cyber Defense / Security / SDE",
+  "website": "https://www.crowdstrike.com/careers/",
+  "type": "remote",
+  "lat": 37.3688,
+  "lng": -122.0363
+},
+{
+  "name": "Zscaler USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Full-Time • Zero-Trust / Cloud / Security",
+  "website": "https://www.zscaler.com/careers",
+  "type": "fulltime",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Check Point USA",
+  "city": "San Carlos",
+  "country": "USA",
+  "roles": "Internship • Security / Networks / Cloud",
+  "website": "https://careers.checkpoint.com/",
+  "type": "internship",
+  "lat": 37.5072,
+  "lng": -122.2605
+},
+{
+  "name": "Proofpoint USA",
+  "city": "Sunnyvale",
+  "country": "USA",
+  "roles": "Remote • Email Security / Data / Platform",
+  "website": "https://www.proofpoint.com/us/company/careers",
+  "type": "remote",
+  "lat": 37.3688,
+  "lng": -122.0363
+},
+{
+  "name": "Imperva USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Full-Time • Web Security / Cloud / SDE",
+  "website": "https://www.imperva.com/company/careers/",
+  "type": "fulltime",
+  "lat": 30.2672,
+  "lng": -97.7431
+}
+,
+{
+  "name": "Snowflake USA",
+  "city": "San Mateo",
+  "country": "USA",
+  "roles": "Full-Time • Data Cloud / Warehouse / Backend",
+  "website": "https://careers.snowflake.com/",
+  "type": "fulltime",
+  "lat": 37.5630,
+  "lng": -122.3255
+},
+{
+  "name": "MongoDB USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Database / Full-Stack / Platform",
+  "website": "https://www.mongodb.com/careers",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Elastic USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Internship • Search / Backend / Cloud",
+  "website": "https://www.elastic.co/careers",
+  "type": "internship",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "DigitalOcean USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Cloud / DevOps / Platform",
+  "website": "https://www.digitalocean.com/careers",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "JetBrains USA",
+  "city": "Boston",
+  "country": "USA",
+  "roles": "Full-Time • IDE / Tools / Compiler",
+  "website": "https://www.jetbrains.com/careers/",
+  "type": "fulltime",
+  "lat": 42.3601,
+  "lng": -71.0589
+},
+{
+  "name": "Atlassian USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Remote • SaaS / Full-Stack / DevOps",
+  "website": "https://www.atlassian.com/company/careers",
+  "type": "remote",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Slack USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Messaging / Backend / UX",
+  "website": "https://slack.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Zoom USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Full-Time • Video Cloud / WebRTC / Platform",
+  "website": "https://careers.zoom.us/",
+  "type": "fulltime",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Notion USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • SaaS / Frontend / Backend",
+  "website": "https://www.notion.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Miro USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Internship • Web App / Collab / UI",
+  "website": "https://miro.com/careers/",
+  "type": "internship",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Adobe USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Full-Time • Creative Cloud / AI / Systems",
+  "website": "https://www.adobe.com/careers.html",
+  "type": "fulltime",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Asana USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Product / Web / Platform",
+  "website": "https://asana.com/jobs",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Dropbox USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Backend / Infra / ML",
+  "website": "https://www.dropbox.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Twitch USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Live Media / Streaming / Backend",
+  "website": "https://www.amazon.jobs/en/teams/twitch",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Pinterest USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Web / Data / ML / UX",
+  "website": "https://www.pinterestcareers.com/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Stripe USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Fintech / Cloud / Backend",
+  "website": "https://stripe.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Square USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Payments / Commerce / Web",
+  "website": "https://squareup.com/us/en/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Coinbase USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Blockchain / API / Crypto",
+  "website": "https://www.coinbase.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Robinhood USA",
+  "city": "Menlo Park",
+  "country": "USA",
+  "roles": "Remote • Trading / Web / Cloud",
+  "website": "https://careers.robinhood.com/",
+  "type": "remote",
+  "lat": 37.4848,
+  "lng": -122.1484
+},
+{
+  "name": "Unity Gaming USA",
+  "city": "Bellevue",
+  "country": "USA",
+  "roles": "Full-Time • 3D / Game Engine / Graphics",
+  "website": "https://careers.unity.com/",
+  "type": "fulltime",
+  "lat": 47.6104,
+  "lng": -122.2007
+},
+{
+  "name": "Riot Games USA",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Internship • Game Dev / Design / Backend",
+  "website": "https://www.riotgames.com/en/work-with-us",
+  "type": "internship",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "Epic Games USA",
+  "city": "Cary",
+  "country": "USA",
+  "roles": "Remote • Unreal / R&D / Platform",
+  "website": "https://www.epicgames.com/site/careers",
+  "type": "remote",
+  "lat": 35.7915,
+  "lng": -78.7811
+},
+{
+  "name": "NVIDIA USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Full-Time • AI / GPU / DL / Robotics",
+  "website": "https://nvidia.com/en-us/careers/",
+  "type": "fulltime",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "AMD USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Internship • Chip / Embedded / Software",
+  "website": "https://jobs.amd.com/",
+  "type": "internship",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Intel USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Remote • Silicon / Cloud / Full-Stack",
+  "website": "https://jobs.intel.com/",
+  "type": "remote",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "OpenAI USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Research / LLM / ML",
+  "website": "https://openai.com/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Anthropic USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • AI Safety / Research / Data",
+  "website": "https://www.anthropic.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "DeepMind USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Remote • ML / Robotics / Cognitive AI",
+  "website": "https://deepmind.com/careers",
+  "type": "remote",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Tesla AI USA",
+  "city": "Palo Alto",
+  "country": "USA",
+  "roles": "Full-Time • Autopilot / DL / Robotics",
+  "website": "https://www.tesla.com/careers",
+  "type": "fulltime",
+  "lat": 37.4419,
+  "lng": -122.1430
+},
+{
+  "name": "Cruise Automation USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Autonomous / Controls / AI",
+  "website": "https://www.getcruise.com/careers/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Zoox USA",
+  "city": "Foster City",
+  "country": "USA",
+  "roles": "Remote • Self-Driving / Robotics / Software",
+  "website": "https://zoox.com/careers/",
+  "type": "remote",
+  "lat": 37.5585,
+  "lng": -122.2711
+},
+{
+  "name": "Waymo USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Full-Time • Autonomous / AI / Cloud",
+  "website": "https://waymo.com/careers/",
+  "type": "fulltime",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Plaid USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Fintech / API / Backend",
+  "website": "https://plaid.com/careers/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Rippling USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • HR SaaS / Web / Cloud",
+  "website": "https://www.rippling.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Workday USA",
+  "city": "Pleasanton",
+  "country": "USA",
+  "roles": "Full-Time • ERP / HR Tech / Platform",
+  "website": "https://www.workday.com/en-us/company/careers.html",
+  "type": "fulltime",
+  "lat": 37.6624,
+  "lng": -121.8747
+},
+{
+  "name": "ServiceNow USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Internship • Cloud / Platform / Automation",
+  "website": "https://www.servicenow.com/careers.html",
+  "type": "internship",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Oracle Cloud USA",
+  "city": "Redwood City",
+  "country": "USA",
+  "roles": "Remote • DB / Cloud / Infra / Web",
+  "website": "https://www.oracle.com/in/corporate/careers/",
+  "type": "remote",
+  "lat": 37.4852,
+  "lng": -122.2364
+},
+{
+  "name": "Zendesk USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Support SaaS / Web / Data",
+  "website": "https://jobs.zendesk.com/",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "GitHub USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • DevOps / Web / Platform",
+  "website": "https://github.com/about/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "GitLab USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • CI/CD / Full-Stack / Cloud",
+  "website": "https://about.gitlab.com/jobs/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+}
+,
+{
+  "name": "Grammarly USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • NLP / AI Writing / Full-Stack",
+  "website": "https://www.grammarly.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Duolingo USA",
+  "city": "Pittsburgh",
+  "country": "USA",
+  "roles": "Full-Time • EdTech / AI / Mobile",
+  "website": "https://careers.duolingo.com/",
+  "type": "fulltime",
+  "lat": 40.4406,
+  "lng": -79.9959
+},
+{
+  "name": "Coursera USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Internship • EdTech / Web / Data",
+  "website": "https://about.coursera.org/careers/",
+  "type": "internship",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Khan Academy USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Remote • Non-profit / Web / ML",
+  "website": "https://www.khanacademy.org/careers",
+  "type": "remote",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Chegg USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Full-Time • EdTech / Cloud / Web",
+  "website": "https://www.chegg.com/careers",
+  "type": "fulltime",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Udemy USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • EdTech / Product / Web",
+  "website": "https://about.udemy.com/careers/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Figma USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • UI / Web / Platform",
+  "website": "https://www.figma.com/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Canva USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Full-Time • Graphics / Web / Product",
+  "website": "https://www.canva.com/careers/",
+  "type": "fulltime",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Canva Labs USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Research / ML / Visual",
+  "website": "https://www.canva.com/careers/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Discord USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Chat / Audio / Backend",
+  "website": "https://discord.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "PlayStation Studios USA",
+  "city": "San Mateo",
+  "country": "USA",
+  "roles": "Full-Time • Gaming / Engine / AI",
+  "website": "https://www.playstation.com/en-us/corporate/careers/",
+  "type": "fulltime",
+  "lat": 37.5630,
+  "lng": -122.3255
+},
+{
+  "name": "Sony Interactive Entertainment USA",
+  "city": "San Diego",
+  "country": "USA",
+  "roles": "Internship • Game / Mobile / Tools",
+  "website": "https://www.sie.com/en/careers.html",
+  "type": "internship",
+  "lat": 32.7157,
+  "lng": -117.1611
+},
+{
+  "name": "Unity Simulation AI USA",
+  "city": "Bellevue",
+  "country": "USA",
+  "roles": "Remote • PhysX / ML / Robotics",
+  "website": "https://careers.unity.com/",
+  "type": "remote",
+  "lat": 47.6104,
+  "lng": -122.2007
+},
+{
+  "name": "Ebay USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Full-Time • Ecommerce / Platform / Backend",
+  "website": "https://careers.ebayinc.com/",
+  "type": "fulltime",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Etsy USA",
+  "city": "Brooklyn",
+  "country": "USA",
+  "roles": "Internship • Marketplace / Web / UX",
+  "website": "https://careers.etsy.com/",
+  "type": "internship",
+  "lat": 40.6782,
+  "lng": -73.9442
+},
+{
+  "name": "Shop Pay USA",
+  "city": "Seattle",
+  "country": "USA",
+  "roles": "Remote • Payments / Commerce / API",
+  "website": "https://www.shopify.com/careers",
+  "type": "remote",
+  "lat": 47.6062,
+  "lng": -122.3321
+},
+{
+  "name": "Gumroad USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Creator Tech / Frontend / Backend",
+  "website": "https://gumroad.com/jobs",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Patreon USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Creator Platform / SaaS / ML",
+  "website": "https://careers.patreon.com/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Kickstarter USA",
+  "city": "Brooklyn",
+  "country": "USA",
+  "roles": "Internship • Platform / Product / Web",
+  "website": "https://www.kickstarter.com/jobs",
+  "type": "internship",
+  "lat": 40.6782,
+  "lng": -73.9442
+},
+{
+  "name": "Yelp USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Reviews / Web / AI",
+  "website": "https://www.yelp.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Glassdoor USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Workplace Tech / Hiring Tech",
+  "website": "https://www.glassdoor.com/Overview/Working-at-Glassdoor-EI_IE100431.11,20.htm",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Indeed Digital USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Remote • Job Search / AI / Matching",
+  "website": "https://www.indeed.jobs/",
+  "type": "remote",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "LinkedIn USA",
+  "city": "Sunnyvale",
+  "country": "USA",
+  "roles": "Internship • ML / Recommendation / Backend",
+  "website": "https://careers.linkedin.com/",
+  "type": "internship",
+  "lat": 37.3688,
+  "lng": -122.0363
+},
+{
+  "name": "Salesforce USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • CRM / Cloud / Enterprise Apps",
+  "website": "https://www.salesforce.com/company/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Box USA",
+  "city": "Redwood City",
+  "country": "USA",
+  "roles": "Full-Time • Cloud Storage / Web / Database",
+  "website": "https://www.box.com/careers",
+  "type": "fulltime",
+  "lat": 37.4852,
+  "lng": -122.2364
+},
+{
+  "name": "Airbnb USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Travel / Platform / UX",
+  "website": "https://careers.airbnb.com/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Uber USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Mobility / Maps / Cloud",
+  "website": "https://www.uber.com/global/en/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Lyft USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Mobility / Web / ML",
+  "website": "https://www.lyft.com/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "DoorDash USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Delivery / Routing / Backend",
+  "website": "https://www.doordash.com/careers/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Instacart USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Grocery Tech / Maps / ML",
+  "website": "https://instacart.careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Grubhub USA",
+  "city": "Chicago",
+  "country": "USA",
+  "roles": "Full-Time • Food Delivery / Backend / Maps",
+  "website": "https://careers.grubhub.com/",
+  "type": "fulltime",
+  "lat": 41.8781,
+  "lng": -87.6298
+},
+{
+  "name": "Reddit USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Social / ML / Backend",
+  "website": "https://www.redditinc.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Twitter (X) USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Social Platform / Web / Infra",
+  "website": "https://careers.twitter.com/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Meta Reality Labs USA",
+  "city": "Menlo Park",
+  "country": "USA",
+  "roles": "Full-Time • VR / AR / AI / Simulation",
+  "website": "https://www.metacareers.com/",
+  "type": "fulltime",
+  "lat": 37.4848,
+  "lng": -122.1484
+},
+{
+  "name": "YouTube Tech USA",
+  "city": "San Bruno",
+  "country": "USA",
+  "roles": "Internship • Video / ML / Web",
+  "website": "https://www.youtube.com/jobs",
+  "type": "internship",
+  "lat": 37.6305,
+  "lng": -122.4111
+},
+{
+  "name": "Google Cloud USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Remote • Cloud / AI / Platform",
+  "website": "https://careers.google.com/",
+  "type": "remote",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Apple Vision Labs USA",
+  "city": "Cupertino",
+  "country": "USA",
+  "roles": "Full-Time • Vision / ML / AR / Embedded",
+  "website": "https://www.apple.com/careers/",
+  "type": "fulltime",
+  "lat": 37.3349,
+  "lng": -122.0090
+},
+{
+  "name": "Netflix Streaming USA",
+  "city": "Los Gatos",
+  "country": "USA",
+  "roles": "Internship • Media / ML / Compression",
+  "website": "https://jobs.netflix.com/",
+  "type": "internship",
+  "lat": 37.2358,
+  "lng": -121.9624
+},
+{
+  "name": "Prime Video USA",
+  "city": "Seattle",
+  "country": "USA",
+  "roles": "Remote • ML / Streaming / Backend",
+  "website": "https://www.amazon.jobs/",
+  "type": "remote",
+  "lat": 47.6062,
+  "lng": -122.3321
+},
+{
+  "name": "Hulu USA",
+  "city": "Santa Monica",
+  "country": "USA",
+  "roles": "Full-Time • Video / Ads / Platform",
+  "website": "https://www.hulu.com/jobs",
+  "type": "fulltime",
+  "lat": 34.0195,
+  "lng": -118.4912
+},
+{
+  "name": "Paramount Streaming USA",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Internship • Media / ML / Backend",
+  "website": "https://www.paramount.com/careers",
+  "type": "internship",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "Disney Streaming USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • OTT / Web / ML",
+  "website": "https://www.disneycareers.com/",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+}
+,
+{
+  "name": "SAP Labs USA",
+  "city": "Palo Alto",
+  "country": "USA",
+  "roles": "Full-Time • ERP / Backend / Cloud",
+  "website": "https://www.sap.com/about/careers.html",
+  "type": "fulltime",
+  "lat": 37.4419,
+  "lng": -122.1430
+},
+{
+  "name": "SiFive USA",
+  "city": "San Mateo",
+  "country": "USA",
+  "roles": "Remote • RISC-V / Chip / Embedded",
+  "website": "https://jobs.sifive.com/",
+  "type": "remote",
+  "lat": 37.5630,
+  "lng": -122.3255
+},
+{
+  "name": "Synopsys USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Internship • EDA / VLSI / Software",
+  "website": "https://www.synopsys.com/careers.html",
+  "type": "internship",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Cadence USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Full-Time • VLSI / Chip / Verification",
+  "website": "https://www.cadence.com/en_US/home/company/careers.html",
+  "type": "fulltime",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Lam Research USA",
+  "city": "Fremont",
+  "country": "USA",
+  "roles": "Internship • Semiconductor / Robotics / Software",
+  "website": "https://careers.lamresearch.com/",
+  "type": "internship",
+  "lat": 37.5483,
+  "lng": -121.9886
+},
+{
+  "name": "Applied Materials USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Remote • Semiconductor / ML / Automation",
+  "website": "https://www.appliedmaterials.com/us/en/careers.html",
+  "type": "remote",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Qualcomm USA",
+  "city": "San Diego",
+  "country": "USA",
+  "roles": "Full-Time • 5G / Embedded / Mobile",
+  "website": "https://careers.qualcomm.com/",
+  "type": "fulltime",
+  "lat": 32.7157,
+  "lng": -117.1611
+},
+{
+  "name": "Broadcom USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Internship • Networking / VLSI / Systems",
+  "website": "https://www.broadcom.com/company/careers",
+  "type": "internship",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Juniper Networks USA",
+  "city": "Sunnyvale",
+  "country": "USA",
+  "roles": "Remote • Systems / SDN / Cloud",
+  "website": "https://www.juniper.net/us/en/company/careers/",
+  "type": "remote",
+  "lat": 37.3688,
+  "lng": -122.0363
+},
+{
+  "name": "Hulu Tech USA",
+  "city": "Santa Monica",
+  "country": "USA",
+  "roles": "Full-Time • OTT / Streaming / Web",
+  "website": "https://www.hulu.com/jobs",
+  "type": "fulltime",
+  "lat": 34.0195,
+  "lng": -118.4912
+},
+{
+  "name": "Tubi USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Content / ML / Backend",
+  "website": "https://corporate.tubitv.com/careers/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Crunchyroll USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Anime Streaming / Web / Data",
+  "website": "https://www.crunchyroll.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Unity Gaming AI USA",
+  "city": "Bellevue",
+  "country": "USA",
+  "roles": "Full-Time • Physics / 3D Graphics / Simulation",
+  "website": "https://careers.unity.com/",
+  "type": "fulltime",
+  "lat": 47.6104,
+  "lng": -122.2007
+},
+{
+  "name": "Electronic Arts USA",
+  "city": "Redwood City",
+  "country": "USA",
+  "roles": "Internship • Gameplay / Animation / Tools",
+  "website": "https://www.ea.com/careers",
+  "type": "internship",
+  "lat": 37.4852,
+  "lng": -122.2364
+},
+{
+  "name": "Razer USA",
+  "city": "Irvine",
+  "country": "USA",
+  "roles": "Remote • Gaming Hardware / Software / Web",
+  "website": "https://www.razer.com/careers",
+  "type": "remote",
+  "lat": 33.6846,
+  "lng": -117.8265
+},
+{
+  "name": "Newegg USA",
+  "city": "City of Industry",
+  "country": "USA",
+  "roles": "Full-Time • Ecommerce / Systems / DevOps",
+  "website": "https://www.newegg.com/careers",
+  "type": "fulltime",
+  "lat": 34.0086,
+  "lng": -117.9089
+},
+{
+  "name": "GoDaddy USA",
+  "city": "Scottsdale",
+  "country": "USA",
+  "roles": "Internship • Hosting / Web / Security",
+  "website": "https://careers.godaddy.com/",
+  "type": "internship",
+  "lat": 33.4942,
+  "lng": -111.9261
+},
+{
+  "name": "Namecheap USA",
+  "city": "Phoenix",
+  "country": "USA",
+  "roles": "Remote • Domains / Web / Support",
+  "website": "https://www.namecheap.com/careers/",
+  "type": "remote",
+  "lat": 33.4484,
+  "lng": -112.0740
+},
+{
+  "name": "Digital Realty USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Full-Time • Data Center / Networks / Cloud",
+  "website": "https://www.digitalrealty.com/careers",
+  "type": "fulltime",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Equinix USA",
+  "city": "Redwood City",
+  "country": "USA",
+  "roles": "Internship • Cloud / Infrastructure / Networking",
+  "website": "https://careers.equinix.com/",
+  "type": "internship",
+  "lat": 37.4852,
+  "lng": -122.2364
+},
+{
+  "name": "Dropbox Paper USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Docs / Web / Full-Stack",
+  "website": "https://www.dropbox.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Fivetran USA",
+  "city": "Oakland",
+  "country": "USA",
+  "roles": "Full-Time • ETL / DB / Data Engineering",
+  "website": "https://www.fivetran.com/careers",
+  "type": "fulltime",
+  "lat": 37.8044,
+  "lng": -122.2711
+},
+{
+  "name": "Databricks USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • ML / Data / Platform",
+  "website": "https://www.databricks.com/company/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Anyscale USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Distributed AI / LLM / Cloud",
+  "website": "https://www.anyscale.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Scale AI USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Data Labeling / AI / ML Platform",
+  "website": "https://scale.com/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Hugging Face USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • NLP / LLM / Open-Source",
+  "website": "https://huggingface.co/company/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Weights & Biases USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • ML Ops / Tools / Research",
+  "website": "https://www.wandb.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Stability AI USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Diffusion / GenAI / Platform",
+  "website": "https://stability.ai/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "RunwayML USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • Video AI / ML / Web",
+  "website": "https://runwayml.com/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Midjourney USA",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Remote • GenAI / Web / Research",
+  "website": "https://www.midjourney.com/jobs",
+  "type": "remote",
+  "lat": 34.0522,
+  "lng": -118.2437
+}
+,
+{
+  "name": "Anthropic USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • LLM / AI Safety / Research",
+  "website": "https://www.anthropic.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "OpenAI Labs USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • GenAI / ML / Deep Learning",
+  "website": "https://openai.com/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Perplexity AI USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Search AI / Web / Backend",
+  "website": "https://www.perplexity.ai/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Mistral AI USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • LLM / GenAI / Platform",
+  "website": "https://www.mistral.ai/jobs",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "NVIDIA Omniverse USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Full-Time • GPU / Simulation / 3D",
+  "website": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+  "type": "fulltime",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Nuro USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Internship • Autonomous Vehicles / Robotics / ML",
+  "website": "https://www.nuro.ai/careers",
+  "type": "internship",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Zoox USA",
+  "city": "Foster City",
+  "country": "USA",
+  "roles": "Remote • Self-Driving / Robotics / Simulation",
+  "website": "https://zoox.com/careers",
+  "type": "remote",
+  "lat": 37.5585,
+  "lng": -122.2711
+},
+{
+  "name": "Rivian USA",
+  "city": "Plymouth",
+  "country": "USA",
+  "roles": "Full-Time • EV / Software / Embedded Systems",
+  "website": "https://rivian.com/careers",
+  "type": "fulltime",
+  "lat": 42.3714,
+  "lng": -83.4702
+},
+{
+  "name": "Tesla Autopilot USA",
+  "city": "Palo Alto",
+  "country": "USA",
+  "roles": "Internship • EV / ML / Self-Driving",
+  "website": "https://www.tesla.com/careers",
+  "type": "internship",
+  "lat": 37.4419,
+  "lng": -122.1430
+},
+{
+  "name": "SpaceX Starlink USA",
+  "city": "Hawthorne",
+  "country": "USA",
+  "roles": "Remote • Satellites / Space / Networking",
+  "website": "https://www.spacex.com/careers",
+  "type": "remote",
+  "lat": 33.9164,
+  "lng": -118.3526
+},
+{
+  "name": "Blue Origin USA",
+  "city": "Kent",
+  "country": "USA",
+  "roles": "Full-Time • Space Tech / Software / Systems",
+  "website": "https://www.blueorigin.com/careers",
+  "type": "fulltime",
+  "lat": 47.3809,
+  "lng": -122.2348
+},
+{
+  "name": "Lockheed Martin AI USA",
+  "city": "Bethesda",
+  "country": "USA",
+  "roles": "Internship • Defense / ML / Security",
+  "website": "https://www.lockheedmartinjobs.com",
+  "type": "internship",
+  "lat": 38.9807,
+  "lng": -77.1003
+},
+{
+  "name": "Raytheon Technologies USA",
+  "city": "Arlington",
+  "country": "USA",
+  "roles": "Remote • Aerospace / Cyber / Cloud",
+  "website": "https://careers.rtx.com/",
+  "type": "remote",
+  "lat": 38.8816,
+  "lng": -77.0910
+},
+{
+  "name": "Northrop Grumman USA",
+  "city": "Falls Church",
+  "country": "USA",
+  "roles": "Full-Time • Space / Robotics / Software",
+  "website": "https://www.northropgrumman.com/careers/",
+  "type": "fulltime",
+  "lat": 38.8823,
+  "lng": -77.1700
+},
+{
+  "name": "Intel Labs USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Internship • Chips / ML / Compilers",
+  "website": "https://jobs.intel.com/",
+  "type": "internship",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "AMD USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Remote • CPU / GPU / Software",
+  "website": "https://careers.amd.com/",
+  "type": "remote",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "ML Commons USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • AI Benchmarking / Research / Engineering",
+  "website": "https://mlcommons.org/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "AI21 Labs USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • NLP / LLM / Web",
+  "website": "https://www.ai21.com/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Walmart Global Tech USA",
+  "city": "Bentonville",
+  "country": "USA",
+  "roles": "Remote • Retail Tech / Cloud / Data",
+  "website": "https://careers.walmart.com/",
+  "type": "remote",
+  "lat": 36.3729,
+  "lng": -94.2088
+},
+{
+  "name": "Target Tech USA",
+  "city": "Minneapolis",
+  "country": "USA",
+  "roles": "Full-Time • Retail Systems / Backend / Data",
+  "website": "https://corporate.target.com/careers",
+  "type": "fulltime",
+  "lat": 44.9778,
+  "lng": -93.2650
+},
+{
+  "name": "Costco Digital USA",
+  "city": "Issaquah",
+  "country": "USA",
+  "roles": "Internship • Ecommerce / ERP / Data",
+  "website": "https://www.costco.com/jobs.html",
+  "type": "internship",
+  "lat": 47.5301,
+  "lng": -122.0326
+},
+{
+  "name": "HomeDepot Tech USA",
+  "city": "Atlanta",
+  "country": "USA",
+  "roles": "Remote • Retail Tech / Backend / Security",
+  "website": "https://careers.homedepot.com/",
+  "type": "remote",
+  "lat": 33.7488,
+  "lng": -84.3880
+},
+{
+  "name": "Boeing Digital USA",
+  "city": "Chicago",
+  "country": "USA",
+  "roles": "Full-Time • Aerospace / Simulation / Systems",
+  "website": "https://jobs.boeing.com/",
+  "type": "fulltime",
+  "lat": 41.8781,
+  "lng": -87.6298
+},
+{
+  "name": "General Motors AI USA",
+  "city": "Detroit",
+  "country": "USA",
+  "roles": "Remote • Automotive / Embedded / Simulation",
+  "website": "https://careers.gm.com/",
+  "type": "remote",
+  "lat": 42.3314,
+  "lng": -83.0458
+},
+{
+  "name": "Ford Blue Labs USA",
+  "city": "Dearborn",
+  "country": "USA",
+  "roles": "Internship • EV / Automotive / ML",
+  "website": "https://corporate.ford.com/careers.html",
+  "type": "internship",
+  "lat": 42.3223,
+  "lng": -83.1763
+},
+{
+  "name": "Visa Tech USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Payments / Security / Web",
+  "website": "https://usa.visa.com/careers.html",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Mastercard Tech USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Payments / Cyber / Cloud",
+  "website": "https://careers.mastercard.com/",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Stripe USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Payments / API / Web",
+  "website": "https://stripe.com/jobs",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Square USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Payments / POS / Mobile",
+  "website": "https://squareup.com/us/en/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+}
+,
+{
+  "name": "Uber Freight USA",
+  "city": "Chicago",
+  "country": "USA",
+  "roles": "Remote • Logistics / Transportation / Cloud",
+  "website": "https://www.uberfreight.com/careers",
+  "type": "remote",
+  "lat": 41.8781,
+  "lng": -87.6298
+},
+{
+  "name": "DoorDash Drive USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Delivery Tech / Platform / Backend",
+  "website": "https://careers.doordash.com/",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Instacart Labs USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Grocery Tech / Mapping / Backend",
+  "website": "https://instacart.careers/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Coinbase USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Crypto / Blockchain / Cloud Security",
+  "website": "https://www.coinbase.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Binance US",
+  "city": "Miami",
+  "country": "USA",
+  "roles": "Full-Time • Crypto / Finance / Security",
+  "website": "https://www.binance.us/careers",
+  "type": "fulltime",
+  "lat": 25.7617,
+  "lng": -80.1918
+},
+{
+  "name": "Robinhood USA",
+  "city": "Menlo Park",
+  "country": "USA",
+  "roles": "Internship • Fintech / Market / Web",
+  "website": "https://careers.robinhood.com/",
+  "type": "internship",
+  "lat": 37.4527,
+  "lng": -122.1815
+},
+{
+  "name": "SoFi USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Fintech / Loans / Backend",
+  "website": "https://www.sofi.com/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "NerdWallet USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Personal Finance / Web / Data",
+  "website": "https://www.nerdwallet.com/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "PayPal USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Internship • Payments / Security / Backend",
+  "website": "https://www.paypal.com/us/webapps/mpp/jobs",
+  "type": "internship",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Chime USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Neobank / Mobile / Cloud",
+  "website": "https://www.chime.com/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Square Banking USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Payments / Lending / Web",
+  "website": "https://squareup.com/us/en/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Toast USA",
+  "city": "Boston",
+  "country": "USA",
+  "roles": "Internship • Restaurant Tech / Backend / DevOps",
+  "website": "https://careers.toasttab.com/",
+  "type": "internship",
+  "lat": 42.3601,
+  "lng": -71.0589
+},
+{
+  "name": "Klaviyo USA",
+  "city": "Boston",
+  "country": "USA",
+  "roles": "Remote • Marketing Tech / Cloud / AI",
+  "website": "https://www.klaviyo.com/careers",
+  "type": "remote",
+  "lat": 42.3601,
+  "lng": -71.0589
+},
+{
+  "name": "HubSpot USA",
+  "city": "Cambridge",
+  "country": "USA",
+  "roles": "Full-Time • CRM / Cloud / SaaS",
+  "website": "https://www.hubspot.com/careers",
+  "type": "fulltime",
+  "lat": 42.3736,
+  "lng": -71.1097
+},
+{
+  "name": "ServiceNow USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Remote • SaaS / Cloud / Automation",
+  "website": "https://careers.servicenow.com/",
+  "type": "remote",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Snowflake USA",
+  "city": "Boise",
+  "country": "USA",
+  "roles": "Full-Time • Data Warehouse / Cloud / DB",
+  "website": "https://careers.snowflake.com/us/en",
+  "type": "fulltime",
+  "lat": 43.6150,
+  "lng": -116.2023
+},
+{
+  "name": "MongoDB USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • Databases / Cloud / Platform",
+  "website": "https://www.mongodb.com/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Elastic USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Remote • Search / Observability / Security",
+  "website": "https://jobs.elastic.co/",
+  "type": "remote",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Datadog USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Observability / Cloud / Monitoring",
+  "website": "https://www.datadoghq.com/careers/",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Snyk USA",
+  "city": "Boston",
+  "country": "USA",
+  "roles": "Internship • Cybersecurity / DevSecOps / Cloud",
+  "website": "https://snyk.io/careers/",
+  "type": "internship",
+  "lat": 42.3601,
+  "lng": -71.0589
+},
+{
+  "name": "CrowdStrike USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Remote • Cybersecurity / AI / Cloud",
+  "website": "https://www.crowdstrike.com/careers/",
+  "type": "remote",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Okta USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Identity / Security / Platform",
+  "website": "https://www.okta.com/company/careers/",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Zscaler USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Internship • Cybersecurity / Cloud / SASE",
+  "website": "https://www.zscaler.com/careers",
+  "type": "internship",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Palo Alto Networks USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Remote • Cybersecurity / Network / AI",
+  "website": "https://www.paloaltonetworks.com/company/careers",
+  "type": "remote",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Cisco Meraki USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Networking / Cloud / Devices",
+  "website": "https://meraki.cisco.com/jobs",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Arista Networks USA",
+  "city": "Santa Clara",
+  "country": "USA",
+  "roles": "Internship • Networking / Switches / Tools",
+  "website": "https://www.arista.com/en/company/careers",
+  "type": "internship",
+  "lat": 37.3541,
+  "lng": -121.9552
+},
+{
+  "name": "Fortinet USA",
+  "city": "Sunnyvale",
+  "country": "USA",
+  "roles": "Remote • Cybersecurity / Firewall / Embedded",
+  "website": "https://www.fortinet.com/corporate/careers",
+  "type": "remote",
+  "lat": 37.3688,
+  "lng": -122.0363
+},
+{
+  "name": "Atlassian USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Full-Time • Remote-first / SaaS / DevTools",
+  "website": "https://www.atlassian.com/company/careers",
+  "type": "fulltime",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Confluent USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Internship • Apache Kafka / Platform / Cloud",
+  "website": "https://www.confluent.io/careers/",
+  "type": "internship",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Terraform Labs USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • Blockchain / Cloud / Infra",
+  "website": "https://www.terraformlabs.com/careers",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Splunk USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Big Data / Cloud / Security",
+  "website": "https://www.splunk.com/en_us/careers.html",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "HashiCorp USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • DevOps / CLI / Tools",
+  "website": "https://www.hashicorp.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "New Relic USA",
+  "city": "Portland",
+  "country": "USA",
+  "roles": "Remote • Observability / Data / Dashboards",
+  "website": "https://newrelic.com/about/careers",
+  "type": "remote",
+  "lat": 45.5152,
+  "lng": -122.6784
+},
+{
+  "name": "DigitalOcean USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Hosting / Cloud / DevOps",
+  "website": "https://www.digitalocean.com/careers",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Linode USA",
+  "city": "Philadelphia",
+  "country": "USA",
+  "roles": "Internship • Cloud Hosting / Web / Support",
+  "website": "https://www.linode.com/careers/",
+  "type": "internship",
+  "lat": 39.9526,
+  "lng": -75.1652
+},
+{
+  "name": "Fastly USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • CDN / Edge / Networking",
+  "website": "https://www.fastly.com/about/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Cloudflare USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Full-Time • Networking / Security / Workers",
+  "website": "https://www.cloudflarecareers.com/",
+  "type": "fulltime",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Vercel USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Web / React / Edge",
+  "website": "https://vercel.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Netlify USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • JAMStack / Hosting / DevTools",
+  "website": "https://www.netlify.com/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Digital.ai USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Full-Time • DevOps / Enterprise / Analytics",
+  "website": "https://digital.ai/careers",
+  "type": "fulltime",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "GitLab USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Remote-first / CI-CD / DevTools",
+  "website": "https://about.gitlab.com/jobs/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "GitHub USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Open Source / DevTools / AI",
+  "website": "https://github.com/about/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+}
+,
+{
+  "name": "JetBrains USA",
+  "city": "Boston",
+  "country": "USA",
+  "roles": "Full-Time • IDE Development / Tools / JVM",
+  "website": "https://www.jetbrains.com/careers/",
+  "type": "fulltime",
+  "lat": 42.3601,
+  "lng": -71.0589
+},
+{
+  "name": "Red Hat USA",
+  "city": "Raleigh",
+  "country": "USA",
+  "roles": "Remote • Linux / Cloud / DevOps",
+  "website": "https://www.redhat.com/en/jobs",
+  "type": "remote",
+  "lat": 35.7796,
+  "lng": -78.6382
+},
+{
+  "name": "Canonical USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • Ubuntu / Open Source / Cloud",
+  "website": "https://canonical.com/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Slack USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Messaging / Web / Cloud",
+  "website": "https://slack.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Zoom USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Full-Time • Video / Streaming / Cloud",
+  "website": "https://careers.zoom.us/",
+  "type": "fulltime",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Notion USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Docs / Web / AI",
+  "website": "https://www.notion.so/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Miro USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Remote • Productivity / Collaboration / Web",
+  "website": "https://miro.com/careers/",
+  "type": "remote",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Figma USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Design / Web / Platform",
+  "website": "https://www.figma.com/careers/",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Canva USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Internship • Design / Web / Cloud",
+  "website": "https://www.canva.com/careers/",
+  "type": "internship",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Adobe USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Remote • Creative Cloud / PDF / AI",
+  "website": "https://www.adobe.com/careers.html",
+  "type": "remote",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "Autodesk USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • CAD / 3D / Engineering",
+  "website": "https://www.autodesk.com/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "PTC USA",
+  "city": "Boston",
+  "country": "USA",
+  "roles": "Internship • CAD / AR / Digital Twin",
+  "website": "https://www.ptc.com/en/careers",
+  "type": "internship",
+  "lat": 42.3601,
+  "lng": -71.0589
+},
+{
+  "name": "Blender Foundation USA",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Remote • 3D / GPU / Rendering",
+  "website": "https://www.blender.org/get-involved/jobs/",
+  "type": "remote",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "Epic Games USA",
+  "city": "Cary",
+  "country": "USA",
+  "roles": "Full-Time • Unreal Engine / Gaming / Tools",
+  "website": "https://www.epicgames.com/careers",
+  "type": "fulltime",
+  "lat": 35.7915,
+  "lng": -78.7811
+},
+{
+  "name": "Valve USA",
+  "city": "Bellevue",
+  "country": "USA",
+  "roles": "Internship • Steam / Gaming / VR",
+  "website": "https://www.valvesoftware.com/jobs",
+  "type": "internship",
+  "lat": 47.6104,
+  "lng": -122.2007
+},
+{
+  "name": "Riot Games USA",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Remote • League of Legends / Gaming / AI",
+  "website": "https://www.riotgames.com/en/work-with-us",
+  "type": "remote",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "Activision Blizzard USA",
+  "city": "Santa Monica",
+  "country": "USA",
+  "roles": "Full-Time • Gaming / Animation / Data",
+  "website": "https://careers.activision.com/",
+  "type": "fulltime",
+  "lat": 34.0195,
+  "lng": -118.4912
+},
+{
+  "name": "Twitch USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Streaming / ML / Web",
+  "website": "https://www.twitch.tv/jobs",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Unity AI USA",
+  "city": "Bellevue",
+  "country": "USA",
+  "roles": "Remote • 3D / Simulation / Game Engine",
+  "website": "https://careers.unity.com/",
+  "type": "remote",
+  "lat": 47.6104,
+  "lng": -122.2007
+},
+{
+  "name": "Netflix R&D USA",
+  "city": "Los Gatos",
+  "country": "USA",
+  "roles": "Full-Time • ML / Personalization / Video",
+  "website": "https://jobs.netflix.com/",
+  "type": "fulltime",
+  "lat": 37.2358,
+  "lng": -121.9624
+},
+{
+  "name": "Disney Streaming USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • OTT / ML / Web",
+  "website": "https://www.disneycareers.com/",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Apple Vision Pro Labs USA",
+  "city": "Cupertino",
+  "country": "USA",
+  "roles": "Remote • AR / VR / ML / Video",
+  "website": "https://www.apple.com/careers/",
+  "type": "remote",
+  "lat": 37.3349,
+  "lng": -122.0090
+},
+{
+  "name": "Google DeepMind USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Full-Time • AI / Robotics / Research",
+  "website": "https://deepmind.com/careers",
+  "type": "fulltime",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Microsoft AI Research USA",
+  "city": "Redmond",
+  "country": "USA",
+  "roles": "Internship • ML / NLP / LLM",
+  "website": "https://careers.microsoft.com/",
+  "type": "internship",
+  "lat": 47.6401,
+  "lng": -122.1295
+},
+{
+  "name": "Amazon AI Labs USA",
+  "city": "Seattle",
+  "country": "USA",
+  "roles": "Remote • LLM / Vision / Robotics",
+  "website": "https://www.amazon.jobs/",
+  "type": "remote",
+  "lat": 47.6062,
+  "lng": -122.3321
+},
+{
+  "name": "Meta AI USA",
+  "city": "Menlo Park",
+  "country": "USA",
+  "roles": "Full-Time • AI / AR / VR / LLM",
+  "website": "https://www.metacareers.com/",
+  "type": "fulltime",
+  "lat": 37.4848,
+  "lng": -122.1484
+},
+{
+  "name": "OpenAI Robotics USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Robotics / ML / Reinforcement Learning",
+  "website": "https://openai.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Anthropic Research USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • AI Safety / LLM / GenAI",
+  "website": "https://www.anthropic.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Midjourney ML USA",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Full-Time • Generative Art / Web / ML",
+  "website": "https://www.midjourney.com/jobs",
+  "type": "fulltime",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "Runway Gen-AI USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • Video GenAI / ML / Web",
+  "website": "https://runwayml.com/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Stability R&D USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Diffusion / GenAI / Research",
+  "website": "https://stability.ai/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+}
+,
+{
+  "name": "Pinterest USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Social / ML / Web",
+  "website": "https://www.pinterestcareers.com/",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Quora USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Remote • Q&A Platform / NLP / LLM",
+  "website": "https://www.quora.com/careers",
+  "type": "remote",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Reddit USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Communities / ML / Moderation",
+  "website": "https://www.redditinc.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "X (Twitter) USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Social / AI / Backend",
+  "website": "https://careers.twitter.com/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Snapchat USA",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Full-Time • AR / ML / Mobile",
+  "website": "https://www.snap.com/en-US/jobs",
+  "type": "fulltime",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "YouTube USA",
+  "city": "San Bruno",
+  "country": "USA",
+  "roles": "Internship • Video / ML / Moderation",
+  "website": "https://www.youtube.com/jobs",
+  "type": "internship",
+  "lat": 37.6305,
+  "lng": -122.4111
+},
+{
+  "name": "LinkedIn USA",
+  "city": "Sunnyvale",
+  "country": "USA",
+  "roles": "Remote • Social / Jobs / Cloud",
+  "website": "https://careers.linkedin.com/",
+  "type": "remote",
+  "lat": 37.3688,
+  "lng": -122.0363
+},
+{
+  "name": "Glassdoor USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • Job Platform / ML / Analytics",
+  "website": "https://www.glassdoor.com/about/job-openings.htm",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Indeed USA",
+  "city": "Austin",
+  "country": "USA",
+  "roles": "Internship • Jobs Platform / Search / AI",
+  "website": "https://www.indeed.jobs/",
+  "type": "internship",
+  "lat": 30.2672,
+  "lng": -97.7431
+},
+{
+  "name": "Monster USA",
+  "city": "Weston",
+  "country": "USA",
+  "roles": "Remote • Job Platform / Web / Search",
+  "website": "https://www.monster.com/career-advice/about/how-to-work-for-monster",
+  "type": "remote",
+  "lat": 42.3668,
+  "lng": -71.3030
+},
+{
+  "name": "Coursera USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Full-Time • EdTech / Web / Cloud",
+  "website": "https://www.coursera.org/about/careers",
+  "type": "fulltime",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Udemy USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Learning Platform / Web / Data",
+  "website": "https://about.udemy.com/careers/",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Khan Academy USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Remote • EdTech / Web / ML",
+  "website": "https://www.khanacademy.org/careers",
+  "type": "remote",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Pluralsight USA",
+  "city": "Draper",
+  "country": "USA",
+  "roles": "Full-Time • Learning Platform / Videos / Cloud",
+  "website": "https://www.pluralsight.com/careers",
+  "type": "fulltime",
+  "lat": 40.5247,
+  "lng": -111.8638
+},
+{
+  "name": "Duolingo USA",
+  "city": "Pittsburgh",
+  "country": "USA",
+  "roles": "Internship • EdTech / Gamification / ML",
+  "website": "https://careers.duolingo.com/",
+  "type": "internship",
+  "lat": 40.4406,
+  "lng": -79.9959
+},
+{
+  "name": "Grammarly USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • LLM / NLP / Text AI",
+  "website": "https://www.grammarly.com/jobs",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "DeepL Translate USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • NLP / Translation / ML",
+  "website": "https://www.deepl.com/en/careers",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "OpenCV AI USA",
+  "city": "Palo Alto",
+  "country": "USA",
+  "roles": "Internship • Computer Vision / Robotics / ML",
+  "website": "https://opencv.org/careers/",
+  "type": "internship",
+  "lat": 37.4419,
+  "lng": -122.1430
+},
+{
+  "name": "PyTorch Labs USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Remote • ML / Deep Learning / LLM",
+  "website": "https://pytorch.org/careers",
+  "type": "remote",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "TensorFlow AI USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Full-Time • ML / GPU / Research",
+  "website": "https://www.tensorflow.org/resources/jobs",
+  "type": "fulltime",
+  "lat": 37.3861,
+  "lng": -122.0839
+},
+{
+  "name": "Apache Foundation USA",
+  "city": "Forest Hill",
+  "country": "USA",
+  "roles": "Internship • Open Source / Web / Java",
+  "website": "https://www.apache.org/foundation/openofficeorg/job",
+  "type": "internship",
+  "lat": 39.5832,
+  "lng": -76.3866
+},
+{
+  "name": "Linux Foundation USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Open Source / Containers / Cloud",
+  "website": "https://www.linuxfoundation.org/about/careers/",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "OpenSSF USA",
+  "city": "Washington",
+  "country": "USA",
+  "roles": "Full-Time • Cybersecurity / Open Source / Infra",
+  "website": "https://openssf.org/careers",
+  "type": "fulltime",
+  "lat": 38.9072,
+  "lng": -77.0369
+},
+{
+  "name": "OpenTofu USA",
+  "city": "Miami",
+  "country": "USA",
+  "roles": "Remote • DevOps / Terraform Alternative / Infra",
+  "website": "https://opentofu.org/careers",
+  "type": "remote",
+  "lat": 25.7617,
+  "lng": -80.1918
+},
+{
+  "name": "MariaDB Labs USA",
+  "city": "Redwood City",
+  "country": "USA",
+  "roles": "Internship • Databases / Cloud / SQL",
+  "website": "https://mariadb.com/careers",
+  "type": "internship",
+  "lat": 37.4852,
+  "lng": -122.2364
+},
+{
+  "name": "CockroachDB USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Cloud / Distributed DB / Golang",
+  "website": "https://www.cockroachlabs.com/careers/",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "Supabase USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • Backend / Postgres / Cloud",
+  "website": "https://supabase.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "PlanetScale USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • MySQL / DB / Cloud",
+  "website": "https://planetscale.com/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Neon Database USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Internship • Postgres / Serverless / Cloud",
+  "website": "https://neon.tech/careers",
+  "type": "internship",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "LangChain AI USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Remote • LLM / Agents / Automation",
+  "website": "https://www.langchain.com/careers",
+  "type": "remote",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Cohere AI USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Full-Time • GenAI / LLM / NLP",
+  "website": "https://cohere.com/careers",
+  "type": "fulltime",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Together AI USA",
+  "city": "San Jose",
+  "country": "USA",
+  "roles": "Internship • LLM / Cloud / Infrastructure",
+  "website": "https://www.together.ai/careers",
+  "type": "internship",
+  "lat": 37.3382,
+  "lng": -121.8863
+},
+{
+  "name": "RunPod AI USA",
+  "city": "Los Angeles",
+  "country": "USA",
+  "roles": "Remote • GPU Cloud / AI / Infrastructure",
+  "website": "https://www.runpod.io/careers",
+  "type": "remote",
+  "lat": 34.0522,
+  "lng": -118.2437
+},
+{
+  "name": "Modal Labs USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Serverless / Cloud / Infra",
+  "website": "https://www.modal.com/careers",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "BentoML USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • AI Deployment / Backend / Tools",
+  "website": "https://www.bentoml.com/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "Weights & Biases Research USA",
+  "city": "San Diego",
+  "country": "USA",
+  "roles": "Remote • ML Ops / Dashboards / Cloud",
+  "website": "https://wandb.ai/careers",
+  "type": "remote",
+  "lat": 32.7157,
+  "lng": -117.1611
+},
+{
+  "name": "ElevenLabs USA",
+  "city": "New York",
+  "country": "USA",
+  "roles": "Full-Time • Speech AI / Voice Gen / Platform",
+  "website": "https://elevenlabs.io/careers",
+  "type": "fulltime",
+  "lat": 40.7128,
+  "lng": -74.0060
+},
+{
+  "name": "PlayHT AI USA",
+  "city": "San Francisco",
+  "country": "USA",
+  "roles": "Internship • Voice AI / Web / ML",
+  "website": "https://play.ht/careers",
+  "type": "internship",
+  "lat": 37.7749,
+  "lng": -122.4194
+},
+{
+  "name": "AI Dot Run USA",
+  "city": "Mountain View",
+  "country": "USA",
+  "roles": "Remote • LLM / Agents / Automation",
+  "website": "https://ai.run/careers",
+  "type": "remote",
+  "lat": 37.3861,
+  "lng": -122.0839
+}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
