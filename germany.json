@@ -1,0 +1,1691 @@
+[
+{
+  "name": "SAP Germany",
+  "city": "Walldorf",
+  "country": "Germany",
+  "roles": "Full-Time • ERP / Backend / Cloud",
+  "website": "https://www.sap.com/about/careers.html",
+  "type": "fulltime",
+  "lat": 49.3064,
+  "lng": 8.6415
+},
+{
+  "name": "Siemens Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Internship • AI / Embedded / Automation",
+  "website": "https://jobs.siemens.com/",
+  "type": "internship",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Bosch Global Germany",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "roles": "Remote • ML / Automotive / IoT",
+  "website": "https://www.bosch-career.com/",
+  "type": "remote",
+  "lat": 48.7758,
+  "lng": 9.1829
+},
+{
+  "name": "Mercedes-Benz Tech Germany",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "roles": "Full-Time • Autonomous Driving / Software",
+  "website": "https://group.mercedes-benz.com/careers/",
+  "type": "fulltime",
+  "lat": 48.7758,
+  "lng": 9.1829
+},
+{
+  "name": "BMW Digital Labs Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Internship • EV / Cloud / Data",
+  "website": "https://www.bmwgroup.jobs/",
+  "type": "internship",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Audi Tech Germany",
+  "city": "Ingolstadt",
+  "country": "Germany",
+  "roles": "Remote • Software / IoT / AI",
+  "website": "https://www.audi.com/en/careers.html",
+  "type": "remote",
+  "lat": 48.7665,
+  "lng": 11.4257
+},
+{
+  "name": "Volkswagen Software Germany",
+  "city": "Wolfsburg",
+  "country": "Germany",
+  "roles": "Full-Time • Automotive / Embedded / Cyber",
+  "website": "https://www.volkswagen-karriere.de/",
+  "type": "fulltime",
+  "lat": 52.4227,
+  "lng": 10.7865
+},
+{
+  "name": "Porsche Digital Germany",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "roles": "Internship • AR / VR / Cloud",
+  "website": "https://www.porsche.com/careers/",
+  "type": "internship",
+  "lat": 48.7758,
+  "lng": 9.1829
+},
+{
+  "name": "Adidas Tech Germany",
+  "city": "Herzogenaurach",
+  "country": "Germany",
+  "roles": "Remote • Ecommerce / Mobile / Cloud",
+  "website": "https://careers.adidas-group.com/",
+  "type": "remote",
+  "lat": 49.5706,
+  "lng": 10.8857
+},
+{
+  "name": "Zalando Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Ecommerce / Data / Web",
+  "website": "https://jobs.zalando.com/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Delivery Hero Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Food Tech / ML / Logistics",
+  "website": "https://careers.deliveryhero.com/",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "N26 Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Neobank / Fintech / Cloud",
+  "website": "https://n26.com/en-eu/careers",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Deutsche Telekom Tech Germany",
+  "city": "Bonn",
+  "country": "Germany",
+  "roles": "Full-Time • Telecom / AI / Networking",
+  "website": "https://www.telekom.com/en/careers",
+  "type": "fulltime",
+  "lat": 50.7374,
+  "lng": 7.0982
+},
+{
+  "name": "T-Systems Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Internship • Cloud / Cybersecurity / Infra",
+  "website": "https://www.t-systems.com/careers",
+  "type": "internship",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "Deutsche Bank Tech Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Remote • Fintech / Security / Cloud",
+  "website": "https://www.db.com/careers",
+  "type": "remote",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "Allianz Technology Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Full-Time • Insurance Tech / Data / AI",
+  "website": "https://careers.allianz.com/",
+  "type": "fulltime",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Infineon Technologies Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Internship • Semiconductors / Software / VLSI",
+  "website": "https://www.infineon.com/careers",
+  "type": "internship",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "ARM Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • Chip Architecture / Embedded / Tools",
+  "website": "https://careers.arm.com/",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Oracle Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Full-Time • Cloud / DB / Security",
+  "website": "https://www.oracle.com/de/careers/",
+  "type": "fulltime",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "IBM Germany",
+  "city": "Ehningen",
+  "country": "Germany",
+  "roles": "Internship • AI / Cloud / Consulting",
+  "website": "https://www.ibm.com/careers",
+  "type": "internship",
+  "lat": 48.6667,
+  "lng": 8.9333
+},
+{
+  "name": "Google Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • ML / Cloud / Web",
+  "website": "https://www.google.com/about/careers/",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Amazon Development Center Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • AWS / Web / Logistics",
+  "website": "https://www.amazon.jobs/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Microsoft Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Internship • Cloud / AI / Web",
+  "website": "https://careers.microsoft.com/",
+  "type": "internship",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Meta Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Remote • AR / VR / Web",
+  "website": "https://www.metacareers.com/",
+  "type": "remote",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Tesla Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Electric Vehicles / Robotics",
+  "website": "https://www.tesla.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "SpaceX Germany (R&D)",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Internship • Space Tech / Navigation / ML",
+  "website": "https://www.spacex.com/careers",
+  "type": "internship",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Tencent Europe Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Remote • Gaming / Cloud / Web",
+  "website": "https://careers.tencent.com/",
+  "type": "remote",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Sony AI Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • ML / Vision / Gaming",
+  "website": "https://ai.sony/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Roku Europe Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Internship • OTT / Streaming / Backend",
+  "website": "https://www.roku.com/jobs",
+  "type": "internship",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "IBM Quantum Germany",
+  "city": "Ehningen",
+  "country": "Germany",
+  "roles": "Remote • Quantum Computing / ML / Research",
+  "website": "https://www.ibm.com/careers",
+  "type": "remote",
+  "lat": 48.6667,
+  "lng": 8.9333
+},
+{
+  "name": "Bosch AI Germany",
+  "city": "Tübingen",
+  "country": "Germany",
+  "roles": "Full-Time • AI / CV / Autonomous Systems",
+  "website": "https://www.bosch-ai.com/careers",
+  "type": "fulltime",
+  "lat": 48.5216,
+  "lng": 9.0576
+},
+{
+  "name": "HCLTech Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Software / Cloud / Support",
+  "website": "https://www.hcltech.com/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Wipro Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Remote • IT Services / Cloud / Support",
+  "website": "https://careers.wipro.com/",
+  "type": "remote",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "Infosys Germany",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "roles": "Full-Time • Consulting / Cloud / Data",
+  "website": "https://www.infosys.com/careers",
+  "type": "fulltime",
+  "lat": 51.2277,
+  "lng": 6.7735
+},
+{
+  "name": "TCS Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Internship • Software / Cloud / Support",
+  "website": "https://www.tcs.com/careers",
+  "type": "internship",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "Capgemini Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Software / Consulting / AI",
+  "website": "https://www.capgemini.com/careers/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Accenture Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Full-Time • Consulting / AI / Cloud",
+  "website": "https://www.accenture.com/de-de/careers",
+  "type": "fulltime",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "EY Technology Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Internship • Data / Risk / Consulting",
+  "website": "https://www.ey.com/en_gl/careers",
+  "type": "internship",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Deloitte Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Cyber / ERP / Cloud",
+  "website": "https://www2.deloitte.com/global/en/pages/careers",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "KPMG Tech Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Full-Time • Analytics / Cyber / Cloud",
+  "website": "https://kpmg.com/de/en/careers",
+  "type": "fulltime",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "PwC Digital Germany",
+  "city": "Cologne",
+  "country": "Germany",
+  "roles": "Internship • Tech Consulting / Data / AI",
+  "website": "https://www.pwc.de/en/careers.html",
+  "type": "internship",
+  "lat": 50.9375,
+  "lng": 6.9603
+},
+{
+  "name": "Klarna Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Fintech / Payments / Web",
+  "website": "https://www.klarna.com/careers/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "SumUp Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Payments / Web / Mobile",
+  "website": "https://www.sumup.com/careers/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Check24 Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Internship • Insurance / Web / Analytics",
+  "website": "https://jobs.check24.de/",
+  "type": "internship",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Celonis Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • Process Mining / Data / SaaS",
+  "website": "https://www.celonis.com/careers/",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "TeamViewer Germany",
+  "city": "Göppingen",
+  "country": "Germany",
+  "roles": "Full-Time • Remote Support / Web / Cloud",
+  "website": "https://www.teamviewer.com/en/careers/",
+  "type": "fulltime",
+  "lat": 48.7055,
+  "lng": 9.6527
+},
+{
+  "name": "Bitly Europe Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Web / Analytics / Security",
+  "website": "https://bitly.com/pages/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+}
+,
+{
+  "name": "Scout24 Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • Ecommerce / Real-Estate / Web",
+  "website": "https://www.scout24.com/en/career",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "FlixBus Tech Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Full-Time • Travel / Logistics / Cloud",
+  "website": "https://www.flixbus.com/career",
+  "type": "fulltime",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "HelloFresh Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Food Tech / Data / ML",
+  "website": "https://careers.hellofresh.com/global/en",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Personio Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • HR Tech / SaaS / Cloud",
+  "website": "https://www.personio.com/about-us/careers/",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Mambu Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Banking SaaS / Cloud / Web",
+  "website": "https://www.mambu.com/about/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Trade Republic Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Fintech / Mobile / Data",
+  "website": "https://traderepublic.com/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Deezer Europe Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Music Streaming / AI / Web",
+  "website": "https://www.deezerjobs.com/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "SoundCloud Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Audio / ML / Streaming",
+  "website": "https://jobs.soundcloud.com/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "TeamSpeak Germany",
+  "city": "Trier",
+  "country": "Germany",
+  "roles": "Internship • Gaming / VoIP / WebRTC",
+  "website": "https://teamspeak.com/en/company/careers/",
+  "type": "internship",
+  "lat": 49.7499,
+  "lng": 6.6371
+},
+{
+  "name": "Gamigo Group Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Remote • Gaming / Publishing / Web",
+  "website": "https://corporate.gamigo.com/careers/",
+  "type": "remote",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Crytek Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Full-Time • Gaming / Graphics / C++",
+  "website": "https://www.crytek.com/careers",
+  "type": "fulltime",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "Innogames Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Internship • Gaming / Web / Backend",
+  "website": "https://www.innogames.com/company/careers/",
+  "type": "internship",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Blue Byte Germany (Ubisoft)",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "roles": "Remote • Game Dev / Graphics / QA",
+  "website": "https://www.ubisoft.com/en-us/company/careers",
+  "type": "remote",
+  "lat": 51.2277,
+  "lng": 6.7735
+},
+{
+  "name": "Epic Games (Germany Studio)",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Unreal Engine / ML / Metaverse",
+  "website": "https://www.epicgames.com/site/en-US/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Riot Games Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Esports / Server / Web",
+  "website": "https://www.riotgames.com/en/work-with-us",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "QuantCo Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • ML / Quant / LLM",
+  "website": "https://www.quantco.com/careers",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "NanoTemper Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Full-Time • BioTech / Software / ML",
+  "website": "https://www.nanotempertech.com/company/careers/",
+  "type": "fulltime",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "BioNTech Tech Germany",
+  "city": "Mainz",
+  "country": "Germany",
+  "roles": "Internship • Healthcare / ML / Robotics",
+  "website": "https://jobs.biontech.de/en",
+  "type": "internship",
+  "lat": 49.9929,
+  "lng": 8.2473
+},
+{
+  "name": "CureVac Germany",
+  "city": "Tübingen",
+  "country": "Germany",
+  "roles": "Remote • BioTech / ML / Research",
+  "website": "https://www.curevac.com/careers/",
+  "type": "remote",
+  "lat": 48.5216,
+  "lng": 9.0576
+},
+{
+  "name": "Brainlab Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Full-Time • MedTech / Software / CV",
+  "website": "https://www.brainlab.com/careers/",
+  "type": "fulltime",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Siemens Healthineers Germany",
+  "city": "Erlangen",
+  "country": "Germany",
+  "roles": "Internship • Medical AI / Imaging / Robotics",
+  "website": "https://jobs.siemens-healthineers.com/",
+  "type": "internship",
+  "lat": 49.5897,
+  "lng": 11.0037
+},
+{
+  "name": "Otto Group Tech Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Remote • Ecommerce / ML / Logistics",
+  "website": "https://ottogroup.com/en/career/",
+  "type": "remote",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "MediaMarkt Saturn Tech Germany",
+  "city": "Ingolstadt",
+  "country": "Germany",
+  "roles": "Full-Time • Retail Tech / Data / Web",
+  "website": "https://www.mediamarkt.com/careers",
+  "type": "fulltime",
+  "lat": 48.7665,
+  "lng": 11.4257
+},
+{
+  "name": "CheckMK Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Internship • Monitoring / Linux / DevOps",
+  "website": "https://checkmk.com/careers",
+  "type": "internship",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "SUSE Linux Germany",
+  "city": "Nuremberg",
+  "country": "Germany",
+  "roles": "Remote • Linux / Cloud / Containers",
+  "website": "https://www.suse.com/careers/",
+  "type": "remote",
+  "lat": 49.4521,
+  "lng": 11.0767
+},
+{
+  "name": "Nextcloud Germany",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "roles": "Full-Time • Open-Source / Web / Security",
+  "website": "https://nextcloud.com/careers/",
+  "type": "fulltime",
+  "lat": 48.7758,
+  "lng": 9.1829
+},
+{
+  "name": "ONLYOFFICE Germany",
+  "city": "Hanover",
+  "country": "Germany",
+  "roles": "Internship • Office Tools / JS / Cloud",
+  "website": "https://www.onlyoffice.com/careers.aspx",
+  "type": "internship",
+  "lat": 52.3759,
+  "lng": 9.7320
+},
+{
+  "name": "LibreOffice Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Open-Source / C++ / Web",
+  "website": "https://www.documentfoundation.org/jobs",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "OpenSUSE Germany",
+  "city": "Nuremberg",
+  "country": "Germany",
+  "roles": "Full-Time • Linux / Desktop / DevOps",
+  "website": "https://www.opensuse.org/jobs/",
+  "type": "fulltime",
+  "lat": 49.4521,
+  "lng": 11.0767
+},
+{
+  "name": "TYPO3 Germany",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "roles": "Internship • Web CMS / PHP / MySQL",
+  "website": "https://typo3.org/jobs",
+  "type": "internship",
+  "lat": 51.2277,
+  "lng": 6.7735
+},
+{
+  "name": "Bitwarden Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Remote • Security / Encryption / SaaS",
+  "website": "https://bitwarden.com/careers/",
+  "type": "remote",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Team Raycast Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Productivity / Desktop / Extensions",
+  "website": "https://www.raycast.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Notion Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Productivity / Collaboration / Web",
+  "website": "https://www.notion.so/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Linear Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • Project Management / Web / SaaS",
+  "website": "https://linear.app/careers",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Vercel Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Frontend / Frameworks / Cloud",
+  "website": "https://vercel.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Netlify Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Internship • Web Hosting / Jamstack / API",
+  "website": "https://www.netlify.com/careers/",
+  "type": "internship",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Sentry Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Observability / Logs / Web",
+  "website": "https://sentry.io/careers/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Postman Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • APIs / Testing / Cloud",
+  "website": "https://www.postman.com/company/careers/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Grafana Labs Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Dashboards / Monitoring / Cloud",
+  "website": "https://grafana.com/about/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Elastic Search Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Remote • Analytics / Search / Cloud",
+  "website": "https://www.elastic.co/about/careers",
+  "type": "remote",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "DataDog Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Logs / Monitoring / APM",
+  "website": "https://careers.datadoghq.com/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+}
+,
+{
+  "name": "Checkout.com Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Payments / Fintech / Web",
+  "website": "https://checkout.com/careers",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Stripe Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Full-Time • Fintech / APIs / Cloud",
+  "website": "https://stripe.com/jobs",
+  "type": "fulltime",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "PayPal Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Payments / Data / ML",
+  "website": "https://www.paypal.com/us/webapps/mpp/jobs",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Revolut Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Banking / Crypto / Cloud",
+  "website": "https://www.revolut.com/careers/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Coinbase Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Crypto / Blockchain / Web",
+  "website": "https://www.coinbase.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Binance Europe Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Internship • Crypto / Web / Security",
+  "website": "https://www.binance.com/en/careers",
+  "type": "internship",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "Kraken Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Remote • Crypto / ML / APIs",
+  "website": "https://jobs.lever.co/kraken",
+  "type": "remote",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Bitpanda Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Crypto / Trading / Web",
+  "website": "https://www.bitpanda.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Nuri Germany (Bitcoin Banking)",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Blockchain / Web / Mobile",
+  "website": "https://nuri.com/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Upvest Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Investment APIs / Fintech / Cloud",
+  "website": "https://upvest.co/careers/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "TradeLink Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Logistics Tech / Cloud / Web",
+  "website": "https://tradelink.co/careers/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Forto Logistics Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Internship • Supply Chain / SaaS / Data",
+  "website": "https://forto.com/careers",
+  "type": "internship",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Sennder Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Logistics / Web / Cloud",
+  "website": "https://sennder.com/careers",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Fortnite Anti-cheat EU Office",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Game Security / C++ / ML",
+  "website": "https://www.epicgames.com/site/en-US/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Discord Europe Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • VoIP / Backend / Web",
+  "website": "https://discord.com/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "TeamSpeak Studio Germany",
+  "city": "Trier",
+  "country": "Germany",
+  "roles": "Remote • Gaming / WebRTC / Servers",
+  "website": "https://teamspeak.com/en/company/careers/",
+  "type": "remote",
+  "lat": 49.7499,
+  "lng": 6.6371
+},
+{
+  "name": "GameForge Germany",
+  "city": "Karlsruhe",
+  "country": "Germany",
+  "roles": "Full-Time • MMORPG / Server / Web",
+  "website": "https://corporate.gameforge.com/jobs/",
+  "type": "fulltime",
+  "lat": 49.0069,
+  "lng": 8.4037
+},
+{
+  "name": "Travian Games Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Internship • Gaming / Backend / UI",
+  "website": "https://www.traviangames.com/careers/",
+  "type": "internship",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Wooga Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Mobile Games / Data / Web",
+  "website": "https://www.wooga.com/jobs",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "RocketChat Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Messaging / Open Source / Cloud",
+  "website": "https://rocket.chat/jobs",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Mattermost Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Team Chat / Web / Security",
+  "website": "https://mattermost.com/careers/",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Slack Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • Collaboration / Cloud / Messaging",
+  "website": "https://slack.com/careers",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Shopify Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Ecommerce SaaS / Web / Cloud",
+  "website": "https://www.shopify.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Bitrise Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Internship • Mobile CI / DevOps / Automation",
+  "website": "https://www.bitrise.io/careers",
+  "type": "internship",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "CircleCI Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • DevOps / CI/CD / Cloud",
+  "website": "https://circleci.com/careers/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "GitLab Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • DevOps / Git / Cloud",
+  "website": "https://about.gitlab.com/jobs/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Bitbucket Atlassian Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Internship • VCS / Web / Tools",
+  "website": "https://www.atlassian.com/company/careers",
+  "type": "internship",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Docker Europe Germany",
+  "city": "Cologne",
+  "country": "Germany",
+  "roles": "Remote • Containers / DevOps / Cloud",
+  "website": "https://www.docker.com/careers",
+  "type": "remote",
+  "lat": 50.9375,
+  "lng": 6.9603
+},
+{
+  "name": "Kubernetes Berlin Hub",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Cloud Native / Infra / ML",
+  "website": "https://kubernetes.io/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "HashiCorp EU Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Internship • DevOps / Infra / Cloud",
+  "website": "https://www.hashicorp.com/careers",
+  "type": "internship",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "NGINX Europe Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Web Servers / Security / Cloud",
+  "website": "https://www.f5.com/company/careers",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Cloudflare Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Full-Time • CDN / Security / Serverless",
+  "website": "https://www.cloudflare.com/careers/",
+  "type": "fulltime",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Fastly Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • CDN / Web / Security",
+  "website": "https://www.fastly.com/about/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Akamai Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Remote • CDN / Edge / Cloud",
+  "website": "https://www.akamai.com/careers",
+  "type": "remote",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "DigitalOcean Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Cloud / Servers / DevOps",
+  "website": "https://www.digitalocean.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Vultr Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Internship • Cloud / Web / Hosting",
+  "website": "https://www.vultr.com/careers/",
+  "type": "internship",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "Hetzner Online Germany",
+  "city": "Gunzenhausen",
+  "country": "Germany",
+  "roles": "Remote • Servers / Hosting / Cloud",
+  "website": "https://www.hetzner.com/career",
+  "type": "remote",
+  "lat": 49.1136,
+  "lng": 10.7490
+},
+{
+  "name": "OVHcloud Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Full-Time • Hosting / Infra / Web",
+  "website": "https://careers.ovhcloud.com/",
+  "type": "fulltime",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "Huawei Germany",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "roles": "Internship • Telecom / Cloud / AI",
+  "website": "https://career.huawei.com/",
+  "type": "internship",
+  "lat": 51.2277,
+  "lng": 6.7735
+},
+{
+  "name": "Nokia Germany",
+  "city": "Bonn",
+  "country": "Germany",
+  "roles": "Remote • Telecom / 5G / Cloud",
+  "website": "https://www.nokia.com/about-us/careers/",
+  "type": "remote",
+  "lat": 50.7374,
+  "lng": 7.0982
+}
+,
+{
+  "name": "Freeletics Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Full-Time • Fitness Tech / AI / Mobile",
+  "website": "https://www.freeletics.com/en/careers/",
+  "type": "fulltime",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Staffbase Germany",
+  "city": "Chemnitz",
+  "country": "Germany",
+  "roles": "Remote • Employee Apps / SaaS / Web",
+  "website": "https://staffbase.com/jobs/",
+  "type": "remote",
+  "lat": 50.8278,
+  "lng": 12.9214
+},
+{
+  "name": "Urban Sports Club Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Fitness / Mobile / Web",
+  "website": "https://urbansportsclub.com/en/company/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Blinkist Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Content Tech / Mobile / Web",
+  "website": "https://www.blinkist.com/en/careers",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Omio Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Travel / Booking / Cloud",
+  "website": "https://www.omio.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "GetYourGuide Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Travel / Web / ML",
+  "website": "https://careers.getyourguide.com/",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "HomeToGo Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Travel / SaaS / Web",
+  "website": "https://www.hometogo.com/careers/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Delivery Direct Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Full-Time • Food Tech / Data / Web",
+  "website": "https://deliverydirect.de/careers",
+  "type": "fulltime",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Tier Mobility Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • EV / IoT / Cloud",
+  "website": "https://www.tier.app/careers/",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Voi Technology Germany",
+  "city": "Dortmund",
+  "country": "Germany",
+  "roles": "Remote • EV / Traffic Tech / ML",
+  "website": "https://www.voi.com/careers",
+  "type": "remote",
+  "lat": 51.5136,
+  "lng": 7.4653
+},
+{
+  "name": "JOKR Tech Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Grocery Tech / Logistics / Data",
+  "website": "https://www.jokr.com/careers/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Gorillas Tech Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Quick-Commerce / Cloud / Data",
+  "website": "https://gorillas.io/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Flink Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Remote • Delivery Tech / Apps / Web",
+  "website": "https://careers.goflink.com/",
+  "type": "remote",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "Wayfair Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Furniture Ecommerce / Cloud",
+  "website": "https://www.aboutwayfair.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Otto Marketplace Tech Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Internship • ML / Web / Logistics",
+  "website": "https://ottogroup.com/en/career/",
+  "type": "internship",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "BASF Digital Hub Germany",
+  "city": "Ludwigshafen",
+  "country": "Germany",
+  "roles": "Remote • Chemicals Tech / ML / Cloud",
+  "website": "https://www.basf.com/global/en/careers.html",
+  "type": "remote",
+  "lat": 49.4795,
+  "lng": 8.4350
+},
+{
+  "name": "Henkel Digital Germany",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "roles": "Full-Time • Consumer SaaS / Cloud / Mobile",
+  "website": "https://www.henkel.com/careers",
+  "type": "fulltime",
+  "lat": 51.2277,
+  "lng": 6.7735
+},
+{
+  "name": "HelloFresh Tech Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Meal Kits / Data / AI",
+  "website": "https://careers.hellofresh.com/",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "SumUp Fintech Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Payments / Mobile / Web",
+  "website": "https://www.sumup.com/careers/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Trade Republic Engineering Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Fintech / Data / Mobile",
+  "website": "https://traderepublic.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "DocMorris Tech Germany",
+  "city": "Aachen",
+  "country": "Germany",
+  "roles": "Internship • MedTech / Ecommerce / Web",
+  "website": "https://corporate.docmorris.com/en/careers",
+  "type": "internship",
+  "lat": 50.7753,
+  "lng": 6.0839
+},
+{
+  "name": "Clue Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Health Tech / ML / Mobile",
+  "website": "https://helloclue.com/jobs",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Ada Health Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • AI Diagnostics / Healthcare",
+  "website": "https://ada.com/careers/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Doctolib Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • Medical SaaS / Cloud",
+  "website": "https://careers.doctolib.com/",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Sedo Germany",
+  "city": "Cologne",
+  "country": "Germany",
+  "roles": "Remote • Domains Marketplace / Web / Cloud",
+  "website": "https://sedo.com/jobs",
+  "type": "remote",
+  "lat": 50.9375,
+  "lng": 6.9603
+},
+{
+  "name": "Billwerk+ Germany",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "roles": "Full-Time • Subscription Platforms / SaaS",
+  "website": "https://billwerk.plus/careers/",
+  "type": "fulltime",
+  "lat": 50.1109,
+  "lng": 8.6821
+},
+{
+  "name": "DeepL AI Germany",
+  "city": "Cologne",
+  "country": "Germany",
+  "roles": "Internship • NLP / Translation / ML",
+  "website": "https://www.deepl.com/en/careers/",
+  "type": "internship",
+  "lat": 50.9375,
+  "lng": 6.9603
+},
+{
+  "name": "Celonis Process Mining Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • Data / Visualization / AI",
+  "website": "https://www.celonis.com/careers/",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "HelloBetter Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Mental Health Tech / ML",
+  "website": "https://hellobetter.de/jobs",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Babbel Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • EdTech / Languages / ML",
+  "website": "https://www.babbel.com/en/jobs",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "StudySmarter Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • EdTech / Web / Cloud",
+  "website": "https://studysmarter.de/jobs",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "HeyJobs Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • HR Tech / Recruiting / AI",
+  "website": "https://www.heyjobs.co/en",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Joblift Germany",
+  "city": "Hamburg",
+  "country": "Germany",
+  "roles": "Internship • Job Search / Analytics",
+  "website": "https://joblift.careers",
+  "type": "internship",
+  "lat": 53.5511,
+  "lng": 9.9937
+},
+{
+  "name": "StepStone Germany",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "roles": "Remote • Job Platform / ML / Cloud",
+  "website": "https://www.stepstone.com/careers",
+  "type": "remote",
+  "lat": 51.2277,
+  "lng": 6.7735
+},
+{
+  "name": "Pitch Software Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Presentations / Web / SaaS",
+  "website": "https://pitch.com/careers",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Miro Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Internship • Whiteboard SaaS / Cloud",
+  "website": "https://miro.com/careers/",
+  "type": "internship",
+  "lat": 48.1351,
+  "lng": 11.5820
+},
+{
+  "name": "Toggl Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Remote • Time Tracking / Tools / Web",
+  "website": "https://toggl.com/jobs/",
+  "type": "remote",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Calendly Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Full-Time • Scheduling / SaaS / Cloud",
+  "website": "https://careers.calendly.com/",
+  "type": "fulltime",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "HubSpot Germany",
+  "city": "Berlin",
+  "country": "Germany",
+  "roles": "Internship • CRM / Marketing / Web",
+  "website": "https://www.hubspot.com/careers",
+  "type": "internship",
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "name": "Salesforce Germany",
+  "city": "Munich",
+  "country": "Germany",
+  "roles": "Remote • CRM / Cloud / AI",
+  "website": "https://www.salesforce.com/company/careers/",
+  "type": "remote",
+  "lat": 48.1351,
+  "lng": 11.5820
+}
+]
+
+
+
+
+
+
