@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Edit Project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        /* Background */
+        body {
+            margin: 0;
+            padding: 0;
+            background: #f2f2f2;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        /* White Card */
+        .container {
+            width: 100%;
+            max-width: 420px;
+            background: white;
+            padding: 22px;
+            border-radius: 14px;
+            box-shadow: 0 6px 25px rgba(0,0,0,0.15);
+            box-sizing: border-box;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 18px;
+            color: black;
+            font-size: 22px;
+        }
+
+        /* Input Group Spacing */
+        .input-group {
+            margin-bottom: 18px;
+        }
+
+        /* Labels */
+        .input-group label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+            font-size: 15px;
+            color: black;
+        }
+
+        /* Yellow Input Boxes */
+        .input-group input,
+        .input-group textarea {
+            width: 100%;
+            padding: 12px;
+            background: #fff5a6;           /* Yellow box */
+            border: 2px solid #e6d36b;     /* Dark-yellow border */
+            border-radius: 10px;
+            font-size: 15px;
+            outline: none;
+            box-sizing: border-box;
+        }
+
+        textarea {
+            height: 90px;
+            resize: none;
+        }
+
+        /* Image Preview */
+        img {
+            width: 100%;
+            border-radius: 10px;
+            border: 2px solid #e6d36b;
+            margin-top: 8px;
+        }
+
+        /* Update Button */
+        #updateBtn {
+            width: 100%;
+            padding: 12px;
+            background: black;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            margin-top: 15px;
+        }
+
+        #updateBtn:hover {
+            background: #333;
+        }
+       .close-btn {
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    z-index: 10;
+}
+.container {
+    position: relative;  /* ← THIS IS THE FIX */
+}
+
+
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="close-btn" onclick="goBack()">✖</div>
+        <h2>Edit Project</h2>
+
+        <div class="input-group">
+            <label>Project Name</label>
+            <input id="p_name" placeholder="Enter project name">
+        </div>
+
+        <div class="input-group">
+            <label>Description</label>
+            <textarea id="p_desc" placeholder="Write project description..."></textarea>
+        </div>
+
+        <div class="input-group">
+            <label>Project Link</label>
+            <input id="p_link" placeholder="Paste project link">
+        </div>
+
+        <div class="input-group">
+            <label>Change Image (optional)</label>
+            <input type="file" id="p_image">
+        </div>
+
+        <img id="previewImg" style="display:none;">
+
+        <button id="updateBtn">Update Project</button>
+        <!-- Close / Back Icon -->
+
+    </div>
+
+    <!-- Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-auth-compat.js"></script>
+    <script src="js/firebase.js"></script>
+
+    <!-- Supabase -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="js/supabase.js"></script>
+
+    <script>
+        const projectId = new URLSearchParams(window.location.search).get("id");
+
+        const nameInput = document.getElementById("p_name");
+        const descInput = document.getElementById("p_desc");
+        const imgInput = document.getElementById("p_image");
+        const linkInput = document.getElementById("p_link");
+        const previewImg = document.getElementById("previewImg");
+
+        /* Load Project */
+        auth.onAuthStateChanged(async user => {
+            if (!user) return window.location.href = "login.html";
+
+            const { data } = await supabaseClient
+                .from("projects")
+                .select("*")
+                .eq("id", projectId)
+                .single();
+
+            if (!data) return alert("Project not found!");
+
+            nameInput.value = data.name;
+            descInput.value = data.description;
+            linkInput.value = data.project_link;
+
+            previewImg.src = data.image_url;
+            previewImg.style.display = "block";
+        });
+
+        /* Update */
+        document.getElementById("updateBtn").onclick = async () => {
+            const user = auth.currentUser;
+            if (!user) return;
+
+            let name = nameInput.value;
+            let desc = descInput.value;
+            let link = linkInput.value;
+            let newFile = imgInput.files[0];
+
+            if (!name || !desc || !link)
+                return alert("Please fill all fields!");
+
+            let image_url = previewImg.src;
+
+            if (newFile) {
+                let fileName = `${user.uid}-${Date.now()}-${newFile.name}`;
+
+                await supabaseClient
+                    .storage.from("project-images")
+                    .upload(`uploads/${fileName}`, newFile);
+
+                const { data: publicUrl } = supabaseClient
+                    .storage.from("project-images")
+                    .getPublicUrl(`uploads/${fileName}`);
+
+                image_url = publicUrl.publicUrl;
+            }
+
+            await supabaseClient
+                .from("projects")
+                .update({
+                    name,
+                    description: desc,
+                    project_link: link,
+                    image_url
+                })
+                .eq("id", projectId);
+
+            alert("Project Updated Successfully!");
+            window.location.href = "index.html?page=projects";
+        };
+        function goBack() {
+    window.location.href = "index.html?page=projects";
+}
+
+    </script>
+
+</body>
+
+</html>
